@@ -1,2 +1,0 @@
-# ivoveteranen
-IVO Veteranen Website

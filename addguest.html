@@ -1,0 +1,48 @@
+<html><head>
+<title>Mijn gastenboek invullen</title>
+</head>
+
+<body style="background-color: rgb(255, 255, 255);">
+<h1>Mijn @Home gastenboek invullen</h1>
+<p>Vul de volgende gegevens in om ze aan het gastenboek toe te voegen. U hoeft 
+alleen uw naam en opmerkingen in het formulier in te vullen. Bedankt!</p>
+
+<hr><!--begin formulier-->
+
+<form action="/cgi-bin/guestbook.pl" method="post">
+    <table border="0" style="width: 400px;">
+        <tbody><tr>
+            <td>Uw naam:</td>
+            <td>
+<input type="text" size="60" name="realname"></td>
+      </tr>
+      <tr>
+        <td>Homepage:</td>
+        <td><input type="text" size="60" name="url"></td>
+      </tr>
+<!-- vraag liever niet om een mail-adres - dat levert maar spam op
+     omdat mail-adressen ook vanaf websites worden verzameld om
+     spam naar te sturen.
+      <tr>
+        <td>E-mail: </td>
+        <td><input type="text" size="60" name="username"></td>
+      </tr> -->
+      <tr>
+        <td>Plaats: </td>
+        <td><input type="text" size="25" name="city">
+            Land: <input type="text" size="25" name="country" value="Nederland"></td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">Opmerkingen: </td>
+        <td><textarea name="comments" rows="9" cols="60"></textarea></td>
+      </tr>
+      <tr>
+        <td><br>
+</td><td><input type="submit" value="Plaats in gastenboek"></td>
+      </tr>
+    </tbody>
+  </table>
+</form>
+<!--eind formulier-->
+
+</body></html>

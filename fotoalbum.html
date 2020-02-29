@@ -1,0 +1,57 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>IVO Veteranen</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+    <meta name="description" content="Alles over de IVO Veteranen">
+    <meta name="keywords" content="IVO Veteranen,IVO,Veteranen,RKSVIVOvoetbal,vereniging,Zuid II,KNVB">
+
+    <script type="text/javascript" language="javascript" src="Scripts/bluebird.min.js"></script>
+    <script type="text/javascript" language="javascript" src="Scripts/global.js"></script>
+    <script type="text/javascript" language="javascript" src="Scripts/fotoalbum.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="Styles/global.css" />
+    <link rel="stylesheet" type="text/css" href="Styles/fotoalbum.css" />
+
+</head>
+<body style="background-color: transparent;"  >
+    <div id="divBGSound" style="display: none;">
+        <object id="embedBGSound" 
+                classid="clsid:22D6F312-B0F6-11D0-94AB-0080C74C7E95" >
+                <param name="FileName" value="Audio/KoningVoetbal.wma" />
+                <param name="autostart" value="true" />
+                <param name="loop" value="true" />
+        </object>
+    </div>
+    <div>
+        <center>
+            <table style="width: 720px; table-layout: fixed;" >
+                <tr>
+                    <td width="29px" >
+                        <img id="imgVolumeControl" name="imgVolumeControl" src="Images/volume_control_off.jpg" onclick="return imgVolumeControl_onclick()" onmouseover="this.style.cursor='hand'" onmouseout="this.style.cursor='default'" title="Muziek uit" alt=""/>
+                    </td>
+                    <td style="width: 250px;" title="Selecteer album">
+                        <select id="selAlbum" onchange="Album_OnChange();" style="width: 250px;" title="Selecteer album" >
+                        </select>
+                    </td>
+                    <td id="tdFotoNavigator" style="display: none;" >
+                        <img alt="" id="imgPrevious" src="Images/Left.gif"  onmouseover="if(curFotoNumber > 1) this.className='mouse';" onmouseout="this.className='nomouse'" onclick="ShowPreviousImage();" />
+                        <input id="txtMessage" type="button"  value="Foto" style="border-left-color: blue; border-bottom-color: blue; border-top-style: solid; border-top-color: blue; border-right-style: solid; border-left-style: solid; border-right-color: blue; border-bottom-style: solid" />
+                        <img alt="" id="imgNext" src="Images/Right.gif" onmouseover="if(curFotoNumber < maxFotoNumber) this.className='mouse';" onmouseout="this.className='nomouse'"  onclick="ShowNextImage();" />
+                        <input id="btnStartStopShow" type="button" value="Start slideshow" onclick="StartSlideShow();"  />
+                    </td>
+                </tr>
+            </table>
+            <table style="width: 720px;" >
+                <tr>
+                </tr>
+                <tr>
+                    <td id="tdFotoalbum" style="display: none;">
+                        <img alt="" id="imgFotoalbum" name="ImgFotoalbum" src="" />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </div>
+</body>
+</html>

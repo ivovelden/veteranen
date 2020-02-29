@@ -1,0 +1,148 @@
+﻿body, input, select, textarea, div, td
+{
+	-ms-scrollbar-3dlight-color:    #ff9966;
+	-ms-scrollbar-arrow-color:		#ff7f50;
+	-ms-scrollbar-base-color:		#ff3333;
+	-ms-scrollbar-darkshadow-color:	#ff9966;
+	-ms-scrollbar-face-color:		red;
+	-ms-scrollbar-highlight-color:	#ff3333;
+	-ms-scrollbar-shadow-color:		#ff3333;
+
+	scrollbar-3dlight-color:		#ff9966;
+	scrollbar-arrow-color:			#ff7f50;
+	scrollbar-base-color:			#ff3333;
+	scrollbar-darkshadow-color:		#ff9966;
+	scrollbar-face-color:			red;
+	scrollbar-highlight-color:		#ff3333;
+	scrollbar-shadow-color:			#ff3333;
+}
+
+
+/* Scroll bar for safari & chrome*/
+::-webkit-scrollbar
+{
+    width: 15px;
+    height: 15px;
+}
+::-webkit-scrollbar-button:start:decrement, ::-webkit-scrollbar-button:end:increment
+{
+    background-color: #ff7f50;
+    border: 1px solid #ff9966;
+}
+::-webkit-scrollbar-button:horizontal:start:decrement, ::-webkit-scrollbar-button:horizontal:end:increment
+{
+    background-color: #ff7f50;
+    border: 1px solid #ff9966;
+}
+::-webkit-scrollbar-track-piece
+{
+    background-color: red;
+}
+::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal
+{
+    background-color: #ff3333;
+    border: 1px solid #ff9966;
+    -webkit-border-radius: 0px;
+}
+/* End - Scroll bar for safari & chrome*/
+
+a:link, a:visited, a:active
+{
+	color:				#CCCCCC; 
+} 
+a.ablue:link, a.ablue:visited, a.ablue:active
+{
+	color:				#0000FF; 
+} 
+
+a:hover
+{
+	color:				#FFFFFF; 
+}
+a.ablue:hover
+{
+	color:				#00D4FF; 
+}
+
+table.data
+{
+	background:			#E0E0E0;
+	border:				1px;
+	border-collapse:	collapse;  
+	table-layout:		fixed;
+	width:				720px;
+}
+
+table.programma
+{
+	background:			#E0E0E0;
+	border:				0px;
+	border-left:		solid windowtext 1.0pt; 
+	border-collapse:	collapse;  
+	table-layout:		fixed;
+	width:				720px;
+}
+
+table.textonly
+{
+	background:			#E0E0E0;
+	border:				0px;
+	border-collapse:	collapse;  
+	table-layout:		fixed;
+	width:				720px;
+}
+
+tr.header
+{
+	background:			#7B7B7B;
+	height:				19.85pt;
+}
+
+tr.data
+{
+	height:				19.85pt;
+}
+
+td.header
+{
+	border:				solid windowtext 1.0pt;
+	text-decoration:	underline;
+	font-weight:		bold;
+	padding-left:		5.4pt;
+	padding-right:		5.4pt;
+}
+
+td.data
+{
+	border:				solid windowtext 1.0pt;
+	padding-left:		5.4pt;
+	padding-right:		5.4pt;
+}
+
+td.empty
+{
+	border:				none;
+	padding-left:		5.4pt;
+	padding-right:		5.4pt;
+}
+
+td.emptyrightborder
+{
+	border:				none;
+	border-right:		solid windowtext 1.0pt;
+	padding-left:		5.4pt;
+	padding-right:		5.4pt;
+}
+
+td.textonly
+{
+	padding-left:		3pt;
+	padding-right:		3pt;
+}
+
+td.textonlyrightborder
+{
+	border-right:		solid windowtext 1.0pt;
+	padding-left:		3pt;
+	padding-right:		3pt;
+}

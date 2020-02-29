@@ -1,0 +1,61 @@
+﻿<Programma>
+
+  <Wedstrijden tekst="Voorjaar 2020" doc="IVO-Wandelvoetbal Voorjaar 2020.pdf">
+    <Wedstrijd datum="2020-2-29"  marquee="0" afgelast="0"                wedstrijd="Trainen"                   aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-3-7"   marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo"           aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-3-21"  marquee="0" afgelast="0"                wedstrijd="IVO - Merselo"             aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-4-11"  marquee="0" afgelast="0"                wedstrijd="RKMSV-B - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-4-18"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-5-2"   marquee="0" afgelast="0"                wedstrijd="Resia/DEV - IVO"           aanvang="16:00"   vertrek="15:15"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-5-16"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-5-27"  marquee="0" afgelast="0"                wedstrijd="Toernooi VVV-Venlo"        aanvang="10:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-5-30"  marquee="0" afgelast="0"                wedstrijd="RKMSV-A - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2020" >
+    <Wedstrijd datum="2020-8-28"  wedstrijd="Toernooi RKDEV" />
+    <Wedstrijd datum="" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2019">
+    <Wedstrijd datum="2019-8-31"  wedstrijd="Trainen"                   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2019-9-7"   wedstrijd="Melderslo - IVO"           uitslag="6 - 10"  verslag="0" />
+    <Wedstrijd datum="2019-9-20"  wedstrijd="Merselo - IVO"             uitslag="3 - 12"  verslag="0" />
+    <Wedstrijd datum="2019-10-12" wedstrijd="IVO - RKMSV-B"             uitslag="6 - 2"   verslag="0" />
+    <Wedstrijd datum="2019-10-19" wedstrijd="Wittenhorst - IVO"         uitslag="3 - 4"   verslag="0" />
+    <Wedstrijd datum="2019-11-2"  wedstrijd="IVO - Resia/DEV"           uitslag="12 - 5"  verslag="0" />
+    <Wedstrijd datum="2019-11-9"  wedstrijd="Merefeldia - IVO"          uitslag="5 - 7"   verslag="0" />
+    <Wedstrijd datum="2019-11-30" wedstrijd="IVO - RKMSV-A"             uitslag="8 - 4"   verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2019">
+    <Wedstrijd datum="2019-2-23"  wedstrijd="Trainen"                   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2019-3-9"   wedstrijd="Resia - IVO"               uitslag="11 - 11" verslag="0" />
+    <Wedstrijd datum="2019-3-23"  wedstrijd="IVO - Wittenhorst"         uitslag="10 - 7"  verslag="0" />
+    <Wedstrijd datum="2019-4-5"   wedstrijd="Merselo - IVO"             uitslag="4 - 7"   verslag="0" />
+    <Wedstrijd datum="2019-4-13"  wedstrijd="Merefeldia - IVO"          uitslag="8 - 10"  verslag="0" />
+    <Wedstrijd datum="2019-4-20"  wedstrijd="IVO - RKMSV-A"             uitslag="2 - 3"   verslag="0" />
+    <Wedstrijd datum="2019-5-11"  wedstrijd="RKMSV-B - IVO"             uitslag="5 - 11"  verslag="0" />
+    <Wedstrijd datum="2019-5-25"  wedstrijd="IVO - Melderslo"           uitslag="7 - 6"   verslag="0" />
+    <Wedstrijd datum="2019-5-29"  wedstrijd="Toernooi VVV-Venlo"        uitslag=""        verslag="0" />
+    <Wedstrijd datum="2019-6-1"   wedstrijd="Toernooi Wittenhorst"      uitslag=""        verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2018">
+    <Wedstrijd datum="2018-9-8"   wedstrijd="Wittenhorst - IVO"         uitslag="3 - 8"   verslag="0" />
+    <Wedstrijd datum="2018-9-29"  wedstrijd="Melderslo - IVO"           uitslag="5 - 8"   verslag="0" />
+    <Wedstrijd datum="2018-10-6"  wedstrijd="VRIJ"                      uitslag=""        verslag="0" />
+    <Wedstrijd datum="2018-10-12" wedstrijd="Toernooi Melderslo"        uitslag=""        verslag="0" />
+    <Wedstrijd datum="2018-10-27" wedstrijd="Melderslo - IVO"           uitslag="6 - 7"   verslag="0" />
+    <Wedstrijd datum="2018-11-3"  wedstrijd="Resia - IVO"               uitslag="2 - 7"   verslag="0" />
+    <Wedstrijd datum="2018-11-17" wedstrijd="RKMSV - IVO"               uitslag="6 - 13"  verslag="0" />
+    <Wedstrijd datum="2018-12-1"  wedstrijd="IVO - Wittenhorst"         uitslag="10 - 4"  verslag="0" />
+    <Wedstrijd datum="2018-12-15" wedstrijd="Merefeldia - IVO"          uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+</Programma>

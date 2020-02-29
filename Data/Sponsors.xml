@@ -1,0 +1,18 @@
+﻿<Sponsors>
+
+  <Sponsor naam="Crommentuyn Stukadoorwerken BV" 
+           telefoon="077-4722901"
+           website=""
+           logo="Crommentuynbv.png"/>
+
+  <Sponsor naam="Tom Teeling Fysiotherapie"
+           telefoon="06-28108402"
+           website=""
+           logo="TomTeeling.png"/>
+
+  <Sponsor naam="LUX advies velden"
+           telefoon="06-10111282"
+           website="http://www.luxadvies.nl"
+           logo="LuxAdvies.jpg"/>
+
+</Sponsors>

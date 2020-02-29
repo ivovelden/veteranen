@@ -1,0 +1,40 @@
+<Mededelingen>
+
+<!--
+  <Mededeling marquee="1" datumvan="2014-06-01" datumtot="2014-06-22"
+              tekst="Zaterdag 21 juni - Feestdag IVO Veteranen"/>
+
+  <Mededeling marquee="2" datumvan="2014-06-01" datumtot="2014-06-22"
+              tekst="Zaterdag 21 juni - Feestdag IVO Veteranen #\n# #\n# Locatie: Feestzaal Schattefor #\n# Aanvang: 15:30 uur"/>
+
+  <Mededeling marquee="1" datumvan="2018-06-03" datumtot="2018-06-17"
+              tekst="Zaterdag 16 juni - WANDELVOETBAL 'Walking Football' DEMONSTRATIEWEDSTRIJD" />
+
+  <Mededeling marquee="0" datumvan="2018-06-03" datumtot="2018-06-17"
+              tekst="WANDELVOETBAL 'Walking Football' DEMONSTRATIEWEDSTRIJD #\n# Aanvang: 16:00 uur
+      			  &lt;div style=&quot;font-size: 20px; padding-top: 15px; padding-left: 10px;&quot; &gt; 
+                   Zaterdag 16 juni vindt er tijdens de slotdag van SV Velden een wandelvoetbal demonstratiewedstrijd plaats op ons sportpark; aanvang 16.00 uur. Een team van Wittenhorst en Melderslo beginnen met een 10 minuten durende demonstratie en daarna worden de wandelvoetballers van IVO verdeeld over beide teams en mogen ze zelf ervaren wat 'Walking Football' is.
+              &lt;/div&gt; " />
+
+  <Mededeling marquee="" datumvan="" datumtot="" tekst="..." />
+-->
+
+  <Mededeling marquee="1" datumvan="2019-12-21" datumtot="2020-01-04"
+              tekst="* * * De IVO Veteranen wenst iedereen fijne feestdagen en een gezond en sportief 2020 * * *" />
+
+<!--
+  <Mededeling marquee="0" datumvan="2019-12-21" datumtot="2020-01-19"
+              tekst="Zaterdag 18 januari - JAARVERGADERING #\n# Locatie: BMV De Vilgaard #\n# Aanvang: 16:00 uur
+      			  &lt;div align=&quot;center&quot; style=&quot;font-size: 20px; padding-top: 15px; padding-left: 10px;&quot; &gt; &lt;a class=&quot;ablue&quot; title=&quot;Jaaroverzicht IVO Veteranen 2019 downloaden&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2019.pdf&quot; target=&quot;_blank&quot;&gt;Jaaroverzicht IVO Veteranen 2019&lt;/a&gt;&lt;/div&gt;  
+              " />
+-->
+
+  <Mededeling marquee="0" datumvan="2019-12-21" datumtot="2020-01-19"
+              tekst="Zaterdag 18 januari 2020 - JAARVERGADERING #\n# Locatie: BMV De Vilgaard #\n# Aanvang: 16:00 uur
+      			  &lt;div align=&quot;center&quot; style=&quot;font-size: 20px; padding-top: 15px; padding-left: 10px;&quot; &gt; &lt;a class=&quot;ablue&quot; title=&quot;Jaaroverzicht IVO Veteranen 2019 downloaden&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2019.pdf&quot; target=&quot;_blank&quot;&gt;Jaaroverzicht IVO Veteranen 2019&lt;/a&gt;&lt;/div&gt;  
+              " />
+  
+  <Mededeling marquee="1" datumvan="2020-01-04" datumtot="2020-01-19"
+              tekst="Zaterdag 18 januari 2020 - Jaarvergadering IVO Veteranen" />
+
+</Mededelingen>

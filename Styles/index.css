@@ -1,0 +1,12 @@
+﻿.nomouse 
+{
+	cursor:		default;
+	color:		#FF0000;
+}
+
+.mouse
+{
+	cursor:		hand;
+	color:		#FF6666;
+}
+

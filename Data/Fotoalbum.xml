@@ -1,0 +1,42 @@
+<Fotoalbums>
+  <Fotoalbum omschrijving="Elftalfoto's"					          folder="Elftalfotos"                        aantalfotos="14"    default="1" />
+  <Fotoalbum omschrijving="Wandelvoetbal Melderslo - IVO"   folder="WandelvoetbalMeldersloIVO20180929"  aantalfotos="10"    default="0" />
+  <Fotoalbum omschrijving="Feestdag 2018"					          folder="Feestdag2018"      	                aantalfotos="39"    default="0" />
+  <Fotoalbum omschrijving="Sports meets Music"					    folder="IVO100Jaar"                         aantalfotos="11"    default="0" />
+  <Fotoalbum omschrijving="Feestdag 2016"					          folder="Feestdag2016"      	                aantalfotos="31"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - VCH"		          folder="WedstrijdVCH20160423"               aantalfotos="14"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd Belfeldia - IVO"		    folder="WedstrijdBelfeldia20151024"         aantalfotos="27"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - DEV Arcen"		    folder="WedstrijdDEVArcen20150912"          aantalfotos="9"     default="0" />
+  <Fotoalbum omschrijving="Feestdag 2015"					          folder="Feestdag2015"      	                aantalfotos="63"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd SC Leeuwen - IVO"      folder="WedstrijdSCLeeuwen2015"             aantalfotos="23"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd DEV Arcen - IVO"		    folder="WedstrijdDEVArcen2015"              aantalfotos="14"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd VCH - IVO"             folder="WedstrijdVCH"                       aantalfotos="21"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - GFC'33"          folder="WedstrijdGFC33"                     aantalfotos="31"    default="0" />
+  <Fotoalbum omschrijving="Feestdag 2014"					          folder="Feestdag2014"      	                aantalfotos="32"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd Melderslo - IVO"       folder="WedstrijdMelderslo"                 aantalfotos="24"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - America"	        folder="WedstrijdAmerica"                   aantalfotos="26"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - Wittenhorst (B)"	folder="WedstrijdWittenhorstB"		          aantalfotos="32"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - RKDSO"			      folder="WedstrijdRKDSO"				              aantalfotos="16"    default="0" />
+  <Fotoalbum omschrijving="50 Jarig Jubileum (foto's Ruud)"	folder="50JarigJubileum2"			              aantalfotos="143"   default="0" />
+  <Fotoalbum omschrijving="50 Jarig Jubileum (foto's Ger)"	folder="50JarigJubileum1"                   aantalfotos="64"    default="0" />
+  <Fotoalbum omschrijving="Feestdag 2012"					          folder="Feestdag2012"      	                aantalfotos="32"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - FCV Venlo"		    folder="WedstrijdFCVVenlo2012"              aantalfotos="23"    default="0" />
+  <Fotoalbum omschrijving="Gekke Maondaag 2012"				      folder="GekkeMaondaag2012" 	                aantalfotos="2"    	default="0" />
+  <Fotoalbum omschrijving="Jaarvergadering 2012"			      folder="Jaarvergadering2012" 	              aantalfotos="19"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd FCV Venlo - IVO"		    folder="WedstrijdFCVVenlo" 	                aantalfotos="18"    default="0" />
+  <Fotoalbum omschrijving="Feestdag 2011"					          folder="Feestdag2011"      	                aantalfotos="27"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd DEV Arcen - IVO"		    folder="WedstrijdDEVArcen" 	                aantalfotos="18"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - GFC'33 (B)"	    folder="WedstrijdGFC33B" 	                  aantalfotos="13"    default="0" />
+  <Fotoalbum omschrijving="Jaarvergadering 2011"			      folder="Jaarvergadering2011" 	              aantalfotos="17"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd Meterik - IVO"			    folder="WedstrijdMeterik"   	              aantalfotos="10"    default="0" />
+  <Fotoalbum omschrijving="Jaarvergadering 2010"			      folder="Jaarvergadering2010" 	              aantalfotos="9"    	default="0" />
+  <Fotoalbum omschrijving="Wedstrijd Sparta'18 - IVO"		    folder="WedstrijdSparta18"   	              aantalfotos="12"    default="0" />
+  <Fotoalbum omschrijving="Feestdag 2009"					          folder="Feestdag2009"      	                aantalfotos="48"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd VVV03 - IVO"			      folder="WedstrijdVVV03"      	              aantalfotos="10"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - TSC (A)"			    folder="WedstrijdTSCA"       	              aantalfotos="15"    default="0" />
+  <Fotoalbum omschrijving="Wedstrijd IVO - Baarlo"			    folder="WedstrijdBaarlo"       		          aantalfotos="3"    	default="0" />
+<!--  <Fotoalbum omschrijving="Wedstrijd Venlose Boys - IVO"	  folder="WedstrijdVenloseBoys"               aantalfotos="24"    default="0" /> -->
+  <Fotoalbum omschrijving="Laatste wedstijd Sraar en Henk"	folder="LaatseWedstijdSraarEnHenk"	        aantalfotos="12"    default="0" />
+<!--  <Fotoalbum omschrijving="Wedstrijd SVC 2000 - IVO"		    folder="WedstrijdSVC2000"                   aantalfotos="9"     default="0" /> -->
+  <Fotoalbum omschrijving="Brunch 90 jarig bestaan"			    folder="BrunchIVO90Jaar"                    aantalfotos="5"     default="0" />
+</Fotoalbums>

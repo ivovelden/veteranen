@@ -1,0 +1,556 @@
+﻿<Programma>
+
+  <Wedstrijden tekst="Voorjaar 2020" doc="IVO-Veteranen Voorjaar 2020.pdf">
+    <Wedstrijd datum="2020-2-29"  marquee="1" afgelast="0"                wedstrijd="VVV'03 - IVO"             	  aanvang="16:00"   vertrek="15:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-3-7"   marquee="1" afgelast="0"                wedstrijd="SV United - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-3-14"  marquee="1" afgelast="0"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-3-21"  marquee="1" afgelast="0"                wedstrijd="SV Leunen - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-3-28"  marquee="1" afgelast="0"                wedstrijd="IVO - Venray"                aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-4-4"   marquee="1" afgelast="0"                wedstrijd="Oostrum - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-4-11"  marquee="1" afgelast="0"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-4-18"  marquee="1" afgelast="0"                wedstrijd="Holthees - IVO"              aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-4-25"  marquee="1" afgelast="0"                wedstrijd="IVO - Ysselsteyn"            aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-5-2"   marquee="1" afgelast="0"                wedstrijd="EWC'46 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-5-9"   marquee="1" afgelast="0"                wedstrijd="IVO - Montagnards"           aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-5-16"  marquee="1" afgelast="0"                wedstrijd="RKDSO - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-5-23"  marquee="1" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-5-30"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2020 - Voorjaar 2021" >
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2019">
+    <Wedstrijd datum="2019-8-31"  wedstrijd="IVO - RKSVN"                 uitslag="2 - 5" verslag="1" />
+    <Wedstrijd datum="2019-9-7"   wedstrijd="IVO - SV United"             uitslag="9 - 1" verslag="1" />
+    <Wedstrijd datum="2019-9-14"  wedstrijd="SVS - IVO"                   uitslag="2 - 4" verslag="1" />
+    <Wedstrijd datum="2019-9-21"  wedstrijd="IVO - SV Leunen"             uitslag="7 - 0" verslag="1" />
+    <Wedstrijd datum="2019-9-28"  wedstrijd="Venray - IVO"                uitslag="4 - 1" verslag="1" />
+    <Wedstrijd datum="2019-10-5"  wedstrijd="IVO - Oostrum"               uitslag="1 - 0" verslag="1" />
+    <Wedstrijd datum="2019-10-12" wedstrijd="SSS'18 - IVO"                uitslag="0 - 4" verslag="1" />
+    <Wedstrijd datum="2019-10-19" wedstrijd="IVO - Holthees"              uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2019-10-26" wedstrijd="Ysselsteyn - IVO"            uitslag="1 - 8" verslag="1" />
+    <Wedstrijd datum="2019-11-2"  wedstrijd="IVO - EWC'46"                uitslag="3 - 0" verslag="1" />
+    <Wedstrijd datum="2019-11-9"  wedstrijd="Montagnards - IVO"           uitslag="1 - 2" verslag="1" />
+    <Wedstrijd datum="2019-11-16" wedstrijd="IVO - RKDSO"                 uitslag="5 - 1" verslag="1" />
+    <Wedstrijd datum="2019-11-23" wedstrijd="Vrij"                        uitslag=""      verslag="0" />
+    <Wedstrijd datum="2019-11-30" wedstrijd="RKDEV - IVO"                 uitslag="2 - 4" verslag="1" />
+    <Wedstrijd datum="2019-12-7"  wedstrijd="IVO - Thomasstadt Kempen"    uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2019-12-14" wedstrijd="SC Hinsbeck - IVO"           uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2019-12-21" wedstrijd="RKSVN - IVO"                 uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2019">
+    <Wedstrijd datum="2019-2-23"  wedstrijd="GFC’33 – IVO"			          uitslag="0 - 3" verslag="1" />
+    <Wedstrijd datum="2019-3-9"   wedstrijd="IVO - Wittenhorst"           uitslag="2 - 1" verslag="1" />
+    <Wedstrijd datum="2019-3-16"  wedstrijd="RKVV Erp - IVO"              uitslag="3 - 4" verslag="1" />
+    <Wedstrijd datum="2019-3-23"  wedstrijd="RKDSO - IVO"                 uitslag="2 - 8" verslag="1" />
+    <Wedstrijd datum="2019-3-30"  wedstrijd="IVO - SV Lottum"             uitslag="6 - 1" verslag="1" />
+    <Wedstrijd datum="2019-4-6"   wedstrijd="S.C. Irene (A) - IVO"        uitslag="0 - 7" verslag="1" />
+    <Wedstrijd datum="2019-4-13"  wedstrijd="IVO - Sporting S.T."         uitslag="0 - 1" verslag="1" />
+    <Wedstrijd datum="2019-4-20"  wedstrijd="S.V.E.B. - IVO"              uitslag="2 - 6" verslag="1" />
+    <Wedstrijd datum="2019-4-27"  wedstrijd="IVO - Melderslo"             uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2019-5-4"   wedstrijd="America - IVO"               uitslag="3 - 1" verslag="1" />
+    <Wedstrijd datum="2019-5-11"  wedstrijd="IVO - SV Kronenberg"         uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2019-5-18"  wedstrijd="Hegelsom - IVO"              uitslag="1 - 3" verslag="1" />
+    <Wedstrijd datum="2019-5-25"  wedstrijd="IVO - Sparta’18"             uitslag="5 - 0" verslag="1" />
+    <Wedstrijd datum="2019-6-1"   wedstrijd="Helmondia (B) - IVO"         uitslag="2 - 1" verslag="1" />
+    <Wedstrijd datum="2019-6-8"   wedstrijd="NWC - IVO"                   uitslag="1 - 4" verslag="1" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2018">
+    <Wedstrijd datum="2018-8-18"  wedstrijd="IVO – S.V.V."			        uitslag="9 - 0" verslag="1" />
+    <Wedstrijd datum="2018-8-24"  wedstrijd="Champions League 2018"     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2018-8-25"  wedstrijd="IVO – Thomasstadt Kempen"  uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2018-9-1"   wedstrijd="IVO - GFC’33"              uitslag="3 - 1" verslag="1" />
+    <Wedstrijd datum="2018-9-8"   wedstrijd="Wittenhorst - IVO"         uitslag="4 - 2" verslag="1" />
+    <Wedstrijd datum="2018-9-15"  wedstrijd="RKDEV - IVO"               uitslag="1 - 9" verslag="1" />
+    <Wedstrijd datum="2018-9-22"  wedstrijd="IVO - RKDSO"               uitslag="6 - 0" verslag="1" />
+    <Wedstrijd datum="2018-9-29"  wedstrijd="SV Lottum - IVO"           uitslag="0 - 3" verslag="1" />
+    <Wedstrijd datum="2018-10-6"  wedstrijd="IVO - S.C. Irene (A)"      uitslag="5 - 0" verslag="1" />
+    <Wedstrijd datum="2018-10-13" wedstrijd="Sporting S.T. - IVO"       uitslag="1 - 4" verslag="1" />
+    <Wedstrijd datum="2018-10-20" wedstrijd="IVO - S.V.E.B."            uitslag="0 - 3" verslag="1" />
+    <Wedstrijd datum="2018-10-27" wedstrijd="Melderslo - IVO"           uitslag="3 - 1" verslag="1" />
+    <Wedstrijd datum="2018-11-3"  wedstrijd="IVO - America"             uitslag="4 - 3" verslag="1" />
+    <Wedstrijd datum="2018-11-10" wedstrijd="SV Kronenberg - IVO"       uitslag="3 - 2" verslag="1" />
+    <Wedstrijd datum="2018-11-17" wedstrijd="IVO - Hegelsom"            uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2018-11-24" wedstrijd="Sparta’18 - IVO"           uitslag="0 - 3" verslag="1" />
+    <Wedstrijd datum="2018-12-1"  wedstrijd="IVO - TSC'04"              uitslag="5 - 1" verslag="1" />
+    <Wedstrijd datum="2018-12-8"  wedstrijd="RKSVN - IVO"               uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2018-12-15" wedstrijd="Thomasstadt Kempen - IVO"  uitslag="0 - 3" verslag="1" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voojaar 2018">
+    <Wedstrijd datum="2018-2-17"  wedstrijd="IVO - Montagnards"         uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2018-2-24"  wedstrijd="T.S.C.'04 - IVO"           uitslag="2 - 2" verslag="1" />
+    <Wedstrijd datum="2018-3-3"   wedstrijd="IVO - Panningen"           uitslag="Afg."	verslag="0" />
+    <Wedstrijd datum="2018-3-10"  wedstrijd="IVO - Sporting S.T."       uitslag="6 - 2" verslag="1" />
+    <Wedstrijd datum="2018-3-17"  wedstrijd="S.C. Irene (A) - IVO"      uitslag="Afg."	verslag="0" />
+    <Wedstrijd datum="2018-3-24"  wedstrijd="IVO - Wittenhorst"         uitslag="0 - 3" verslag="1" />
+    <Wedstrijd datum="2018-3-31"  wedstrijd="SV Lottum - IVO"           uitslag="1 - 2"	verslag="1" />
+    <Wedstrijd datum="2018-4-7"   wedstrijd="IVO - RKDEV"               uitslag="6 - 0" verslag="1" />
+    <Wedstrijd datum="2018-4-14"  wedstrijd="RKDSO - IVO"               uitslag="4 - 1" verslag="1" />
+    <Wedstrijd datum="2018-4-21"  wedstrijd="IVO - S.V.E.B."            uitslag="4 - 2" verslag="1" />
+    <Wedstrijd datum="2018-4-28"  wedstrijd="Hegelsom - IVO"            uitslag="2 - 3" verslag="1" />
+    <Wedstrijd datum="2018-5-5"   wedstrijd="America - IVO"             uitslag="1 - 7" verslag="1" />
+    <Wedstrijd datum="2018-5-12"  wedstrijd="Sparta’18 - IVO"           uitslag="2 - 3" verslag="1" />
+    <Wedstrijd datum="2018-5-19"  wedstrijd="IVO - Melderslo"           uitslag="2 - 1" verslag="1" />
+    <Wedstrijd datum="2018-5-26"  wedstrijd="GFC’33 - IVO"              uitslag="0 - 7" verslag="1" />
+    <Wedstrijd datum="2018-6-2"   wedstrijd="S.V.V. - IVO"              uitslag="1 - 6" verslag="1" />
+    <Wedstrijd datum="2018-6-16"  wedstrijd="IVO - IVO 7"               uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2018-6-23"  wedstrijd="Thomasstadt Kempen - IVO"  uitslag="2 - 3" verslag="1" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2017">
+    <Wedstrijd datum="2017-8-12"  wedstrijd="S.V.V. - IVO"              uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2017-8-19"  wedstrijd="RKSVN - IVO"               uitslag="1 - 3"   verslag="1" />
+    <Wedstrijd datum="2017-8-26"  wedstrijd="IVO - Sparta'18"           uitslag="3 - 0"   verslag="1" />
+    <Wedstrijd datum="2017-9-2"   wedstrijd="Panningen – IVO"           uitslag="2 - 0"   verslag="1" />
+    <Wedstrijd datum="2017-9-9"   wedstrijd="Sporting S.T. – IVO"       uitslag="1 - 3"   verslag="1" />
+    <Wedstrijd datum="2017-9-16"  wedstrijd="IVO – S.C. Irene (A)"      uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-9-23"  wedstrijd="Wittenhorst – IVO"         uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-9-30"  wedstrijd="IVO – SV Lottum"           uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2017-10-7"  wedstrijd="RKDEV – IVO"               uitslag="0 - 9"   verslag="1" />
+    <Wedstrijd datum="2017-10-14" wedstrijd="IVO – RKDSO"               uitslag="0 - 2"   verslag="1" />
+    <Wedstrijd datum="2017-10-21" wedstrijd="S.V.E.B. – IVO"            uitslag="1 - 0"   verslag="1" />
+    <Wedstrijd datum="2017-10-28" wedstrijd="IVO – Hegelsom"            uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-11-4"  wedstrijd="IVO - America"             uitslag="0 - 2"   verslag="1" />
+    <Wedstrijd datum="2017-11-11" wedstrijd="Sparta’18 - IVO"           uitslag="4 - 3"   verslag="1" />
+    <Wedstrijd datum="2017-11-18" wedstrijd="Melderslo – IVO"           uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2017-11-25" wedstrijd="GFC’33 – IVO"              uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2017-12-4"  wedstrijd="Thomasstadt Kempen - IVO"  uitslag="4 - 4"   verslag="1" />
+    <Wedstrijd datum="2017-12-9"  wedstrijd="IVO - RKSVN"               uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2017-12-16" wedstrijd="IVO - S.V.V."              uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2017">
+    <Wedstrijd datum="2017-2-11"  wedstrijd="N.W.C. - IVO"            uitslag="Afg."    verslag="0"/>
+    <Wedstrijd datum="2017-2-18"  wedstrijd="Montagnards - IVO"       uitslag="3 - 0"   verslag="1" />
+    <Wedstrijd datum="2017-3-4"   wedstrijd="IVO - RKDEV"             uitslag="5 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-3-11"  wedstrijd="Hegelsom - IVO"          uitslag="1 - 3"   verslag="1" />
+    <Wedstrijd datum="2017-3-18"  wedstrijd="IVO - GFC'33"            uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2017-3-25"  wedstrijd="RKDSO - IVO"             uitslag="1 - 0"   verslag="1" />
+    <Wedstrijd datum="2017-4-1"   wedstrijd="IVO - America"           uitslag="1 - 4"   verslag="1" />
+    <Wedstrijd datum="2017-4-8"   wedstrijd="VCH - IVO"               uitslag="2 - 2"   verslag="1" />
+    <Wedstrijd datum="2017-4-15"  wedstrijd="IVO - Melderslo"         uitslag="0 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-4-22"  wedstrijd="Blerick - IVO"           uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2017-4-29"  wedstrijd="IVO - Belfeldia"         uitslag="0 - 4"   verslag="1" />
+    <Wedstrijd datum="2017-5-6"   wedstrijd="S.C. Irene (B) - IVO"    uitslag="2 - 3"   verslag="1" />
+    <Wedstrijd datum="2017-5-13"  wedstrijd="IVO - Wittenhorst (A)"   uitslag="1 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-5-20"  wedstrijd="FCV - IVO"               uitslag="0 - 1"   verslag="1" />
+    <Wedstrijd datum="2017-5-27"  wedstrijd="IVO - Panningen"         uitslag="0 - 4"   verslag="1" />
+    <Wedstrijd datum="2017-6-16"  wedstrijd="IVO - IVO 7"             uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2016">
+    <Wedstrijd datum="2016-8-20"  wedstrijd="S.V.V. - IVO"            uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-8-27"  wedstrijd="IVO - Sparta'18"         uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2016-9-3"   wedstrijd="RKDEV - IVO"             uitslag="1 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-9-10"  wedstrijd="IVO - Hegelsom"          uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-9-17"  wedstrijd="GFC'33 - IVO"            uitslag="0 - 4"   verslag="1" />
+    <Wedstrijd datum="2016-9-24"  wedstrijd="IVO - RKDSO"             uitslag="2 - 0"   verslag="1" />
+    <Wedstrijd datum="2016-10-1"  wedstrijd="America - IVO"           uitslag="1 - 2"   verslag="1" />
+    <Wedstrijd datum="2016-10-8"  wedstrijd="IVO - VCH"               uitslag="3 - 6"   verslag="1" />
+    <Wedstrijd datum="2016-10-15" wedstrijd="Melderslo - IVO"         uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2016-10-22" wedstrijd="Belfeldia - IVO"         uitslag="1 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-10-29" wedstrijd="IVO - Blerick"           uitslag="0 - 2"   verslag="1" />
+    <Wedstrijd datum="2016-11-5"  wedstrijd="IVO - S.C. Irene (B)"    uitslag="2 - 4"   verslag="1" />
+    <Wedstrijd datum="2016-11-12" wedstrijd="Wittenhorst (A) - IVO"   uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-11-19" wedstrijd="IVO - FCV"               uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2016-11-26" wedstrijd="Panningen - IVO"         uitslag="2 - 2"   verslag="1" />
+    <Wedstrijd datum="2016-12-3"  wedstrijd="Sparta'18 - IVO"         uitslag="0 - 4"   verslag="1" />
+    <Wedstrijd datum="2016-12-10" wedstrijd="IVO - S.V.V."            uitslag="Afg."    verslag="0"  />
+    <Wedstrijd datum="2016-12-10" wedstrijd="IVO - Melderslo"         uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-12-17" wedstrijd="SV Someren - IVO"        uitslag="1 - 5"   verslag="1" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2016">
+    <Wedstrijd datum="2016-2-13"  wedstrijd="IVO - IJsselsteyn"       uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2016-2-20"  wedstrijd="SVC 2000 - IVO"          uitslag="2 - 3"   verslag="1" />
+    <Wedstrijd datum="2016-2-27"  wedstrijd="IVO - Montagnards"       uitslag="2 - 4"   verslag="1" />
+    <Wedstrijd datum="2016-3-5"   wedstrijd="RKDSO - IVO"             uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2016-3-12"  wedstrijd="IVO - Blerick"           uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-3-19"  wedstrijd="RKDEV - IVO"             uitslag="1 - 3"   verslag="1" />
+    <Wedstrijd datum="2016-3-26"  wedstrijd="IVO - America"           uitslag="4 - 2"   verslag="1" />
+    <Wedstrijd datum="2016-4-2"   wedstrijd="GFC'33 - IVO"   	        uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-4-9"   wedstrijd="IVO - Meterik"           uitslag="2 - 2"   verslag="1" />
+    <Wedstrijd datum="2016-4-16"  wedstrijd="Hegelsom - IVO"          uitslag="1 - 0"   verslag="1" />
+    <Wedstrijd datum="2016-4-23"  wedstrijd="IVO - VCH"     		      uitslag="3 - 3"   verslag="1" />
+    <Wedstrijd datum="2016-4-30"  wedstrijd="IVO - Belfeldia"         uitslag="0 - 7"   verslag="1" />
+    <Wedstrijd datum="2016-5-7"   wedstrijd="FCV - IVO"             	uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-5-14"  wedstrijd="S.C. Irene (B) - IVO"    uitslag="2 - 6"   verslag="1" />
+    <Wedstrijd datum="2016-5-21"  wedstrijd="Wittenhorst (A) - IVO"   uitslag="0 - 1"   verslag="1" />
+    <Wedstrijd datum="2016-5-27"  wedstrijd="MVC'19 - IVO"            uitslag="2 - 3"   verslag="1" />
+    <Wedstrijd datum="2016-6-10"  wedstrijd="RKDSO - IVO"             uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2015">
+    <Wedstrijd datum="2015-8-22"  wedstrijd="IVO - RKSVN"             uitslag="0 - 8" />
+    <Wedstrijd datum="2015-8-29"  wedstrijd="IVO - Sparta'18"         uitslag="1 - 4" />
+    <Wedstrijd datum="2015-9-5"   wedstrijd="IVO - RKDSO"             uitslag="5 - 1" />
+    <Wedstrijd datum="2015-9-12"  wedstrijd="Blerick - IVO"           uitslag="3 - 3" />
+    <Wedstrijd datum="2015-9-19"  wedstrijd="IVO - RKDEV"             uitslag="4 - 3" />
+    <Wedstrijd datum="2015-9-26"  wedstrijd="America - IVO"           uitslag="1 - 2" />
+    <Wedstrijd datum="2015-10-3"  wedstrijd="IVO - GFC'33"   	        uitslag="0 - 1" />
+    <Wedstrijd datum="2015-10-10" wedstrijd="Meterik - IVO"           uitslag="1 - 0" />
+    <Wedstrijd datum="2015-10-17" wedstrijd="IVO - Hegelsom"          uitslag="Afg." />
+    <Wedstrijd datum="2015-10-17" wedstrijd="Hegelsom - IVO"          uitslag="2 - 1" />
+    <Wedstrijd datum="2015-10-24" wedstrijd="Belfeldia - IVO"         uitslag="1 - 0" />
+    <Wedstrijd datum="2015-10-31" wedstrijd="VCH - IVO"     		      uitslag="0 - 0" />
+    <Wedstrijd datum="2015-11-7"  wedstrijd="IVO - FCV"             	uitslag="2 - 3" />
+    <Wedstrijd datum="2015-11-14" wedstrijd="IVO - S.C. Irene (B)"    uitslag="3 - 5" />
+    <Wedstrijd datum="2015-11-21" wedstrijd="Wittenhorst (A) - IVO"   uitslag="1 - 1" />
+    <Wedstrijd datum="2015-11-28" wedstrijd="IVO - MVC'19"            uitslag="0 - 1" />
+    <Wedstrijd datum="2015-12-5"  wedstrijd="Sparta'18 - IVO"         uitslag="3 - 2" />
+    <Wedstrijd datum="2015-12-12" wedstrijd="RKSVN - IVO"             uitslag="Afg." />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2015">
+    <Wedstrijd datum="2015-2-7"   wedstrijd="Baarlo - IVO"            uitslag="Afg." />
+    <Wedstrijd datum="2015-2-21"  wedstrijd="IVO - SVC 2000"          uitslag="Afg." />
+    <Wedstrijd datum="2015-2-28"  wedstrijd="Montagnards - IVO"       uitslag="6 - 1" />
+    <Wedstrijd datum="2015-3-7"   wedstrijd="GFC’33 - IVO"            uitslag="1 - 1" />
+    <Wedstrijd datum="2015-3-14"  wedstrijd="IVO - VCH"               uitslag="1 - 4" />
+    <Wedstrijd datum="2015-3-21"  wedstrijd="RKDEV - IVO"             uitslag="1 - 7" />
+    <Wedstrijd datum="2015-3-28"  wedstrijd="IVO - Wittenhorst (A)"   uitslag="1 - 4" />
+    <Wedstrijd datum="2015-4-4"   wedstrijd="FCV - IVO"               uitslag="Afg." />
+    <Wedstrijd datum="2015-4-4"   wedstrijd="Holthees - IVO"          uitslag="3 - 2" />
+    <Wedstrijd datum="2015-4-11"  wedstrijd="IVO - Belfeldia"         uitslag="0 - 5" />
+    <Wedstrijd datum="2015-4-18"  wedstrijd="IVO - America"     		  uitslag="3 - 0" />
+    <Wedstrijd datum="2015-4-25"  wedstrijd="RKDSO - IVO"             uitslag="1 - 2" />
+    <Wedstrijd datum="2015-5-2"   wedstrijd="IVO - Hegelsom"          uitslag="Afg." />
+    <Wedstrijd datum="2015-5-2"   wedstrijd="SC Leeuwen - IVO"        uitslag="0 - 2" />
+    <Wedstrijd datum="2015-5-9"   wedstrijd="Meterik - IVO"           uitslag="1 - 2" />
+    <Wedstrijd datum="2015-5-16"  wedstrijd="IVO - Venlosche Boys"    uitslag="Afg." />
+    <Wedstrijd datum="2015-5-16"  wedstrijd="IVO - SV Someren"        uitslag="2 - 1" />
+    <Wedstrijd datum="2015-5-23"  wedstrijd="Melderslo - IVO"         uitslag="0 - 0" />
+    <Wedstrijd datum="2015-5-30"  wedstrijd="IVO - Blerick"           uitslag="3 - 3" />
+    <Wedstrijd datum="2015-6-6"   wedstrijd="IVO - MVC'19"          	uitslag="2 - 2" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2014">
+    <Wedstrijd datum="2014-8-23"  wedstrijd="SV Oostrum - IVO"        uitslag="0 - 2" />
+    <Wedstrijd datum="2014-8-30"  wedstrijd="IVO - Sparta'18"         uitslag="5 - 1" />
+    <Wedstrijd datum="2014-9-6"   wedstrijd="IVO - GFC’33"            uitslag="2 - 1" />
+    <Wedstrijd datum="2014-9-13"  wedstrijd="VCH - IVO"               uitslag="3 - 5" />
+    <Wedstrijd datum="2014-9-20"  wedstrijd="IVO - RKDEV"             uitslag="3 - 1" />
+    <Wedstrijd datum="2014-9-27"  wedstrijd="Wittenhorst (A) - IVO"   uitslag="3 - 2" />
+    <Wedstrijd datum="2014-10-4"  wedstrijd="IVO - FCV"               uitslag="7 - 2" />
+    <Wedstrijd datum="2014-10-11" wedstrijd="Belfeldia - IVO"         uitslag="0 - 0" />
+    <Wedstrijd datum="2014-10-18" wedstrijd="America - IVO"     		  uitslag="1 - 3" />
+    <Wedstrijd datum="2014-10-25" wedstrijd="IVO - RKDSO"             uitslag="1 - 0" />
+    <Wedstrijd datum="2014-11-1"  wedstrijd="Hegelsom - IVO"          uitslag="0 - 4" />
+    <Wedstrijd datum="2014-11-8"  wedstrijd="IVO - Meterik"           uitslag="2 - 2" />
+    <Wedstrijd datum="2014-11-15" wedstrijd="Venlosche Boys - IVO"    uitslag="0 - 1" />
+    <Wedstrijd datum="2014-11-22" wedstrijd="IVO - Melderslo"         uitslag="2 - 0" />
+    <Wedstrijd datum="2014-11-29" wedstrijd="Blerick - IVO"           uitslag="0 - 3" />
+    <Wedstrijd datum="2014-12-6"  wedstrijd="Sparta'18 - IVO"         uitslag="5 - 0" />
+    <Wedstrijd datum="2014-12-13" wedstrijd="SVC 2000 - IVO"          uitslag="Afg." />
+    <Wedstrijd datum="2014-12-20" wedstrijd="SV Lottum - IVO"         uitslag="Afg." />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2014">
+    <Wedstrijd datum="2014-2-22"  wedstrijd="Mini-Voetbaltoernooi"    uitslag="Afg." />
+    <Wedstrijd datum="2014-2-22"  wedstrijd="SVEB - IVO"			        uitslag="0 - 0" />
+    <Wedstrijd datum="2014-3-8"   wedstrijd="GFC’33 (A) - IVO"		    uitslag="2 - 4" />
+    <Wedstrijd datum="2014-3-15"  wedstrijd="IVO - VCH"               uitslag="5 - 0" />
+    <Wedstrijd datum="2014-3-22"  wedstrijd="RKDEV - IVO"             uitslag="1 - 3" />
+    <Wedstrijd datum="2014-3-29"  wedstrijd="IVO - Wittenhorst (A)"   uitslag="1 - 2" />
+    <Wedstrijd datum="2014-4-5"   wedstrijd="FCV - IVO"               uitslag="2 - 4" />
+    <Wedstrijd datum="2014-4-12"  wedstrijd="SVOC'01 - IVO"           uitslag="2 - 3" />
+    <Wedstrijd datum="2014-4-19"  wedstrijd="IVO - America"     	    uitslag="4 - 3" />
+    <Wedstrijd datum="2014-4-25"  wedstrijd="RKDSO - IVO"             uitslag="3 - 5" />
+    <Wedstrijd datum="2014-5-3"   wedstrijd="IVO - Hegelsom"          uitslag="2 - 1" />
+    <Wedstrijd datum="2014-5-10"  wedstrijd="Meterik - IVO"           uitslag="2 - 0" />
+    <Wedstrijd datum="2014-5-17"  wedstrijd="IVO - Venlosche Boys"    uitslag="Afg." />
+    <Wedstrijd datum="2014-5-17"  wedstrijd="IVO - IVO-7"			        uitslag="1 - 2" />
+    <Wedstrijd datum="2014-5-24"  wedstrijd="Melderslo - IVO"         uitslag="0 - 3" />
+    <Wedstrijd datum="2014-5-31"  wedstrijd="IVO - Holthees"          uitslag="4 - 4" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2013">
+    <Wedstrijd datum="2013-8-24"  wedstrijd="Leunen - IVO"            uitslag="2 - 1" />
+    <Wedstrijd datum="2013-8-31"  wedstrijd="Belfeldia - IVO"         uitslag="0 - 0" />
+    <Wedstrijd datum="2013-9-7"   wedstrijd="IVO - GFC’33 (A)"        uitslag="2 - 4" />
+    <Wedstrijd datum="2013-9-14"  wedstrijd="VCH - IVO"               uitslag="1 - 3" />
+    <Wedstrijd datum="2013-9-21"  wedstrijd="IVO - RKDEV"             uitslag="0 - 0" />
+    <Wedstrijd datum="2013-9-28"  wedstrijd="Wittenhorst (A) - IVO"   uitslag="1 - 2" />
+    <Wedstrijd datum="2013-10-5"  wedstrijd="IVO - FCV"               uitslag="2 - 5" />
+    <Wedstrijd datum="2013-10-12" wedstrijd="IVO - SVOC'01"           uitslag="1 - 1" />
+    <Wedstrijd datum="2013-10-19" wedstrijd="America - IVO"           uitslag="2 - 6" />
+    <Wedstrijd datum="2013-10-26" wedstrijd="IVO - RKDSO"             uitslag="5 - 1" />
+    <Wedstrijd datum="2013-11-2"  wedstrijd="Hegelsom - IVO"          uitslag="4 - 3" />
+    <Wedstrijd datum="2013-11-9"  wedstrijd="IVO - Meterik"           uitslag="Afg." />
+    <Wedstrijd datum="2013-11-9"  wedstrijd="Volharding - IVO"        uitslag="2 - 2" />
+    <Wedstrijd datum="2013-11-16" wedstrijd="Venlosche Boys - IVO"    uitslag="1 - 2" />
+    <Wedstrijd datum="2013-11-23" wedstrijd="IVO - Melderslo"         uitslag="Afg." />
+    <Wedstrijd datum="2013-11-23" wedstrijd="IVO - SVV"               uitslag="3 - 3" />
+    <Wedstrijd datum="2013-11-30" wedstrijd="Holthees - IVO"          uitslag="1 - 2" />
+    <Wedstrijd datum="2013-12-7"  wedstrijd="IVO – SV United Wanssum" uitslag="1 - 3" />
+    <Wedstrijd datum="2013-12-14" wedstrijd="IVO - Leunen"            uitslag="Afg." />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2013">
+    <Wedstrijd datum="2013-2-16"  wedstrijd="Mini-Voetbaltoernooi"  uitslag="" />
+    <Wedstrijd datum="2013-2-23"  wedstrijd="Wittenhorst - IVO"     uitslag="Afg." />
+    <Wedstrijd datum="2013-3-2"   wedstrijd="Belfeldia - IVO"		    uitslag="2 - 2" />
+    <Wedstrijd datum="2013-3-9"   wedstrijd="IVO - VCH"             uitslag="4 - 2" />
+    <Wedstrijd datum="2013-3-16"  wedstrijd="RKDEV - IVO"		        uitslag="Afg." />
+    <Wedstrijd datum="2013-3-23"  wedstrijd="IVO - Venlosche Boys"  uitslag="Afg." />
+    <Wedstrijd datum="2013-3-23"  wedstrijd="IVO - Meterik"			    uitslag="1 - 3" />
+    <Wedstrijd datum="2013-3-30"  wedstrijd="IVO - SVOC'01"         uitslag="2 - 1" />
+    <Wedstrijd datum="2013-4-6"   wedstrijd="RKDSO - IVO"     		  uitslag="1 - 1" />
+    <Wedstrijd datum="2013-4-13"  wedstrijd="IVO - SC Irene"        uitslag="1 - 3" />
+    <Wedstrijd datum="2013-4-20"  wedstrijd="GFC’33 (A) - IVO"      uitslag="1 - 2" />
+    <Wedstrijd datum="2013-4-27"  wedstrijd="IVO - MVC’19"     	    uitslag="1 - 2" />
+    <Wedstrijd datum="2013-5-4"   wedstrijd="Sparta’18 - IVO"		    uitslag="0 - 4" />
+    <Wedstrijd datum="2013-5-11"  wedstrijd="IVO - VOS" 	          uitslag="1 - 5" />
+    <Wedstrijd datum="2013-5-18"  wedstrijd="Baarlo - IVO"   	      uitslag="2 - 2" />
+    <Wedstrijd datum="2013-5-25"  wedstrijd="IVO - Melderslo"       uitslag="1 - 4" />
+    <Wedstrijd datum="2013-6-1"   wedstrijd="Panningen - IVO" 		  uitslag="0 - 7" />
+    <Wedstrijd datum="2013-6-8"   wedstrijd="IVO - Ald V.V.V." 		  uitslag="0 - 5" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2012">
+    <Wedstrijd datum="2012-8-25"  wedstrijd="IVO - SV Lottum"       uitslag="1 - 0" />
+    <Wedstrijd datum="2012-9-1"   wedstrijd="IVO - TSC’04 (A)"		  uitslag="Afg." />
+    <Wedstrijd datum="2012-9-8"   wedstrijd="VCH - IVO"             uitslag="1 - 5" />
+    <Wedstrijd datum="2012-9-15"  wedstrijd="IVO - RKDEV"		        uitslag="5 - 0" />
+    <Wedstrijd datum="2012-9-22"  wedstrijd="Venlosche Boys - IVO"  uitslag="1 - 0" />
+    <Wedstrijd datum="2012-9-29"  wedstrijd="SVOC'01 - IVO"         uitslag="2 - 0" />
+    <Wedstrijd datum="2012-10-6"  wedstrijd="IVO - RKDSO"     		  uitslag="3 - 1" />
+    <Wedstrijd datum="2012-10-13" wedstrijd="SC Irene - IVO"        uitslag="1 - 3" />
+    <Wedstrijd datum="2012-10-20" wedstrijd="IVO - GFC’33 (A)"		  uitslag="3 - 4" />
+    <Wedstrijd datum="2012-10-27" wedstrijd="MVC’19 - IVO"     	    uitslag="4 - 1" />
+    <Wedstrijd datum="2012-11-3"  wedstrijd="IVO - Sparta’18"		    uitslag="2 - 0" />
+    <Wedstrijd datum="2012-11-10" wedstrijd="VOS - IVO" 	          uitslag="7 - 0" />
+    <Wedstrijd datum="2012-11-17" wedstrijd="IVO - Baarlo"   	      uitslag="2 - 1" />
+    <Wedstrijd datum="2012-11-24" wedstrijd="SVEB - IVO" 		        uitslag="Afg." />
+    <Wedstrijd datum="2012-12-1"  wedstrijd="GFC’33 (B) - IVO" 	    uitslag="4 - 0" />
+    <Wedstrijd datum="2012-12-8"  wedstrijd="IVO - GFC’33 (A)"   	  uitslag="Afg." />
+    <Wedstrijd datum="2012-12-15" wedstrijd="IVO - HRC’27"   	      uitslag="Afg." />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2012">
+    <Wedstrijd datum="2012-2-25"  wedstrijd="Mini-Voetbaltoernooi"  uitslag="" />
+    <Wedstrijd datum="2012-3-3"   wedstrijd="TSC’04 (A) - IVO"		  uitslag="2 - 4" />
+    <Wedstrijd datum="2012-3-10"  wedstrijd="IVO - VCH"             uitslag="4 - 1" />
+    <Wedstrijd datum="2012-3-17"  wedstrijd="RKDEV - IVO"		        uitslag="0 - 5" />
+    <Wedstrijd datum="2012-3-24"  wedstrijd="IVO - Venlosche Boys"  uitslag="Afg." />
+    <Wedstrijd datum="2012-3-31"  wedstrijd="IVO - FCV"             uitslag="3 - 2" />
+    <Wedstrijd datum="2012-4-7"   wedstrijd="RKDSO - IVO"     		  uitslag="0 - 1" />
+    <Wedstrijd datum="2012-4-14"  wedstrijd="IVO - Belfeldia"     	uitslag="2 - 1" />
+    <Wedstrijd datum="2012-4-21"  wedstrijd="Baarlo - IVO"		      uitslag="1 - 3" />
+    <Wedstrijd datum="2012-4-28"  wedstrijd="IVO - MVC'19"     	    uitslag="2 - 3" />
+    <Wedstrijd datum="2012-5-5"   wedstrijd="Sparta'18 - IVO"		    uitslag="0 - 4" />
+    <Wedstrijd datum="2012-5-12"  wedstrijd="IVO - VOS" 	          uitslag="3 - 7" />
+    <Wedstrijd datum="2012-5-19"  wedstrijd="IVO - SV Panningen"   	uitslag="0 - 4" />
+    <Wedstrijd datum="2012-5-26"  wedstrijd="RKSVN - IVO" 		      uitslag="5 - 0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2011" >
+    <Wedstrijd datum="2011-8-27"  wedstrijd="SV Lottum - IVO"		    uitslag="1 - 0" />
+    <Wedstrijd datum="2011-9-3"   wedstrijd="IVO - TSC’04 (A)"	    	uitslag="2 - 3" />
+    <Wedstrijd datum="2011-9-10"  wedstrijd="VCH - IVO"		          	uitslag="3 - 5" />
+    <Wedstrijd datum="2011-9-17"  wedstrijd="IVO - RKDEV"     	    	uitslag="2 - 0" />
+    <Wedstrijd datum="2011-9-24"  wedstrijd="Venlosche Boys - IVO"  	uitslag="1 - 1" />
+    <Wedstrijd datum="2011-10-1"  wedstrijd="FCV - IVO"     		    uitslag="3 - 2" />
+    <Wedstrijd datum="2011-10-8"  wedstrijd="IVO - RKDSO"     	    	uitslag="1 - 5" />
+    <Wedstrijd datum="2011-10-15" wedstrijd="Belfeldia - IVO"		    uitslag="3 - 3" />
+    <Wedstrijd datum="2011-10-22" wedstrijd="IVO - Baarlo"     	    	uitslag="2 - 2" />
+    <Wedstrijd datum="2011-10-29" wedstrijd="MVC'19 - IVO"		      	uitslag="3 - 2" />
+    <Wedstrijd datum="2011-11-5"  wedstrijd="IVO - Sparta'18" 	    	uitslag="5 - 0" />
+    <Wedstrijd datum="2011-11-12" wedstrijd="VOS - IVO"   		      	uitslag="1 - 0" />
+    <Wedstrijd datum="2011-11-19" wedstrijd="IVO - RKSVN" 		      	uitslag="3 - 0" />
+    <Wedstrijd datum="2011-11-26" wedstrijd="SV Panningen - IVO"    	uitslag="0 - 0" />
+    <Wedstrijd datum="2011-12-3"  wedstrijd="IVO - Stormvogels'28" 		uitslag="7 - 1" />
+    <Wedstrijd datum="2011-12-10" wedstrijd="HRC'27 - IVO"          	uitslag="2 - 3" />
+    <Wedstrijd datum="2011-12-17" wedstrijd="IVO - GFC'33 (A)" 	    	uitslag="2 - 3" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2011" >
+    <Wedstrijd datum="2011-2-12"  wedstrijd="Mini-Voetbaltoernooi"  	uitslag="" />
+    <Wedstrijd datum="2011-2-26"  wedstrijd="IVO - GFC'33 (B)"		  	uitslag="0 - 1" />
+    <Wedstrijd datum="2011-3-12"  wedstrijd="IVO - VCH"			        uitslag="3 - 1" />
+    <Wedstrijd datum="2011-3-19"  wedstrijd="Meterik - IVO"		      	uitslag="1 - 3" />
+    <Wedstrijd datum="2011-3-26"  wedstrijd="IVO - H.B.S.V."		    uitslag="1 - 0" />
+    <Wedstrijd datum="2011-4-2"   wedstrijd="Koningslust - IVO"		  	uitslag="1 - 4" />
+    <Wedstrijd datum="2011-4-9"   wedstrijd="IVO - Grashoek"		    uitslag="2 - 1" />
+    <Wedstrijd datum="2011-4-16"  wedstrijd="MVC'19 - IVO"		      	uitslag="1 - 1" />
+    <Wedstrijd datum="2011-4-23"  wedstrijd="IVO - Sparta'18"		    uitslag="1 - 1" />
+    <Wedstrijd datum="2011-4-29"  wedstrijd="FCV - IVO"			        uitslag="1 - 1" />
+    <Wedstrijd datum="2011-5-7"   wedstrijd="SV Venray - IVO"		    uitslag="1 - 1" />
+    <Wedstrijd datum="2011-5-14"  wedstrijd="IVO - Wittenhorst (A)"		uitslag="2 - 3" />
+    <Wedstrijd datum="2011-5-21"  wedstrijd="Belfeldia - IVO"		    uitslag="4 - 3" />
+    <Wedstrijd datum="2011-5-28"  wedstrijd="IVO - Baarlo"		      	uitslag="1 - 0" />
+    <Wedstrijd datum="2011-6-3"   wedstrijd="RKDSO - IVO"			    uitslag="Afg." />
+    <Wedstrijd datum="2011-6-11"  wedstrijd="RKDEV - IVO"			    uitslag="1 - 2" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2010" >
+    <Wedstrijd datum="2010-8-28"   wedstrijd="IVO - RKDSO"            	uitslag="2 - 2" />
+    <Wedstrijd datum="2010-9-4"    wedstrijd="GFC'33 (B) - IVO"			uitslag="1 - 3" />
+    <Wedstrijd datum="2010-9-11"   wedstrijd="VCH - IVO"              	uitslag="Afg." />
+    <Wedstrijd datum="2010-9-18"   wedstrijd="IVO - Meterik"          	uitslag="5 - 0" />
+    <Wedstrijd datum="2010-9-25"   wedstrijd="H.B.S.V. - IVO"      		uitslag="0 - 3" />
+    <Wedstrijd datum="2010-10-2"   wedstrijd="IVO - Koningslust"      	uitslag="2 - 0" />
+    <Wedstrijd datum="2010-10-9"   wedstrijd="Grashoek - IVO"         	uitslag="1 - 2" />
+    <Wedstrijd datum="2010-10-16"  wedstrijd="IVO - MVC'19"           	uitslag="0 - 1" />
+    <Wedstrijd datum="2010-10-23"  wedstrijd="Sparta'18 - IVO"        	uitslag="0 - 4" />
+    <Wedstrijd datum="2010-10-30"  wedstrijd="IVO - FCV"    	        uitslag="5 - 0" />
+    <Wedstrijd datum="2010-11-6"   wedstrijd="SV Venray - IVO"        	uitslag="Afg." />
+    <Wedstrijd datum="2010-11-13"  wedstrijd="IVO - Wittenhorst (A)"  	uitslag="Afg." />
+    <Wedstrijd datum="2010-11-20"  wedstrijd="IVO - Belfeldia"        	uitslag="2 - 1" />
+    <Wedstrijd datum="2010-11-27"  wedstrijd="Baarlo - IVO"	        	uitslag="2 - 1" />
+    <Wedstrijd datum="2010-12-3"   wedstrijd="RKDSO - IVO"            	uitslag="Afg." />
+    <Wedstrijd datum="2010-12-11"  wedstrijd="IVO - SV Lottum"        	uitslag="Afg." />
+    <Wedstrijd datum="2010-12-18"  wedstrijd="IVO - RKDEV"          	uitslag="Afg." />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+
+  <Wedstrijden tekst="Voorjaar 2010" >
+    <Wedstrijd datum="2010-3-6"    wedstrijd="IVO - Wittenhorst (A)"  uitslag="1 - 2" />
+    <Wedstrijd datum="2010-3-13"   wedstrijd="HBSV - IVO"             uitslag="2 - 1" />
+    <Wedstrijd datum="2010-3-20"   wedstrijd="IVO - Sparta'18"        uitslag="1 - 0" />
+    <Wedstrijd datum="2010-3-27"   wedstrijd="Koningslust - IVO"      uitslag="1 - 3" />
+    <Wedstrijd datum="2010-4-3"    wedstrijd="IVO - VCH"					    uitslag="2 - 1" />
+    <Wedstrijd datum="2010-4-10"   wedstrijd="FCV - IVO"              uitslag="2 - 1" />
+    <Wedstrijd datum="2010-4-17"   wedstrijd="IVO - Baarlo"           uitslag="1 - 2" />
+    <Wedstrijd datum="2010-4-24"   wedstrijd="Meterik - IVO"          uitslag="1 - 2" />
+    <Wedstrijd datum="2010-5-1"    wedstrijd="IVO - MVC'19"           uitslag="1 - 4" />
+    <Wedstrijd datum="2010-5-8"    wedstrijd="Melderslo - IVO"        uitslag="0 - 0" />
+    <Wedstrijd datum="2010-5-15"   wedstrijd="IVO - GFC'33 (B)"       uitslag="5 - 2" />
+    <Wedstrijd datum="2010-5-22"   wedstrijd="IVO - America"          uitslag="Afg." />
+    <Wedstrijd datum="2010-5-22"   wedstrijd="IVO - SVEB"          		uitslag="3 - 5" />
+    <Wedstrijd datum="2010-5-29"   wedstrijd="Belfeldia - IVO"			  uitslag="0 - 3" />
+    <Wedstrijd datum="2010-6-4"    wedstrijd="RKDSO - IVO"				    uitslag="3 - 2" />
+    <Wedstrijd datum="2010-6-12"   wedstrijd="Sparta'18 - IVO"			  uitslag="Afg." />
+    <Wedstrijd datum="2010-6-12"   wedstrijd="RKDSO - voetvolleybal toernooi" uitslag="2de" />
+    <Wedstrijd datum=""/>
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2009" >
+    <Wedstrijd datum="2009-8-22"   wedstrijd="IVO - SVEB"        	    uitslag="0 - 1" />
+    <Wedstrijd datum="2009-8-29"   wedstrijd="Helden - IVO"		        uitslag="Afg." />
+    <Wedstrijd datum="2009-8-29"   wedstrijd="IVO - IVO 7"            uitslag="1 - 1" />
+    <Wedstrijd datum="2009-9-5"    wedstrijd="Wittenhorst (A) - IVO"	uitslag="1 - 1" />
+    <Wedstrijd datum="2009-9-12"   wedstrijd="IVO - HBSV"             uitslag="1 - 3" />
+    <Wedstrijd datum="2009-9-19"   wedstrijd="Sparta'18 - IVO"        uitslag="2 - 1" />
+    <Wedstrijd datum="2009-9-26"   wedstrijd="IVO - Koningslust"      uitslag="Afg." />
+    <Wedstrijd datum="2009-10-3"   wedstrijd="VCH - IVO"              uitslag="1 - 2" />
+    <Wedstrijd datum="2009-10-10"  wedstrijd="IVO - FCV"              uitslag="2 - 3" />
+    <Wedstrijd datum="2009-10-17"  wedstrijd="Baarlo - IVO"           uitslag="0 - 0" />
+    <Wedstrijd datum="2009-10-24"  wedstrijd="IVO - Meterik"          uitslag="2 - 0" />
+    <Wedstrijd datum="2009-10-31"  wedstrijd="MVC'19 - IVO"           uitslag="3 - 4" />
+    <Wedstrijd datum="2009-11-7"   wedstrijd="IVO - Melderslo"        uitslag="1 - 1" />
+    <Wedstrijd datum="2009-11-14"  wedstrijd="GFC'33 (B) - IVO"       uitslag="5 - 2" />
+    <Wedstrijd datum="2009-11-21"  wedstrijd="America - IVO"          uitslag="Afg." />
+    <Wedstrijd datum="2009-11-21"  wedstrijd="IVO - IVO 7"            uitslag="1 - 3" />
+    <Wedstrijd datum="2009-11-28"  wedstrijd="IVO - Belfeldia"        uitslag="Afg." />
+    <Wedstrijd datum="2009-12-5"   wedstrijd="IVO - Z.S.V."           uitslag="Afg." />
+    <Wedstrijd datum="2009-12-12"  wedstrijd="IVO - RKDSO"            uitslag="0 - 5" />
+    <Wedstrijd datum="2009-12-19"  wedstrijd="IVO - Sparta '18"       uitslag="Afg." />
+    <Wedstrijd datum=""/>
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2009" >
+    <Wedstrijd datum="2009-3-7"    wedstrijd="IVO - Blerick"          uitslag="0 - 6" />
+    <Wedstrijd datum="2009-3-14"   wedstrijd="Venlo - IVO"            uitslag="0 - 2" />
+    <Wedstrijd datum="2009-3-21"   wedstrijd="IVO - Quick Boys"       uitslag="Afg." />
+    <Wedstrijd datum="2009-3-28"   wedstrijd="TSC(b) - IVO"      	    uitslag="0 - 6" />
+    <Wedstrijd datum="2009-4-4"    wedstrijd="IVO - Venlosche Boys"   uitslag="1 - 2" />
+    <Wedstrijd datum="2009-4-11"   wedstrijd="FCV - IVO"              uitslag="1 - 4" />
+    <Wedstrijd datum="2009-4-18"   wedstrijd="Baarlo - IVO"           uitslag="0 - 3" />
+    <Wedstrijd datum="2009-4-25"   wedstrijd="IVO - SC Irene"         uitslag="2 - 2" />
+    <Wedstrijd datum="2009-5-2"    wedstrijd="TSC(c) - IVO"           uitslag="2 - 4" />
+    <Wedstrijd datum="2009-5-9"    wedstrijd="IVO - TSC(a)"           uitslag="4 - 1" />
+    <Wedstrijd datum="2009-5-16"   wedstrijd="VVV'03 - IVO"           uitslag="3 - 3" />
+    <Wedstrijd datum="2009-5-23"   wedstrijd="IVO - Reuver"           uitslag="1 - 1" />
+    <Wedstrijd datum="2009-5-30"   wedstrijd="VOS - IVO"              uitslag="3 - 3" />
+    <Wedstrijd datum="2009-6-5"    wedstrijd="IVO - RKDSO"            uitslag="2 - 3" />
+    <Wedstrijd datum=""/>
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2008" >
+    <Wedstrijd datum="2008-8-30"   wedstrijd="Sparta'18 - IVO"        uitslag="1 - 5" />
+    <Wedstrijd datum="2008-9-6"    wedstrijd="Blerick - IVO"          uitslag="Afg." />
+    <Wedstrijd datum="2008-9-6"    wedstrijd="Hegelsom - IVO"         uitslag="0 - 3" />
+    <Wedstrijd datum="2008-9-13"   wedstrijd="IVO - Venlo"            uitslag="Gest." />
+    <Wedstrijd datum="2008-9-20"   wedstrijd="Quick Boys - IVO"       uitslag="Afg." />
+    <Wedstrijd datum="2008-9-27"   wedstrijd="IVO - TSC(b)"      	    uitslag="Afg." />
+    <Wedstrijd datum="2008-10-4"   wedstrijd="Venlosche Boys - IVO"   uitslag="2 - 2" />
+    <Wedstrijd datum="2008-10-11"  wedstrijd="IVO - FCV"              uitslag="1 - 3" />
+    <Wedstrijd datum="2008-10-18"  wedstrijd="IVO - Baarlo"           uitslag="1 - 0" />
+    <Wedstrijd datum="2008-10-25"  wedstrijd="SC Irene - IVO"         uitslag="1 - 6" />
+    <Wedstrijd datum="2008-11-1"   wedstrijd="IVO - TSC(c)"           uitslag="3 - 1" />
+    <Wedstrijd datum="2008-11-8"   wedstrijd="TSC(a) - IVO"           uitslag="0 - 1" />
+    <Wedstrijd datum="2008-11-15"  wedstrijd="IVO - VVV'03"           uitslag="2 - 0" />
+    <Wedstrijd datum="2008-11-22"  wedstrijd="Reuver - IVO"           uitslag="Afg." />
+    <Wedstrijd datum="2008-11-29"  wedstrijd="IVO - VOS"              uitslag="6 - 5" />
+    <Wedstrijd datum="2008-12-6"   wedstrijd="RKDSO - IVO"            uitslag="6 - 2" />
+    <Wedstrijd datum="2008-12-13"  wedstrijd="Melderslo - IVO"        uitslag="3 - 2" />
+    <Wedstrijd datum=""/>
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2008">
+    <Wedstrijd datum="2008-2-23"   wedstrijd="IVO - RKDSO"             uitslag="2 - 1" />
+    <Wedstrijd datum="2008-3-1"    wedstrijd="IVO - Blerick"           uitslag="2 - 2" />
+    <Wedstrijd datum="2008-3-8"    wedstrijd="Venlo - IVO"             uitslag="3 - 1" />
+    <Wedstrijd datum="2008-3-15"   wedstrijd="IVO - Quick Boys"        uitslag="0 - 3" />
+    <Wedstrijd datum="2008-3-22"   wedstrijd="VVV'03 - IVO"      	   uitslag="3 - 2" />
+    <Wedstrijd datum="2008-3-29"   wedstrijd="IVO - FCV"               uitslag="Afg." />
+    <Wedstrijd datum="2008-4-5"    wedstrijd="Belfeldia - IVO"         uitslag="Afg." />
+    <Wedstrijd datum="2008-4-12"   wedstrijd="Venlosche Boys - IVO"    uitslag="0 - 5" />
+    <Wedstrijd datum="2008-4-19"   wedstrijd="IVO - SC Irene"          uitslag="4 - 0" />
+    <Wedstrijd datum="2008-4-26"   wedstrijd="TSC(c) - IVO"            uitslag="2 - 2" />
+    <Wedstrijd datum="2008-5-3"    wedstrijd="IVO - TSC(a)"            uitslag="Afg." />
+    <Wedstrijd datum="2008-5-10"   wedstrijd="TSC(b) - IVO"            uitslag="0 - 3" />
+    <Wedstrijd datum="2008-5-17"   wedstrijd="IVO - Reuver"            uitslag="2 - 1" />
+    <Wedstrijd datum="2008-5-23"   wedstrijd="VOS - IVO"               uitslag="5 - 0" />
+    <Wedstrijd datum="2008-5-31"   wedstrijd="Meijel - IVO"            uitslag="Afg." />
+    <Wedstrijd datum=""/>
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2007">
+    <Wedstrijd datum="2007-8-25"   wedstrijd="Panningen - IVO"         uitslag="1 - 0" />
+    <Wedstrijd datum="2007-9-1"    wedstrijd="Blerick - IVO"           uitslag="2 - 1" />
+    <Wedstrijd datum="2007-9-8"    wedstrijd="IVO - Venlo"             uitslag="2 - 1" />
+    <Wedstrijd datum="2007-9-15"   wedstrijd="Quick Boys - IVO"        uitslag="8 - 2" />
+    <Wedstrijd datum="2007-9-22"   wedstrijd="IVO - VVV'03"      	   uitslag="3 - 3" />
+    <Wedstrijd datum="2007-9-29"   wedstrijd="FCV - IVO"               uitslag="0 - 3" />
+    <Wedstrijd datum="2007-10-6"   wedstrijd="IVO - Belfeldia"         uitslag="4 - 1" />
+    <Wedstrijd datum="2007-10-13"  wedstrijd="IVO - Venlosche Boys"    uitslag="3 - 1" />
+    <Wedstrijd datum="2007-10-20"  wedstrijd="SC Irene - IVO"          uitslag="2 - 2" />
+    <Wedstrijd datum="2007-10-27"  wedstrijd="IVO - TSC(c)"            uitslag="Afg." />
+    <Wedstrijd datum="2007-11-3"   wedstrijd="TSC(a) - IVO"            uitslag="3 - 2" />
+    <Wedstrijd datum="2007-11-10"  wedstrijd="IVO - TSC(b)"            uitslag="Afg." />
+    <Wedstrijd datum="2007-11-17"  wedstrijd="Reuver - IVO"            uitslag="1 - 1" />
+    <Wedstrijd datum="2007-11-24"  wedstrijd="IVO - VOS"               uitslag="4 - 1" />
+    <Wedstrijd datum="2007-12-1"   wedstrijd="IVO - Sparta'18"         uitslag="Afg." />
+    <Wedstrijd datum="2007-12-8"   wedstrijd="Baarlo - IVO"            uitslag="Afg." />
+    <Wedstrijd datum="2007-12-15"  wedstrijd="IVO - VCH"               uitslag="Afg." />
+    <Wedstrijd datum=""/>
+  </Wedstrijden>
+
+</Programma>

@@ -1,0 +1,138 @@
+<html>
+<head>
+    <title>IVO Veteranen</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta http-equiv="Pragma" content="NO-CACHE" />
+    <meta http-equiv="Cache-Control" content="NO-STORE, NO-CACHE, MUST-REVALIDATE, POST-CHECK=0, PRE-CHECK=0" />
+    <meta http-equiv="Expires" content="01 Jan 1970 00:00:00 GMT" />
+    <meta http-equiv="Last-Modified" content="01 Jan 1970 00:00:00 GMT" />
+    <meta http-equiv="If-Modified-Since" content="01 Jan 1970 00:00:00 GMT" /> 
+    <!--<meta name="viewport" content="width=device-width, maximum-scale=1.0" />-->
+    <meta name="description" content="Alles over de IVO Veteranen" />
+    <meta name="author" content="W.H.M. Vercoulen" />
+    <meta name="keywords" content="IVO Veteranen, ivo veteranen, IVO, ivo, Veteranen, veteranen, RKSV IVO, rksv ivo, RKSVIVO, rksvivo, voetbalvereniging, Zuid II, KNVB" />
+    <meta name="page-topic" content="Sport" />
+    <meta name="audience" content=" Alle " />
+    <meta name="Robots" content="INDEX, FOLLOW" />
+
+    <link rel="stylesheet" type="text/css" href="Styles/index.css" />
+
+    <script type="text/javascript" language="javascript" src="Scripts/bluebird.min.js"></script>
+    <script type="text/javascript" src="Scripts/global.js"></script>
+    <script type="text/javascript" src="Scripts/index.js"></script>
+
+    <script>
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-62329710-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+</head>
+<body text="#FF0000" 
+    style="background: -webkit-gradient(linear, left top, right top, from(#000000), to(#FF0000));
+           background: -ms-linear-gradient(right, #FF0000 0%, #000000 100%);
+           background-image: -moz-linear-gradient(right, #FF0000 0%, #000000 100%);
+           background-image: -o-linear-gradient(right, #FF0000 0%, #000000 100%);
+           background-image: linear-gradient(to left, #FF0000 0%, #000000 100%);
+           filter: progid:DXImageTransform.Microsoft.Gradient(endColorstr='#FF0000', startColorstr='#000000', gradientType='1');
+           overflow: hidden; padding: 0px; border: 0px; ">
+    <table style="border: 0px; margin: 0px; width: 100%; height: 100%; margin: 0px;" cellpadding="0" cellspacing="0">
+        <thead >
+            <tr>
+                <td>
+                    <table border="1" style="border-color: white; width: 100%; height: 150px;" cellpadding="0" cellspacing="0">
+                        <thead style="background-color: #000000;" >
+                            <tr>
+                                <td rowspan="2"><img src="Images/RKSVIVO.jpg" width="126" height="150" alt="RKSV IVO" /></td>
+                                <td id="tdDate" style="padding-left: 25px; color: White; font-size: 20px; border-bottom: 0px; border-right: 0px; "></td>
+                                <td id="tdTime" align="right" style="padding-right: 25px; color: White; font-size: 20px; border-bottom: 0px; border-left: 0px; "></td>
+                                <td rowspan="2"><img src="Images/RKSVIVO.jpg" width="126" height="150" alt="RKSV IVO" /></td>
+                            </tr>
+                            <tr >
+                                <td colspan="2" align="center" width="100%" bgcolor="#303030" height="110px">
+                                    <font color="#FF0000" size="7" face="arial">
+                                        <marquee id="mrqIVOVeteranen" align="middle" height="65" scrollamount="10"
+                                            scrolldelay="100">
+                                            IVO Veteranen
+                                        </marquee>
+                                    </font>
+                                </td>
+                            </tr>
+                        </thead> 
+                    </table>
+                </td>
+            </tr>
+            <tr style="height: 25px;" ><td></td></tr>
+        </thead>
+        <tbody>
+            <tr style="height: 100%;" >
+                <td colspan="3" height="100%" >
+                    <div style="height: 100%;">
+                        <table style="border: 0; width: 100%; height: 100%;" >
+                            <colgroup>
+                                <col width="250" />
+                                <col />
+                            </colgroup>
+                            <tr style="height: 100%;" >
+                                <td valign="top" style="width: 325px;">
+                                    <h1 style="text-decoration: underline">
+                                        IVO Veteranen</h1>
+                                    <ul>
+                                        <li class="nomouse" title="Nieuws" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'nieuws');">
+                                            <h2 id="h2nieuws">Nieuws</h2>
+                                        </li>
+                                        <li class="nomouse" title="Programma veteranen" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'programma');">
+                                            <h2 id="h2programma">Programma veteranen</h2>
+                                        </li>
+                                        <li class="nomouse" title="Programma wandelvoetbal" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'programmawandelvoetbal');">
+                                            <h2 id="h2programmawandelvoetbal">Programma wandelvoetbal</h2>
+                                        </li>
+                                        <li class="nomouse" title="Wedstrijdverslagen" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'wedstrijdverslagen');">
+                                            <h2 id="h2wedstrijdverslagen">Wedstrijdverslagen</h2>
+                                        </li>
+                                        <li class="nomouse" title="Koffie met 'backs'" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'koffiemetbacks');">
+                                            <h2 id="h2koffiemetbacks">Koffie met 'backs'</h2>
+                                        </li>
+                                        <li class="nomouse" title="Bestuur" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(2, 'bestuur');">
+                                            <h2 id="h2bestuur">Bestuur</h2>
+                                        </li>
+                                        <li class="nomouse" title="Sponsors" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'sponsors');">
+                                            <h2 id="h2sponsors">Sponsors</h2>
+                                        </li>
+                                        <li class="nomouse" title="Fotoalbum" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'fotoalbum');">
+                                            <h2 id="h2fotoalbum">Fotoalbum</h2>
+                                        </li>
+                                        <li class="nomouse" title="Jaaroverzichten" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'jaaroverzichten');">
+                                            <h2 id="h2jaaroverzichten">Jaaroverzichten</h2>
+                                        </li>
+                                        <li class="nomouse" title="Oprichting" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="ShowInformation(1, 'oprichting');">
+                                            <h2 id="h2oprichting">Oprichting</h2>
+                                        </li>
+                                        <li class="nomouse" title="Privacy" onmouseover="this.className='mouse'" onmouseout="this.className='nomouse'" onclick="OpenPrivacy();">
+                                            <h2 id="h2privacy">Privacy</h2>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td valign="top" style="height: 100%;" >
+                                    <iframe id="ifrSection1" src="" height="100%" width="100%" frameborder="0" allowtransparency="true" scrolling="auto" ></iframe>
+                                    <iframe id="ifrSection2" src="" height="100%" width="100%" frameborder="0" allowtransparency="true" scrolling="no" style="display: none; "  > </iframe>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

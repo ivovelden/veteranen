@@ -1,11 +1,11 @@
 ﻿<Programma>
 
   <Wedstrijden tekst="Voorjaar 2020" doc="IVO-Veteranen Voorjaar 2020.pdf">
-    <Wedstrijd datum="2020-2-29"  marquee="1" afgelast="0"                wedstrijd="VVV'03 - IVO"             	  aanvang="16:00"   vertrek="15:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-3-7"   marquee="1" afgelast="0"                wedstrijd="SV United - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-3-14"  marquee="1" afgelast="0"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag=""      verslag="0" />
-    <Wedstrijd datum="2020-3-21"  marquee="1" afgelast="0"                wedstrijd="SV Leunen - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
-    <Wedstrijd datum="2020-3-28"  marquee="1" afgelast="0"                wedstrijd="IVO - Venray"                aanvang="17:00"                     uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-2-29"  marquee="1" afgelast="1"                wedstrijd="VVV'03 - IVO"             	  aanvang="16:00"   vertrek="15:00"   uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-7"   marquee="1" afgelast="1"                wedstrijd="SV United - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-14"  marquee="1" afgelast="1"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-21"  marquee="1" afgelast="1"                wedstrijd="SV Leunen - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-28"  marquee="1" afgelast="1"                wedstrijd="IVO - Venray"                aanvang="17:00"                     uitslag="Afg."  verslag="0" />
     <Wedstrijd datum="2020-4-4"   marquee="1" afgelast="0"                wedstrijd="Oostrum - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
     <Wedstrijd datum="2020-4-11"  marquee="1" afgelast="0"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag=""      verslag="0" />
     <Wedstrijd datum="2020-4-18"  marquee="1" afgelast="0"                wedstrijd="Holthees - IVO"              aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />

@@ -6,7 +6,7 @@
     <Wedstrijd datum="2020-3-14"  marquee="1" afgelast="1"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag="Afg."  verslag="0" />
     <Wedstrijd datum="2020-3-21"  marquee="1" afgelast="1"                wedstrijd="SV Leunen - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
     <Wedstrijd datum="2020-3-28"  marquee="1" afgelast="1"                wedstrijd="IVO - Venray"                aanvang="17:00"                     uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-4-4"   marquee="1" afgelast="0"                wedstrijd="Oostrum - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
+    <Wedstrijd datum="2020-4-4"   marquee="1" afgelast="1"                wedstrijd="Oostrum - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
     <Wedstrijd datum="2020-4-11"  marquee="1" afgelast="0"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag=""      verslag="0" />
     <Wedstrijd datum="2020-4-18"  marquee="1" afgelast="0"                wedstrijd="Holthees - IVO"              aanvang="17:00"   vertrek="16:00"   uitslag=""      verslag="0" />
     <Wedstrijd datum="2020-4-25"  marquee="1" afgelast="0"                wedstrijd="IVO - Ysselsteyn"            aanvang="17:00"                     uitslag=""      verslag="0" />

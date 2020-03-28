@@ -3,13 +3,13 @@
   <Wedstrijden tekst="Voorjaar 2020" doc="IVO-Wandelvoetbal Voorjaar 2020.pdf">
     <Wedstrijd datum="2020-2-29"  marquee="0" afgelast="0"                wedstrijd="Trainen"                   aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2020-3-7"   marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo"           aanvang="16:00"                     uitslag="11 - 5"  verslag="0" />
-    <Wedstrijd datum="2020-3-21"  marquee="0" afgelast="0"                wedstrijd="IVO - Merselo"             aanvang="16:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2020-4-11"  marquee="0" afgelast="0"                wedstrijd="RKMSV-B - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
-    <Wedstrijd datum="2020-4-18"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2020-5-2"   marquee="0" afgelast="0"                wedstrijd="Resia/DEV - IVO"           aanvang="16:00"   vertrek="15:15"   uitslag=""        verslag="0" />
-    <Wedstrijd datum="2020-5-16"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2020-5-27"  marquee="0" afgelast="0"                wedstrijd="Toernooi VVV-Venlo"        aanvang="10:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2020-5-30"  marquee="0" afgelast="0"                wedstrijd="RKMSV-A - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-3-21"  marquee="0" afgelast="1"                wedstrijd="IVO - Merselo"             aanvang="16:00"                     uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2020-4-11"  marquee="0" afgelast="1"                wedstrijd="RKMSV-B - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2020-4-18"  marquee="0" afgelast="1"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2020-5-2"   marquee="0" afgelast="1"                wedstrijd="Resia/DEV - IVO"           aanvang="16:00"   vertrek="15:15"   uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2020-5-16"  marquee="0" afgelast="1"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2020-5-27"  marquee="0" afgelast="1"                wedstrijd="Toernooi VVV-Venlo"        aanvang="10:00"                     uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2020-5-30"  marquee="0" afgelast="1"                wedstrijd="RKMSV-A - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

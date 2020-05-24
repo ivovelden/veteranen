@@ -1,6 +1,9 @@
 <Mededelingen>
 
-<!--
+  <Mededeling marquee="1" datumvan="2020-05-31" datumtot="2020-06-28"
+              tekst="Zaterdag 27 juni - Feestdag IVO Veteranen *** AFGELAST *** AFGELAST *** AFGELAST ***"/>
+
+  <!--
   <Mededeling marquee="1" datumvan="2014-06-01" datumtot="2014-06-22"
               tekst="Zaterdag 21 juni - Feestdag IVO Veteranen"/>
 

@@ -1,6 +1,6 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Najaar 2020" docTODO="IVO-Wandelvoetbal Najaar 2020.pdf">
+  <Wedstrijden tekst="Najaar 2020" doc="IVO-Wandelvoetbal Najaar 2020.pdf">
     <Wedstrijd datum="2020-8-28"  marquee="0" afgelast="0"                wedstrijd="Toernooi RKDEV"            aanvang="11:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2020-9-5"   marquee="0" afgelast="0"                wedstrijd="Melderslo - IVO"           aanvang="16:00"   vertrek="15:15"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2020-9-25"  marquee="0" afgelast="0"                wedstrijd="Merselo - IVO"             aanvang="19:00"   vertrek="18:00"   uitslag=""        verslag="0" />

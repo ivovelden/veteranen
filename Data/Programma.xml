@@ -1,24 +1,45 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2020" doc="IVO-Veteranen Voorjaar 2020.pdf">
-    <Wedstrijd datum="2020-2-29"  marquee="1" afgelast="1"                wedstrijd="VVV'03 - IVO"             	  aanvang="16:00"   vertrek="15:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-3-7"   marquee="1" afgelast="1"                wedstrijd="SV United - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-3-14"  marquee="1" afgelast="1"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-3-21"  marquee="1" afgelast="1"                wedstrijd="SV Leunen - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-3-28"  marquee="1" afgelast="1"                wedstrijd="IVO - Venray"                aanvang="17:00"                     uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-4-4"   marquee="1" afgelast="1"                wedstrijd="Oostrum - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-4-11"  marquee="1" afgelast="1"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-4-18"  marquee="1" afgelast="1"                wedstrijd="Holthees - IVO"              aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-4-25"  marquee="1" afgelast="1"                wedstrijd="IVO - Ysselsteyn"            aanvang="17:00"                     uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-5-2"   marquee="1" afgelast="1"                wedstrijd="EWC'46 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-5-9"   marquee="1" afgelast="1"                wedstrijd="IVO - Montagnards"           aanvang="17:00"                     uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-5-16"  marquee="1" afgelast="1"                wedstrijd="RKDSO - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-5-23"  marquee="1" afgelast="1"                wedstrijd="SC Hinsbeck - IVO"           aanvang="16:00"   vertrek="15:00"   uitslag="Afg."  verslag="0" />
-    <Wedstrijd datum="2020-5-30"  marquee="1" afgelast="1"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag="Afg."  verslag="0" />
+  <Wedstrijden tekst="Najaar 2020" doc="IVO-Veteranen Najaar 2020.pdf">
+    <Wedstrijd datum="2020-8-29"  marquee="1" afgelast="0"                wedstrijd="RKSVN - IVO"             	  aanvang="17:00"   vertrek="16:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-9-5"   marquee="1" afgelast="0"                wedstrijd="IVO - Belfeldia"             aanvang="17:00"                     uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-9-12"  marquee="1" afgelast="0"                wedstrijd="Grashoek - IVO"              aanvang="17:00"   vertrek="16:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-9-19"  marquee="1" afgelast="0"                wedstrijd="IVO - Helden"                aanvang="17:00"                     uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-9-26"  marquee="1" afgelast="0"                wedstrijd="Venlose Boys - IVO"          aanvang="17:00"   vertrek="16:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-10-3"  marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-10-10" marquee="1" afgelast="0"                wedstrijd="Baarlo - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-10-17" marquee="1" afgelast="0"                wedstrijd="IVO - VVV'03"                aanvang="17:00"                     uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-10-24" marquee="1" afgelast="0"                wedstrijd="Irene - IVO"                 aanvang="16:00"   vertrek="15:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-10-31" marquee="1" afgelast="0"                wedstrijd="IVO - Blerick"               aanvang="17:00"                     uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-11-7"  marquee="1" afgelast="0"                wedstrijd="FCV - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-11-14" marquee="1" afgelast="0"                wedstrijd="IVO - Reuver"                aanvang="17:00"                     uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-11-21" marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-11-28" marquee="1" afgelast="0"                wedstrijd="TSC'04 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-12-5"  marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-12-12" marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-12-19" marquee="1" afgelast="0"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag=""  verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
-  <Wedstrijden tekst="Najaar 2020 - Voorjaar 2021" >
+  <Wedstrijden tekst="Voorjaar 2021" >
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2020">
+    <Wedstrijd datum="2020-2-29"  wedstrijd="VVV'03 - IVO"             	  uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-7"   wedstrijd="SV United - IVO"             uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-14"  wedstrijd="IVO - SVS"                   uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-21"  wedstrijd="SV Leunen - IVO"             uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-3-28"  wedstrijd="IVO - Venray"                uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-4-4"   wedstrijd="Oostrum - IVO"               uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-4-11"  wedstrijd="IVO - SSS'18"                uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-4-18"  wedstrijd="Holthees - IVO"              uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-4-25"  wedstrijd="IVO - Ysselsteyn"            uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-5-2"   wedstrijd="EWC'46 - IVO"                uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-5-9"   wedstrijd="IVO - Montagnards"           uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-5-16"  wedstrijd="RKDSO - IVO"                 uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-5-23"  wedstrijd="SC Hinsbeck - IVO"           uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2020-5-30"  wedstrijd="IVO - RKDEV"                 uitslag="Afg."  verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

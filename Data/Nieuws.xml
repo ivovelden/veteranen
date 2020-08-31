@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="23 augustus 2020 - Programma najaar 2020" nieuw="1">
+  <Nieuw titel="31 augustus 2020 - Verslag wedstrijd RKSVN - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200829'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="23 augustus 2020 - Programma najaar 2020" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Programma." href="" target="" onclick="GotoProgramma(); return false" &gt;Programma&lt;/a&gt; of
       klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Programmas/IVO-Veteranen Najaar 2020.pdf&quot; target=&quot;_blank&quot;&gt;IVO-Veteranen Najaar 2020&lt;/a&gt; om het programma te downloaden.

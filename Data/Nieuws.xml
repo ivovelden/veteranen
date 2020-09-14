@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="6 september 2020 - Verslag wedstrijd IVO - Belfeldia" nieuw="1">
+  <Nieuw titel="13 september 2020 - Verslag wedstrijd Grashoek - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200912'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="6 september 2020 - Verslag wedstrijd IVO - Belfeldia" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200905'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

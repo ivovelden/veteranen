@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="27 september 2020 - Verslag wedstrijd Venlosche Boys - IVO" nieuw="1">
+  <Nieuw titel="11 oktober 2020 - Verslag wedstrijd Baarlo - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20201010'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="27 september 2020 - Verslag wedstrijd Venlosche Boys - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200926'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

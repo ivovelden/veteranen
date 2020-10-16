@@ -1,6 +1,17 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="11 oktober 2020 - Verslag wedstrijd Baarlo - IVO" nieuw="1">
+  <Nieuw titel="16 oktober 2020 - Nieuwe Corona maatregelen per 14 oktober 22:00 uur" nieuw="1">
+    <Tekst>
+      Zoals iedereen inmiddels wel weet heeft het kabinet 13 oktober wederom extra maatregelen aangekondigd om de verspreiding van het coronavirus tegen te gaan.
+      Deze extra maatregelen zijn woensdag 14 oktober om 22:00 uur ingegaan en gelden vooralsnog voor de komende vier weken.
+      &lt;br/&gt;
+      &lt;br/&gt;
+      Voor zowel de veteranen als ook de wandelvoetballers betekent dit dat er voorlopig geen wedstrijden gespeeld zullen worden.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="11 oktober 2020 - Verslag wedstrijd Baarlo - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20201010'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
@@ -119,93 +130,9 @@
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="10 december 2019 - Koffie met de ‘backs’" nieuw="1">
+  <Nieuw titel="10 december 2019 - Koffie met de ‘backs’" nieuw="0">
     <Tekst>
       Deze keer &lt;a class="ablue" title="Koffie met ... Jelle Kusters" href="" target="" onclick="GotoKoffieMetBacks('JelleKusters'); return false" &gt;Koffie met ... Jelle Kusters&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="2 december 2019 - Verslag wedstrijd RKDEV - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191130'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="23 november 2019 - Verslag wedstrijd IVO - RKDSO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191116'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="10 november 2019 - Verslag wedstrijd Montagnards - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191109'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="4 november 2019 - Verslag wedstrijd IVO - EWC'46" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191102'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="28 oktober 2019 - Verslag wedstrijd Ysselsteyn - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191026'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="7 oktober 2019 - Verslag wedstrijd SSS'18 - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191012'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="7 oktober 2019 - Verslag wedstrijd IVO - Oostrum" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20191005'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="29 september 2019 - Verslag wedstrijd SV Venray - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20190928'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="23 september 2019 - Verslag wedstrijd IVO - SV Leunen" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20190921'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="16 september 2019 - Verslag wedstrijd SVS - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20190914'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="8 september 2019 - Verslag wedstrijd IVO - SV United" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20190907'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="1 september 2019 - Verslag wedstrijd IVO - RKSVN" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20190831'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

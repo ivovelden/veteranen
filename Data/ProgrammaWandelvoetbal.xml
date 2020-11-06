@@ -8,8 +8,8 @@
     <Wedstrijd datum="2020-10-16" marquee="0" afgelast="1"                wedstrijd="Toernooi Melderslo"        aanvang="10:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2020-10-17" marquee="0" afgelast="1"                wedstrijd="Wittenhorst - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="Afg."		verslag="0" />
     <Wedstrijd datum="2020-10-31" marquee="0" afgelast="1"                wedstrijd="IVO - Resia/RKDEV"         aanvang="16:00"                     uitslag="Afg."		verslag="0" />
-    <Wedstrijd datum="2020-11-14" marquee="0" afgelast="0"                wedstrijd="Merefeldia - IVO"          aanvang="16:00"   vertrek="15:00"   uitslag=""		    verslag="0" />
-    <Wedstrijd datum="2020-11-28" marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"                     uitslag=""		    verslag="0" />
+    <Wedstrijd datum="2020-11-14" marquee="0" afgelast="0"                wedstrijd="Merefeldia - IVO"          aanvang="16:00"   vertrek="15:00"   uitslag="Afg."		verslag="0" />
+    <Wedstrijd datum="2020-11-28" marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"                     uitslag="Afg."		verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

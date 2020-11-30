@@ -15,9 +15,9 @@
     <Wedstrijd datum="2020-11-14" marquee="1" afgelast="1"                wedstrijd="IVO - Reuver"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2020-11-21" marquee="0" afgelast="1"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""        verslag="0" />
     <Wedstrijd datum="2020-11-28" marquee="1" afgelast="1"                wedstrijd="TSC'04 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2020-12-5"  marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""  verslag="0" />
-    <Wedstrijd datum="2020-12-12" marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""  verslag="0" />
-    <Wedstrijd datum="2020-12-19" marquee="1" afgelast="0"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag=""  verslag="0" />
+    <Wedstrijd datum="2020-12-5"  marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-12-12" marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""        verslag="0" />
+    <Wedstrijd datum="2020-12-19" marquee="1" afgelast="1"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

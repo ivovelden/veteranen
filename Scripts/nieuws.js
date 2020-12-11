@@ -20,6 +20,11 @@ function GotoAlbum(defaultAlbum)
     window.parent.ShowInformation(1, 'fotoalbum', defaultAlbum);
 }
 
+// Goto Jaaroverzichten function.
+function GotoJaaroverzichten() {
+    window.parent.ShowInformation(1, 'jaaroverzichten');
+}
+
 // Window onload function.
 window.onload = function() 
 {

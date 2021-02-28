@@ -129,7 +129,10 @@ function BuildProgrammaTable()
                             }
                             else
                             {
-                                oCellDate.innerText = sDate[2] + "-" + sDate[1] + "-" + sDate[0];
+                                if (sDate.length === 1)
+                                    oCellDate.innerText = sDate[0];
+                                else
+                                    oCellDate.innerText = sDate[2] + "-" + sDate[1] + "-" + sDate[0];
                             }
                             oRow.appendChild(oCellDate);
                         

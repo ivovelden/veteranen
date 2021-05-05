@@ -11,9 +11,9 @@
     <Wedstrijd datum="2021-4-24"  marquee="1" afgelast="1"                wedstrijd="IVO - Irene"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2021-5-1"   marquee="1" afgelast="1"                wedstrijd="Blerick - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2021-5-8"   marquee="1" afgelast="1"                wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-5-15"  marquee="1" afgelast="0"                wedstrijd="Reuver - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
-    <Wedstrijd datum="2021-5-22"  marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""        verslag="0" />
-    <Wedstrijd datum="2021-5-29"  marquee="1" afgelast="0"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-5-15"  marquee="1" afgelast="1"                wedstrijd="Reuver - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-5-22"  marquee="0" afgelast="1"                wedstrijd="Vrij"                        aanvang=""                          uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-5-29"  marquee="1" afgelast="1"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

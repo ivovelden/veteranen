@@ -1,14 +1,17 @@
 ﻿<Programma>
-<!-- 
-  <Wedstrijden tekst="Najaar 2020" doc="IVO-Wandelvoetbal Najaar 2020.pdf">
-    <Wedstrijd datum="2020-8-28"  marquee="0" afgelast="0"                wedstrijd="Toernooi RKDEV"            aanvang="10:00"                     uitslag=""			  verslag="0" />
-    <Wedstrijd datum="2020-9-5"   marquee="0" afgelast="0"                wedstrijd="Melderslo - IVO"           aanvang="16:00"   vertrek="15:00"   uitslag="10 - 10"	verslag="0" />
+
+  <Wedstrijden tekst="Najaar 2021" doc="IVO-Wandelvoetbal Najaar 2021.pdf">
+    <Wedstrijd datum="2021-9-11"  marquee="0" afgelast="0"                wedstrijd="Melderslo - IVO"           aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-9-24"  marquee="0" afgelast="0"                wedstrijd="Merselo - IVO"             aanvang="19:00"   vertrek="18:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-10-23" marquee="0" afgelast="0"                wedstrijd="Wittenhorst - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-11-6"  marquee="0" afgelast="0"                wedstrijd="IVO - Resia/RKDEV"         aanvang="16:00"   vertrek=""        uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-11-20" marquee="0" afgelast="0"                wedstrijd="Merefeldia - IVO"          aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-12-4"  marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"   vertrek=""        uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
--->
   
-  <Wedstrijden tekst="Voorjaar 2021" >
-    <Wedstrijd datum="???"   wedstrijd="???" />
+  <Wedstrijden tekst="Voorjaar 2022" >
+    <Wedstrijd datum="2022-3-5"   wedstrijd="IVO - Melderslo" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

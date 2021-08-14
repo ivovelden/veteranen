@@ -1,22 +1,41 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2021" doc="IVO-Veteranen Voorjaar 2021.pdf">
-    <Wedstrijd datum="2021-3-6"   marquee="1" afgelast="1"                wedstrijd="Belfeldia - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-3-13"  marquee="1" afgelast="1"                wedstrijd="IVO - Grashoek"              aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-3-20"  marquee="1" afgelast="1"                wedstrijd="Helden - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-3-27"  marquee="1" afgelast="1"                wedstrijd="IVO - Venlosche Boys"        aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-4-3"   marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""        verslag="0" />
-    <Wedstrijd datum="2021-4-10"  marquee="1" afgelast="1"                wedstrijd="IVO - Baarlo"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-4-17"  marquee="1" afgelast="1"                wedstrijd="VVV'03 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-4-24"  marquee="1" afgelast="1"                wedstrijd="IVO - Irene"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-5-1"   marquee="1" afgelast="1"                wedstrijd="Blerick - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-5-8"   marquee="1" afgelast="1"                wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-5-15"  marquee="1" afgelast="1"                wedstrijd="Reuver - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-5-22"  marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""    	  verslag="0" />
-    <Wedstrijd datum="2021-5-29"  marquee="1" afgelast="1"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-6-6"   marquee="1" afgelast="0"                wedstrijd="IVO - IVO 8"                 aanvang="11:00"                     uitslag="2 - 2"   verslag="1" />
-    <Wedstrijd datum="2021-6-12"  marquee="1" afgelast="0"                wedstrijd="IVO - IVO 19/02"             aanvang="16:00"                     uitslag="1 - 1"   verslag="1" />
-    <Wedstrijd datum="2021-6-26"  marquee="1" afgelast="0"                wedstrijd="IVO - IVO 8"                 aanvang="16:00"                     uitslag="3 - 2"   verslag="1" />
+  <Wedstrijden tekst="Najaar 2021" doc="IVO-Veteranen Najaar 2021.pdf">
+    <Wedstrijd datum="2021-9-4"   marquee="1" afgelast="0"                wedstrijd="Penantie-toernooi"           aanvang=""                          uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-9-11"  marquee="1" afgelast="0"                wedstrijd="RKDEV - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-9-18"  marquee="1" afgelast="0"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-9-25"  marquee="1" afgelast="0"                wedstrijd="SV Venray - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-10-2"  marquee="1" afgelast="0"                wedstrijd="IVO - Montagnards"           aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-10-9"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-10-16" marquee="1" afgelast="0"                wedstrijd="SV Merselo - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-10-23" marquee="0" afgelast="0"                wedstrijd="Vrij"                        aanvang=""                          uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-10-30" marquee="1" afgelast="0"                wedstrijd="IVO - Wittenhorst"           aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-11-6"  marquee="1" afgelast="0"                wedstrijd="VV Holthees - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-11-13" marquee="1" afgelast="0"                wedstrijd="IVO - Ysselsteyn"            aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-11-20" marquee="1" afgelast="0"                wedstrijd="SVS - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-11-27" marquee="1" afgelast="0"                wedstrijd="IVO - EWC'46"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-12-4"  marquee="1" afgelast="0"                wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2021">
+    <Wedstrijd datum="2021-3-6"   wedstrijd="Belfeldia - IVO"             uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-3-13"  wedstrijd="IVO - Grashoek"              uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-3-20"  wedstrijd="Helden - IVO"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-3-27"  wedstrijd="IVO - Venlosche Boys"        uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-4-3"   wedstrijd="Vrij"                        uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-4-10"  wedstrijd="IVO - Baarlo"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-4-17"  wedstrijd="VVV'03 - IVO"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-4-24"  wedstrijd="IVO - Irene"                 uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-5-1"   wedstrijd="Blerick - IVO"               uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-5-8"   wedstrijd="IVO - FCV"                   uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-5-15"  wedstrijd="Reuver - IVO"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-5-22"  wedstrijd="Vrij"                        uitslag=""    	  verslag="0" />
+    <Wedstrijd datum="2021-5-29"  wedstrijd="IVO - TSC'04"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-6-6"   wedstrijd="IVO - IVO 8"                 uitslag="2 - 2"   verslag="1" />
+    <Wedstrijd datum="2021-6-12"  wedstrijd="IVO - IVO 19/02"             uitslag="1 - 1"   verslag="1" />
+    <Wedstrijd datum="2021-6-26"  wedstrijd="IVO - IVO 8"                 uitslag="3 - 2"   verslag="1" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

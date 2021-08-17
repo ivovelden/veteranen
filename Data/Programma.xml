@@ -2,7 +2,7 @@
 
   <Wedstrijden tekst="Najaar 2021" doc="IVO-Veteranen Najaar 2021.pdf">
     <Wedstrijd datum="2021-9-4"   marquee="1" afgelast="0"                wedstrijd="Penantie-toernooi"           aanvang=""                          uitslag=""        verslag="0" />
-    <Wedstrijd datum="2021-9-11"  marquee="1" afgelast="0"                wedstrijd="RKDEV - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-9-11"  marquee="1" afgelast="1"                wedstrijd="RKDEV - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2021-9-18"  marquee="1" afgelast="0"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2021-9-25"  marquee="1" afgelast="0"                wedstrijd="SV Venray - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2021-10-2"  marquee="1" afgelast="0"                wedstrijd="IVO - Montagnards"           aanvang="17:00"                     uitslag=""        verslag="0" />

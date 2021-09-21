@@ -1,5 +1,12 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="20 september 2021 - Verslag wedstrijd IVO - SSS'18" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20210918'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
   <Nieuw titel="26 juni 2021 - Verslag wedstrijd IVO Veteranen - IVO 8" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20210626'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
@@ -36,48 +43,6 @@
       &lt;br/&gt;
       &lt;br/&gt;
       Voor zowel de veteranen als ook de wandelvoetballers betekent dit dat er voorlopig geen wedstrijden gespeeld zullen worden.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="11 oktober 2020 - Verslag wedstrijd Baarlo - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20201010'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="27 september 2020 - Verslag wedstrijd Venlosche Boys - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200926'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="20 september 2020 - Verslag wedstrijd IVO - Helden" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200919'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="13 september 2020 - Verslag wedstrijd Grashoek - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200912'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="6 september 2020 - Verslag wedstrijd IVO - Belfeldia" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200905'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="31 augustus 2020 - Verslag wedstrijd RKSVN - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20200829'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

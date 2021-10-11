@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="4 oktober 2021 - Verslag wedstrijd IVO - Montagnards" nieuw="1">
+  <Nieuw titel="11 oktober 2021 - Verslag wedstrijd IVO - RKDSO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20211009'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="4 oktober 2021 - Verslag wedstrijd IVO - Montagnards" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20211002'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

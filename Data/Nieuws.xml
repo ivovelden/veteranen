@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="17 oktober 2021 - Verslag wedstrijd Merselo - IVO" nieuw="1">
+  <Nieuw titel="26 oktober 2021 - Verslag wedstrijd Venlosche Boys - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20211023'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="17 oktober 2021 - Verslag wedstrijd Merselo - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20211016'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

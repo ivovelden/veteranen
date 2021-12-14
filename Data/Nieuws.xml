@@ -1,6 +1,14 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="29 november 2021 - Verslag wedstrijd EWC'46 - IVO" nieuw="1">
+  <Nieuw titel="14 december 2021 - Jaaroverzicht 2021 klaar!" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Jaaroverzichten." href="" target="" onclick="GotoJaaroverzichten(); return false" &gt;Jaaroverzichten&lt;/a&gt; of
+      klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2021.pdf&quot; target=&quot;_blank&quot;&gt;IVO Veteranen Jaaroverzicht 2021&lt;/a&gt; om het jaaroverzicht te openen.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="29 november 2021 - Verslag wedstrijd EWC'46 - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20211127'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

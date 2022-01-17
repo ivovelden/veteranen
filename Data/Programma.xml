@@ -1,20 +1,38 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Najaar 2021" doc="IVO-Veteranen Najaar 2021.pdf">
-    <Wedstrijd datum="2021-9-4"   marquee="1" afgelast="0"                wedstrijd="Penantie-toernooi"           aanvang=""                          uitslag=""        verslag="0" />
-    <Wedstrijd datum="2021-9-11"  marquee="1" afgelast="1"                wedstrijd="RKDEV - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-9-18"  marquee="1" afgelast="0"                wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag="2 - 1"   verslag="1" />
-    <Wedstrijd datum="2021-9-25"  marquee="1" afgelast="1"                wedstrijd="SV Venray - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2021-10-2"  marquee="1" afgelast="0"                wedstrijd="IVO - Montagnards"           aanvang="17:00"                     uitslag="3 - 4"   verslag="1" />
-    <Wedstrijd datum="2021-10-9"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag="3 - 1"   verslag="1" />
-    <Wedstrijd datum="2021-10-16" marquee="1" afgelast="0"                wedstrijd="SV Merselo - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag="1 - 6"   verslag="1" />
-    <Wedstrijd datum="2021-10-23" marquee="1" afgelast="0"                wedstrijd="Venlosche Boys – IVO"        aanvang="17:00"   vertrek="16:00"   uitslag="2 - 1"   verslag="1" />
-    <Wedstrijd datum="2021-10-30" marquee="1" afgelast="0"                wedstrijd="IVO - Wittenhorst"           aanvang="17:00"                     uitslag="4 - 2"   verslag="1" />
-    <Wedstrijd datum="2021-11-6"  marquee="1" afgelast="0"                wedstrijd="VV Holthees - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag="0 - 4"   verslag="1" />
-    <Wedstrijd datum="2021-11-13" marquee="1" afgelast="0"                wedstrijd="IVO - Ysselsteyn"            aanvang="17:00"                     uitslag="2 - 1"   verslag="1" />
-    <Wedstrijd datum="2021-11-20" marquee="1" afgelast="0"                wedstrijd="SVS - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag="3 - 6"   verslag="1" />
-    <Wedstrijd datum="2021-11-27" marquee="1" afgelast="0"                wedstrijd="EWC'46 - IVO"                aanvang="15:00"   vertrek="14:00"   uitslag="4 - 0"   verslag="1" />
-    <Wedstrijd datum="2021-12-4"  marquee="1" afgelast="1"                wedstrijd="RKSVN - IVO"                 aanvang="15:30"   vertrek="14:15"   uitslag="Afg."    verslag="0" />
+  <Wedstrijden tekst="Voorjaar 2022" doc="IVO-Veteranen Voorjaar 2022.pdf">
+    <Wedstrijd datum="2022-2-12"  marquee="1" afgelast="0"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-3-5"   marquee="1" afgelast="0"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-3-12"  marquee="1" afgelast="0"                wedstrijd="SSS'18 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-3-19"  marquee="1" afgelast="0"                wedstrijd="IVO - SV Venray"             aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-3-26"  marquee="1" afgelast="0"                wedstrijd="Montagnards - IVO"           aanvang="17:00"   vertrek="15:45"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-2"   marquee="1" afgelast="0"                wedstrijd="RKDSO - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-9"   marquee="1" afgelast="0"                wedstrijd="IVO - SV Merselo"            aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-16"  marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"           aanvang="17:15"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-23"  marquee="1" afgelast="0"                wedstrijd="IVO - VV Holthees"           aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-30"  marquee="1" afgelast="0"                wedstrijd="IVO - Venlosche Boys"        aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-5-7"   marquee="1" afgelast="0"                wedstrijd="Ysselsteyn - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-5-14"  marquee="1" afgelast="0"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-5-21"  marquee="1" afgelast="0"                wedstrijd="IVO - EWC'46"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-5-28"  marquee="1" afgelast="0"                wedstrijd="MVC - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2021">
+    <Wedstrijd datum="2021-9-4"   wedstrijd="Penantie-toernooi"           uitslag=""        verslag="0" />
+    <Wedstrijd datum="2021-9-11"  wedstrijd="RKDEV - IVO"                 uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-9-18"  wedstrijd="IVO - SSS'18"                uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2021-9-25"  wedstrijd="SV Venray - IVO"             uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2021-10-2"  wedstrijd="IVO - Montagnards"           uitslag="3 - 4"   verslag="1" />
+    <Wedstrijd datum="2021-10-9"  wedstrijd="IVO - RKDSO"                 uitslag="3 - 1"   verslag="1" />
+    <Wedstrijd datum="2021-10-16" wedstrijd="SV Merselo - IVO"            uitslag="1 - 6"   verslag="1" />
+    <Wedstrijd datum="2021-10-23" wedstrijd="Venlosche Boys – IVO"        uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2021-10-30" wedstrijd="IVO - Wittenhorst"           uitslag="4 - 2"   verslag="1" />
+    <Wedstrijd datum="2021-11-6"  wedstrijd="VV Holthees - IVO"           uitslag="0 - 4"   verslag="1" />
+    <Wedstrijd datum="2021-11-13" wedstrijd="IVO - Ysselsteyn"            uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2021-11-20" wedstrijd="SVS - IVO"                   uitslag="3 - 6"   verslag="1" />
+    <Wedstrijd datum="2021-11-27" wedstrijd="EWC'46 - IVO"                uitslag="4 - 0"   verslag="1" />
+    <Wedstrijd datum="2021-12-4"  wedstrijd="RKSVN - IVO"                 uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

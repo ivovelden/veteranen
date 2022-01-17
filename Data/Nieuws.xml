@@ -1,6 +1,14 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="14 december 2021 - Jaaroverzicht 2021 klaar!" nieuw="1">
+  <Nieuw titel="17 januari 2022 - Programma voorjaar 2022" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Programma." href="" target="" onclick="GotoProgramma(); return false" &gt;Programma&lt;/a&gt; of
+      klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Programmas/IVO-Veteranen Voorjaar 2022.pdf&quot; target=&quot;_blank&quot;&gt;IVO-Veteranen Voorjaar 2022&lt;/a&gt; om het programma te downloaden.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="14 december 2021 - Jaaroverzicht 2021 klaar!" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Jaaroverzichten." href="" target="" onclick="GotoJaaroverzichten(); return false" &gt;Jaaroverzichten&lt;/a&gt; of
       klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2021.pdf&quot; target=&quot;_blank&quot;&gt;IVO Veteranen Jaaroverzicht 2021&lt;/a&gt; om het jaaroverzicht te openen.
@@ -78,27 +86,6 @@
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="26 juni 2021 - Verslag wedstrijd IVO Veteranen - IVO 8" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20210626'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="12 juni 2021 - Verslag wedstrijd IVO Veteranen - IVO 19/02" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20210612'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="6 juni 2021 - Verslag wedstrijd IVO Veteranen - IVO 8" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20210606'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
   <Nieuw titel="11 december 2020 - Jaaroverzicht 2020 klaar!" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Jaaroverzichten." href="" target="" onclick="GotoJaaroverzichten(); return false" &gt;Jaaroverzichten&lt;/a&gt; of
@@ -114,14 +101,6 @@
       &lt;br/&gt;
       &lt;br/&gt;
       Voor zowel de veteranen als ook de wandelvoetballers betekent dit dat er voorlopig geen wedstrijden gespeeld zullen worden.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="23 augustus 2020 - Programma najaar 2020" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Programma." href="" target="" onclick="GotoProgramma(); return false" &gt;Programma&lt;/a&gt; of
-      klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Programmas/IVO-Veteranen Najaar 2020.pdf&quot; target=&quot;_blank&quot;&gt;IVO-Veteranen Najaar 2020&lt;/a&gt; om het programma te downloaden.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

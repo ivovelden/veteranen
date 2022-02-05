@@ -2,7 +2,8 @@
 
   <Wedstrijden tekst="Voorjaar 2022" doc="IVO-Veteranen Voorjaar 2022.pdf">
     <Wedstrijd datum="2022-2-12"  marquee="1" afgelast="0"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2022-3-5"   marquee="1" afgelast="0"                wedstrijd="SC Hinsbeck - IVO"           aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-2-19"  marquee="1" afgelast="0"                wedstrijd="Melderslo - IVO"             aanvang="16:30"   vertrek="15:30"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-3-5"   marquee="1" afgelast="0"                wedstrijd="Hinsbeck - IVO"              aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-3-12"  marquee="1" afgelast="0"                wedstrijd="SSS'18 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-3-19"  marquee="1" afgelast="0"                wedstrijd="IVO - SV Venray"             aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-3-26"  marquee="1" afgelast="0"                wedstrijd="Montagnards - IVO"           aanvang="17:00"   vertrek="15:45"   uitslag=""        verslag="0" />
@@ -15,6 +16,8 @@
     <Wedstrijd datum="2022-5-14"  marquee="1" afgelast="0"                wedstrijd="IVO - SVS"                   aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-5-21"  marquee="1" afgelast="0"                wedstrijd="IVO - EWC'46"                aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-5-28"  marquee="1" afgelast="0"                wedstrijd="MVC - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-6-4"   marquee="1" afgelast="0"                wedstrijd="Toernooi Blerick 7x7"        aanvang="15:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-6-18"  marquee="1" afgelast="0"                wedstrijd="Toernooi Hinsbeck???"        aanvang=""                          uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

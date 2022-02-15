@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="17 januari 2022 - Programma voorjaar 2022" nieuw="1">
+  <Nieuw titel="14 februari 2022 - Verslag wedstrijd IVO - RKSVN" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220212'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="17 januari 2022 - Programma voorjaar 2022" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Programma." href="" target="" onclick="GotoProgramma(); return false" &gt;Programma&lt;/a&gt; of
       klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Programmas/IVO-Veteranen Voorjaar 2022.pdf&quot; target=&quot;_blank&quot;&gt;IVO-Veteranen Voorjaar 2022&lt;/a&gt; om het programma te downloaden.

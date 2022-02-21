@@ -2,7 +2,7 @@
 
   <Wedstrijden tekst="Voorjaar 2022" doc="IVO-Veteranen Voorjaar 2022.pdf">
     <Wedstrijd datum="2022-2-12"  marquee="1" afgelast="0"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag="3 - 1"   verslag="1" />
-    <Wedstrijd datum="2022-2-19"  marquee="1" afgelast="0"                wedstrijd="Melderslo - IVO"             aanvang="16:30"   vertrek="15:30"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-2-19"  marquee="1" afgelast="0"                wedstrijd="Melderslo - IVO"             aanvang="16:30"   vertrek="15:30"   uitslag="0 - 5"   verslag="1" />
     <Wedstrijd datum="2022-3-5"   marquee="1" afgelast="0"                wedstrijd="Hinsbeck - IVO"              aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-3-12"  marquee="1" afgelast="0"                wedstrijd="SSS'18 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-3-19"  marquee="1" afgelast="0"                wedstrijd="IVO - SV Venray"             aanvang="17:00"                     uitslag=""        verslag="0" />

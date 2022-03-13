@@ -3,7 +3,7 @@
   <Wedstrijden tekst="Voorjaar 2022" doc="IVO-Wandelvoetbal Voorjaar 2022.pdf">
     <Wedstrijd datum="2022-3-5"   marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo"           aanvang="16:00"                     uitslag="4 - 7"   verslag="0" />
     <Wedstrijd datum="2022-3-19"  marquee="0" afgelast="0"                wedstrijd="IVO - Merselo"             aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2022-4-9"   marquee="0" afgelast="0"                wedstrijd="Melderslo-2 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-9"   marquee="0" afgelast="1"                wedstrijd="Melderslo-2 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2022-4-16"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-4-30"  marquee="0" afgelast="0"                wedstrijd="Resia/RKDEV - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-5-14"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag=""        verslag="0" />

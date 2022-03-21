@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="14 maart 2022 - Verslag wedstrijd SSS'18 - IVO" nieuw="1">
+  <Nieuw titel="21 maart 2022 - Verslag wedstrijd IVO - SV Venray" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220319'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="14 maart 2022 - Verslag wedstrijd SSS'18 - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220312'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

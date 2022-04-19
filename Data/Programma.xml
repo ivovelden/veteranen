@@ -9,7 +9,7 @@
     <Wedstrijd datum="2022-3-26"  marquee="1" afgelast="0"                wedstrijd="Montagnards - IVO"           aanvang="17:00"   vertrek="15:45"   uitslag="1 - 1"   verslag="1" />
     <Wedstrijd datum="2022-4-2"   marquee="1" afgelast="0"                wedstrijd="RKDSO - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="2 - 3"   verslag="1" />
     <Wedstrijd datum="2022-4-9"   marquee="1" afgelast="1"                wedstrijd="IVO - SV Merselo"            aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2022-4-16"  marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"           aanvang="17:15"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-16"  marquee="1" afgelast="1"                wedstrijd="Wittenhorst - IVO"           aanvang="17:15"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2022-4-23"  marquee="1" afgelast="0"                wedstrijd="IVO - VV Holthees"           aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-4-30"  marquee="1" afgelast="0"                wedstrijd="IVO - Venlosche Boys"        aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2022-5-7"   marquee="1" afgelast="0"                wedstrijd="Ysselsteyn - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />

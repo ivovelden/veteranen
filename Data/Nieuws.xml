@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="4 april 2022 - Verslag wedstrijd RKDSO - IVO" nieuw="1">
+  <Nieuw titel="25 april 2022 - Verslag wedstrijd Egchel - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220423'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="4 april 2022 - Verslag wedstrijd RKDSO - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220402'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

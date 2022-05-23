@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="8 mei 2022 - Verslag wedstrijd Ysselsteyn - IVO" nieuw="1">
+  <Nieuw titel="23 mei 2022 - Verslag wedstrijd IVO - EWC" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220521'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="8 mei 2022 - Verslag wedstrijd Ysselsteyn - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220507'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

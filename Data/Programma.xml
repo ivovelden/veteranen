@@ -17,7 +17,7 @@
     <Wedstrijd datum="2022-5-21"  marquee="1" afgelast="0"                wedstrijd="IVO - EWC'46"                aanvang="17:00"                     uitslag="7 - 0"   verslag="1" />
     <Wedstrijd datum="2022-5-28"  marquee="1" afgelast="0"                wedstrijd="MVC - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2022-6-4"   marquee="1" afgelast="0"                wedstrijd="Toernooi Blerick 7x7"        aanvang="15:00"                     uitslag="1ste"    verslag="1" />
-    <Wedstrijd datum="2022-6-18"  marquee="1" afgelast="0"                wedstrijd="IVO - VVV'03"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-6-18"  marquee="1" afgelast="1"                wedstrijd="IVO - VVV'03"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

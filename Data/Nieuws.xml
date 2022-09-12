@@ -1,5 +1,12 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="12 september 2022 - Verslag wedstrijd SV Ondo - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220910'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
   <Nieuw titel="16 juli 2022 - Verslag en foto's Veteranenfeest 2022" nieuw="0">
     <Tekst>
       &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Verslagveteranenfeest2022.pdf&quot; target=&quot;_blank&quot;&gt;Verslag Veteranenfeest 2022&lt;/a&gt;.

@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="23 oktober 2022 - Verslag wedstrijd RKDSO - IVO" nieuw="1">
+  <Nieuw titel="31 oktober 2022 - Verslag wedstrijd IVO - HBSV" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221029'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="23 oktober 2022 - Verslag wedstrijd RKDSO - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221022'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

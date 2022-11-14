@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="8 november 2022 - Verslag wedstrijd VVV'03 - IVO" nieuw="1">
+  <Nieuw titel="14 november 2022 - Verslag wedstrijd IVO - Wittenhorst" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221112'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="8 november 2022 - Verslag wedstrijd VVV'03 - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221105'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

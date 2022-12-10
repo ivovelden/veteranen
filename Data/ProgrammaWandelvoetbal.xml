@@ -1,18 +1,29 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Najaar 2022" doc="IVO-Wandelvoetbal Najaar 2022.pdf">
-    <Wedstrijd datum="2022-9-3"   marquee="0" afgelast="0"                wedstrijd="Veldes Penantie-toernooi"  aanvang="12:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2022-9-10"  marquee="0" afgelast="0"                wedstrijd="Melderslo-1 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="7 - 10"  verslag="0" />
-    <Wedstrijd datum="2022-10-1"  marquee="0" afgelast="0"                wedstrijd="Melderslo-2 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="4 - 7"   verslag="0" />
-    <Wedstrijd datum="2022-10-22" marquee="0" afgelast="0"                wedstrijd="Wittenhorst - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="8 - 4"   verslag="0" />
-    <Wedstrijd datum="2022-11-5"  marquee="0" afgelast="0"                wedstrijd="IVO - Resia/RKDEV"         aanvang="16:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2022-11-19" marquee="0" afgelast="0"                wedstrijd="Merefeldia - IVO"          aanvang="16:00"   vertrek="15:00"   uitslag="5 - 5"   verslag="0" />
-    <Wedstrijd datum="2022-12-3"  marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"                     uitslag="Afg."    verslag="0" />
+  <Wedstrijden tekst="Voorjaar 2023" doc="IVO-Wandelvoetbal Voorjaar 2023.pdf">
+    <Wedstrijd datum="2023-2-25"  marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-4"   marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-1"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-25"  marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-2"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-15"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-4-29"  marquee="0" afgelast="0"                wedstrijd="Resia/RKDEV - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-5-13"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-5-27"  marquee="0" afgelast="0"                wedstrijd="RKMSV - IVO"               aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
-  <Wedstrijden tekst="Voorjaar 2023" >
-    <Wedstrijd datum="2023-3-4"   wedstrijd="IVO - Melderslo-1" />
+  <Wedstrijden tekst="Najaar 2023" >
+    <Wedstrijd datum="2023-9-??" wedstrijd="Veldes Penantie-toernooi" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2022">
+    <Wedstrijd datum="2022-9-3"   wedstrijd="Veldes Penantie-toernooi"  uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-9-10"  wedstrijd="Melderslo-1 - IVO"         uitslag="7 - 10"  verslag="0" />
+    <Wedstrijd datum="2022-10-1"  wedstrijd="Melderslo-2 - IVO"         uitslag="4 - 7"   verslag="0" />
+    <Wedstrijd datum="2022-10-22" wedstrijd="Wittenhorst - IVO"         uitslag="8 - 4"   verslag="0" />
+    <Wedstrijd datum="2022-11-5"  wedstrijd="IVO - Resia/RKDEV"         uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2022-11-19" wedstrijd="Merefeldia - IVO"          uitslag="5 - 5"   verslag="0" />
+    <Wedstrijd datum="2022-12-3"  wedstrijd="IVO - RKMSV"               uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

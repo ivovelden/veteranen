@@ -1,20 +1,38 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Najaar 2022" doc="IVO-Veteranen Najaar 2022.pdf">
-    <Wedstrijd datum="2022-9-3"   marquee="1" afgelast="0"                wedstrijd="Veldes Penantie-toernooi"    aanvang="12:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2022-9-10"  marquee="1" afgelast="0"                wedstrijd="SV Ondo - IVO"               aanvang="17:00"                     uitslag="1 - 1"   verslag="1" />
-    <Wedstrijd datum="2022-9-17"  marquee="1" afgelast="0"                wedstrijd="Belfeldia - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag="3 - 2"   verslag="1" />
-    <Wedstrijd datum="2022-9-24"  marquee="1" afgelast="0"                wedstrijd="IVO - Hegelsom"              aanvang="17:00"                     uitslag="10 - 2"  verslag="1" />
-    <Wedstrijd datum="2022-10-1"  marquee="1" afgelast="0"                wedstrijd="FCV - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2022-10-8"  marquee="1" afgelast="0"                wedstrijd="TSC'04 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag="2 - 8"   verslag="1" />
-    <Wedstrijd datum="2022-10-15" marquee="1" afgelast="0"                wedstrijd="IVO - Blerick"               aanvang="17:00"                     uitslag="2 - 1"   verslag="1" />
-    <Wedstrijd datum="2022-10-22" marquee="1" afgelast="0"                wedstrijd="RKDSO - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="0 - 1"   verslag="1" />
-    <Wedstrijd datum="2022-10-29" marquee="1" afgelast="0"                wedstrijd="IVO - HBSV"           	      aanvang="17:00"                     uitslag="0 - 0"   verslag="1" />
-    <Wedstrijd datum="2022-11-5"  marquee="1" afgelast="0"                wedstrijd="VVV'03 - IVO"        		    aanvang="16:00"   vertrek="15:00"   uitslag="6 - 3"   verslag="1" />
-    <Wedstrijd datum="2022-11-12" marquee="1" afgelast="0"                wedstrijd="IVO - Wittenhorst"           aanvang="17:00"                     uitslag="3 - 2"   verslag="1" />
-    <Wedstrijd datum="2022-11-19" marquee="1" afgelast="0"                wedstrijd="Sparta'18 - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag="7 - 3"   verslag="1" />
-    <Wedstrijd datum="2022-11-26" marquee="1" afgelast="0"                wedstrijd="Sporting ST - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag="2 - 3"   verslag="1" />
-    <Wedstrijd datum="2022-12-3"  marquee="1" afgelast="1"                wedstrijd="RKDEV - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
+  <Wedstrijden tekst="Voorjaar 2023" doc="IVO-Veteranen Voorjaar 2023.pdf">
+    <Wedstrijd datum="2023-2-11"  marquee="1" afgelast="0"                wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-4"   marquee="1" afgelast="0"                wedstrijd="Grashoek - IVO"              aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-11"  marquee="1" afgelast="0"                wedstrijd="IVO - Belfeldia"             aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-18"  marquee="1" afgelast="0"                wedstrijd="America - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-25"  marquee="1" afgelast="0"                wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-1"   marquee="1" afgelast="0"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-8"   marquee="1" afgelast="0"                wedstrijd="Blerick - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-15"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-22"  marquee="1" afgelast="0"                wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-29"  marquee="1" afgelast="0"                wedstrijd="IVO - VVV'03"           	    aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-5-6"   marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"        		aanvang="16:45"   vertrek="15:45"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-5-13"  marquee="1" afgelast="0"                wedstrijd="IVO - Sparta'18"             aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-5-20"  marquee="1" afgelast="0"                wedstrijd="Venlosche Boys - IVO"        aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-5-27"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2022">
+    <Wedstrijd datum="2022-9-3"   wedstrijd="Veldes Penantie-toernooi"    uitslag=""        verslag="0" />
+    <Wedstrijd datum="2022-9-10"  wedstrijd="SV Ondo - IVO"               uitslag="1 - 1"   verslag="1" />
+    <Wedstrijd datum="2022-9-17"  wedstrijd="Belfeldia - IVO"             uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2022-9-24"  wedstrijd="IVO - Hegelsom"              uitslag="10 - 2"  verslag="1" />
+    <Wedstrijd datum="2022-10-1"  wedstrijd="FCV - IVO"                   uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2022-10-8"  wedstrijd="TSC'04 - IVO"                uitslag="2 - 8"   verslag="1" />
+    <Wedstrijd datum="2022-10-15" wedstrijd="IVO - Blerick"               uitslag="2 - 1"   verslag="1" />
+    <Wedstrijd datum="2022-10-22" wedstrijd="RKDSO - IVO"                 uitslag="0 - 1"   verslag="1" />
+    <Wedstrijd datum="2022-10-29" wedstrijd="IVO - HBSV"           	      uitslag="0 - 0"   verslag="1" />
+    <Wedstrijd datum="2022-11-5"  wedstrijd="VVV'03 - IVO"        		    uitslag="6 - 3"   verslag="1" />
+    <Wedstrijd datum="2022-11-12" wedstrijd="IVO - Wittenhorst"           uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2022-11-19" wedstrijd="Sparta'18 - IVO"             uitslag="7 - 3"   verslag="1" />
+    <Wedstrijd datum="2022-11-26" wedstrijd="Sporting ST - IVO"           uitslag="2 - 3"   verslag="1" />
+    <Wedstrijd datum="2022-12-3"  wedstrijd="RKDEV - IVO"                 uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

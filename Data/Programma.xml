@@ -3,7 +3,7 @@
   <Wedstrijden tekst="Voorjaar 2023" doc="IVO-Veteranen Voorjaar 2023.pdf">
     <Wedstrijd datum="2023-2-11"  marquee="1" afgelast="0"                wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="1 - 5"   verslag="1" />
     <Wedstrijd datum="2023-3-4"   marquee="1" afgelast="0"                wedstrijd="S.V. Grashoek - IVO"         aanvang="17:00"   vertrek="16:00"   uitslag="0 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-3-11"  marquee="1" afgelast="0"                wedstrijd="IVO - Belfeldia"             aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-3-11"  marquee="1" afgelast="1"                wedstrijd="IVO - Belfeldia"             aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2023-3-18"  marquee="1" afgelast="0"                wedstrijd="America - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-3-25"  marquee="1" afgelast="0"                wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-4-1"   marquee="1" afgelast="0"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag=""        verslag="0" />

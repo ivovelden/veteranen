@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="27 maart 2023 - Verslag wedstrijd IVO - FCV" nieuw="1">
+  <Nieuw titel="3 april 2023 - Verslag wedstrijd IVO - Montagnards" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230401'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="27 maart 2023 - Verslag wedstrijd IVO - FCV" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230325'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

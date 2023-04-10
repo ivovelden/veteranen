@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="3 april 2023 - Verslag wedstrijd IVO - Montagnards" nieuw="1">
+  <Nieuw titel="10 april 2023 - Verslag wedstrijd Blerick - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230408'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="3 april 2023 - Verslag wedstrijd IVO - Montagnards" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230401'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
@@ -172,41 +179,6 @@
   <Nieuw titel="12 september 2022 - Verslag wedstrijd SV Ondo - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220910'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="16 juli 2022 - Verslag en foto's Veteranenfeest 2022" nieuw="0">
-    <Tekst>
-      &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Verslagveteranenfeest2022.pdf&quot; target=&quot;_blank&quot;&gt;Verslag Veteranenfeest 2022&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="6 mei 2022 - Verslag 7x7 Toernooi Blerick" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220604'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="23 mei 2022 - Verslag wedstrijd IVO - EWC" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220521'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="8 mei 2022 - Verslag wedstrijd Ysselsteyn - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220507'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="3 mei 2022 - Verslag wedstrijd Montagnards - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220430'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

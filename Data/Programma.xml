@@ -10,7 +10,7 @@
     <Wedstrijd datum="2023-4-1"   marquee="1" afgelast="1"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2023-4-1"   marquee="1" afgelast="0"                wedstrijd="IVO - Montagnards"           aanvang="18:00"                     uitslag="5 - 3"   verslag="1" />
     <Wedstrijd datum="2023-4-8"   marquee="1" afgelast="0"                wedstrijd="Blerick - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="6 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-4-15"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-4-15"  marquee="1" afgelast="1"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="2023-4-22"  marquee="1" afgelast="0"                wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-4-29"  marquee="1" afgelast="0"                wedstrijd="IVO - VVV'03"           	    aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-5-6"   marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"        		aanvang="16:45"   vertrek="15:45"   uitslag=""        verslag="0" />

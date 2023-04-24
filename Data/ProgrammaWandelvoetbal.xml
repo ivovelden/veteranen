@@ -8,12 +8,12 @@
     <Wedstrijd datum="2023-4-29"  marquee="0" afgelast="0"                wedstrijd="Resia/RKDEV - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-5-13"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-5-20"  marquee="0" afgelast="0"                wedstrijd="RKMSV - IVO"               aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
-    <Wedstrijd datum="2023-5-24"  marquee="0" afgelast="0"                wedstrijd="Toernooi VVV-Venlo"        aanvang="10:00"   vertrek="09:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-5-24"  marquee="0" afgelast="0"                wedstrijd="Toernooi VVV-Venlo"        aanvang="09:00"   vertrek="08:15"   uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
   <Wedstrijden tekst="Najaar 2023" >
-    <Wedstrijd datum="2023-9-??" wedstrijd="Veldes Penantie-toernooi" />
+    <Wedstrijd datum="2023-9-2" wedstrijd="Veldes Penantie-toernooi" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

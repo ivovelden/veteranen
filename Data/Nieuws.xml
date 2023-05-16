@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="10 mei 2023 - Verslag wedstrijd Wittenhorst - IVO" nieuw="1">
+  <Nieuw titel="16 mei 2023 - Verslag wedstrijd IVO - Sparta'18" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230513'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="10 mei 2023 - Verslag wedstrijd Wittenhorst - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230506'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

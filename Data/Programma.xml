@@ -17,7 +17,7 @@
     <Wedstrijd datum="2023-5-6"   marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"        		aanvang="16:45"   vertrek="15:45"   uitslag="1 - 7"   verslag="1" />
     <Wedstrijd datum="2023-5-13"  marquee="1" afgelast="0"                wedstrijd="IVO - Sparta'18"             aanvang="17:00"                     uitslag="8 - 1"   verslag="1" />
     <Wedstrijd datum="2023-5-20"  marquee="1" afgelast="0"                wedstrijd="Venlosche Boys - IVO"        aanvang="17:00"   vertrek="16:00"   uitslag="5 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-5-27"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-5-27"  marquee="1" afgelast="1"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

@@ -18,6 +18,7 @@
     <Wedstrijd datum="2023-5-13"  marquee="1" afgelast="0"                wedstrijd="IVO - Sparta'18"             aanvang="17:00"                     uitslag="8 - 1"   verslag="1" />
     <Wedstrijd datum="2023-5-20"  marquee="1" afgelast="0"                wedstrijd="Venlosche Boys - IVO"        aanvang="17:00"   vertrek="16:00"   uitslag="5 - 3"   verslag="1" />
     <Wedstrijd datum="2023-5-27"  marquee="1" afgelast="1"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-6-10"  marquee="1" afgelast="0"                wedstrijd="Toernooi Blerick 7x7"        aanvang="14:30"   vertrek="13:30"   uitslag="5de"     verslag="1" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

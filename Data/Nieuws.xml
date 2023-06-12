@@ -1,6 +1,20 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="22 mei 2023 - Verslag wedstrijd Venlosche Boys - IVO" nieuw="1">
+  <Nieuw titel="12 juni 2023 - Verslag 7x7 Toernooi Blerick" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230610'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="3 juni 2023 - Verslag en foto's Veteranenfeest 2023" nieuw="1">
+    <Tekst>
+      &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Verslagveteranenfeest2023.docx&quot; target=&quot;_blank&quot;&gt;Verslag Veteranenfeest 2023&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="22 mei 2023 - Verslag wedstrijd Venlosche Boys - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230520'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
@@ -130,83 +144,6 @@
       &lt;/div&gt;
       &lt;br/&gt;
       Ger van Rensch
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="28 november 2022 - Verslag wedstrijd Sporting ST - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221126'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="21 november 2022 - Verslag wedstrijd Sparta'18 - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221119'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="14 november 2022 - Verslag wedstrijd IVO - Wittenhorst" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221112'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="8 november 2022 - Verslag wedstrijd VVV'03 - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221105'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="31 oktober 2022 - Verslag wedstrijd IVO - HBSV" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221029'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="23 oktober 2022 - Verslag wedstrijd RKDSO - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221022'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="16 oktober 2022 - Verslag wedstrijd IVO - Blerick" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221015'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="10 oktober 2022 - Verslag wedstrijd TSC'04 - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20221008'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="26 september 2022 - Verslag wedstrijd IVO - Hegelsom" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220924'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="19 september 2022 - Verslag wedstrijd Belfeldia - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220917'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="12 september 2022 - Verslag wedstrijd SV Ondo - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20220910'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

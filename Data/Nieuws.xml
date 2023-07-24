@@ -1,13 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="12 juni 2023 - Verslag 7x7 Toernooi Blerick" nieuw="1">
+  <Nieuw titel="12 juni 2023 - Verslag 7x7 Toernooi Blerick" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20230610'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="3 juni 2023 - Verslag en foto's Veteranenfeest 2023" nieuw="1">
+  <Nieuw titel="3 juni 2023 - Verslag en foto's Veteranenfeest 2023" nieuw="0">
     <Tekst>
       &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Verslagveteranenfeest2023.docx&quot; target=&quot;_blank&quot;&gt;Verslag Veteranenfeest 2023&lt;/a&gt;.
       &lt;br/&gt;

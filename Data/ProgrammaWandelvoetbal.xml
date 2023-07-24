@@ -1,19 +1,30 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2023" doc="IVO-Wandelvoetbal Voorjaar 2023.pdf">
-    <Wedstrijd datum="2023-2-25"  marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"                     uitslag="13 - 8"  verslag="0" />
-    <Wedstrijd datum="2023-3-11"  marquee="0" afgelast="1"                wedstrijd="IVO - Melderslo-1"         aanvang="16:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-3-25"  marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-2"         aanvang="16:00"                     uitslag="3 - 6"   verslag="0" />
-    <Wedstrijd datum="2023-4-15"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag="4 - 5"   verslag="0" />
-    <Wedstrijd datum="2023-4-29"  marquee="0" afgelast="0"                wedstrijd="Resia/RKDEV - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="6 - 10"  verslag="0" />
-    <Wedstrijd datum="2023-5-13"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag="11 - 4"  verslag="0" />
-    <Wedstrijd datum="2023-5-20"  marquee="0" afgelast="0"                wedstrijd="RKMSV - IVO"               aanvang="16:00"   vertrek="15:00"   uitslag="5 - 9"   verslag="0" />
-    <Wedstrijd datum="2023-5-24"  marquee="0" afgelast="0"                wedstrijd="Toernooi VVV-Venlo"        aanvang="09:00"   vertrek="08:15"   uitslag=""        verslag="0" />
+  <Wedstrijden tekst="Najaar 2023" doc="IVO-Wandelvoetbal Najaar 2023.pdf">
+    <Wedstrijd datum="2023-9-2"   marquee="0" afgelast="0"                wedstrijd="Veldes Penantie-toernooi"  aanvang="12:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-9-16"  marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-2"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-10-7"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-10-21" marquee="0" afgelast="0"                wedstrijd="Resia/RKDEV - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-11-4"  marquee="0" afgelast="0"                wedstrijd="IVO - Merefeldia"          aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-11-18" marquee="0" afgelast="0"                wedstrijd="IVO - RKMSV"               aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-12-2"  marquee="0" afgelast="0"                wedstrijd="Melderslo-1 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
-  <Wedstrijden tekst="Najaar 2023" >
-    <Wedstrijd datum="2023-9-2" wedstrijd="Veldes Penantie-toernooi" />
+  <Wedstrijden tekst="Voorjaar 2024" >
+    <Wedstrijd datum="2024-3-9" wedstrijd="Melderslo-2 - IVO" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2023">
+    <Wedstrijd datum="2023-2-25"  wedstrijd="IVO - RKMSV"               uitslag="13 - 8"  verslag="0" />
+    <Wedstrijd datum="2023-3-11"  wedstrijd="IVO - Melderslo-1"         uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-3-25"  wedstrijd="IVO - Melderslo-2"         uitslag="3 - 6"   verslag="0" />
+    <Wedstrijd datum="2023-4-15"  wedstrijd="IVO - Wittenhorst"         uitslag="4 - 5"   verslag="0" />
+    <Wedstrijd datum="2023-4-29"  wedstrijd="Resia/RKDEV - IVO"         uitslag="6 - 10"  verslag="0" />
+    <Wedstrijd datum="2023-5-13"  wedstrijd="IVO - Merefeldia"          uitslag="11 - 4"  verslag="0" />
+    <Wedstrijd datum="2023-5-20"  wedstrijd="RKMSV - IVO"               uitslag="5 - 9"   verslag="0" />
+    <Wedstrijd datum="2023-5-24"  wedstrijd="Toernooi VVV-Venlo"        uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

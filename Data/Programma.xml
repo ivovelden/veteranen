@@ -1,24 +1,43 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2023" doc="IVO-Veteranen Voorjaar 2023.pdf">
-    <Wedstrijd datum="2023-2-11"  marquee="1" afgelast="0"                wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="1 - 5"   verslag="1" />
-    <Wedstrijd datum="2023-3-4"   marquee="1" afgelast="0"                wedstrijd="S.V. Grashoek - IVO"         aanvang="17:00"   vertrek="16:00"   uitslag="0 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-3-11"  marquee="1" afgelast="1"                wedstrijd="IVO - Belfeldia"             aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-3-11"  marquee="1" afgelast="0"                wedstrijd="Sporting ST - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag="1 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-3-18"  marquee="1" afgelast="0"                wedstrijd="America - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="0 - 6"   verslag="1" />
-    <Wedstrijd datum="2023-3-25"  marquee="1" afgelast="0"                wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag="6 - 2"   verslag="1" />
-    <Wedstrijd datum="2023-4-1"   marquee="1" afgelast="1"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-4-1"   marquee="1" afgelast="0"                wedstrijd="IVO - Montagnards"           aanvang="18:00"                     uitslag="5 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-4-8"   marquee="1" afgelast="0"                wedstrijd="Blerick - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="6 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-4-15"  marquee="1" afgelast="1"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-4-22"  marquee="1" afgelast="1"                wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-4-22"  marquee="1" afgelast="0"                wedstrijd="RKMSV - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="1 - 4"   verslag="1" />
-    <Wedstrijd datum="2023-4-29"  marquee="1" afgelast="0"                wedstrijd="IVO - VVV'03"           	    aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-5-6"   marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"        		aanvang="16:45"   vertrek="15:45"   uitslag="1 - 7"   verslag="1" />
-    <Wedstrijd datum="2023-5-13"  marquee="1" afgelast="0"                wedstrijd="IVO - Sparta'18"             aanvang="17:00"                     uitslag="8 - 1"   verslag="1" />
-    <Wedstrijd datum="2023-5-20"  marquee="1" afgelast="0"                wedstrijd="Venlosche Boys - IVO"        aanvang="17:00"   vertrek="16:00"   uitslag="5 - 3"   verslag="1" />
-    <Wedstrijd datum="2023-5-27"  marquee="1" afgelast="1"                wedstrijd="IVO - RKDEV"                 aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2023-6-10"  marquee="1" afgelast="0"                wedstrijd="Toernooi Blerick 7x7"        aanvang="14:30"   vertrek="13:30"   uitslag="5de"     verslag="1" />
+  <Wedstrijden tekst="Najaar 2023" doc="IVO-Veteranen Najaar 2023.pdf">
+    <Wedstrijd datum="2023-9-2"   marquee="1" afgelast="0"                wedstrijd="Veldes Penantie-toernooi"    aanvang="12:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-9-9"   marquee="1" afgelast="0"                wedstrijd="Belfeldia - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-9-16"  marquee="1" afgelast="0"                wedstrijd="IVO - Baarlo"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-9-23"  marquee="1" afgelast="0"                wedstrijd="IVO - Blerick"               aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-9-30"  marquee="1" afgelast="0"                wedstrijd="VVV'03 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-10-7"  marquee="1" afgelast="0"                wedstrijd="IVO - RKDSO"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-10-14" marquee="1" afgelast="0"                wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-10-21" marquee="1" afgelast="0"                wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-10-28" marquee="1" afgelast="0"                wedstrijd="IVO - TSC'04"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-11-4"  marquee="1" afgelast="0"                wedstrijd="Wittenhorst - IVO"           aanvang="16:45"   vertrek="15:45"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-11-11" marquee="1" afgelast="0"                wedstrijd="IVO - Sparta'18"             aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-11-18" marquee="1" afgelast="0"                wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-11-25" marquee="1" afgelast="0"                wedstrijd="IVO - Venlosche Boys"        aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-12-2"  marquee="1" afgelast="0"                wedstrijd="IVO - Sporting ST"           aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-12-16" marquee="1" afgelast="0"                wedstrijd="IVO - SV United"             aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2023">
+    <Wedstrijd datum="2023-2-11"  wedstrijd="RKSVN - IVO"                 uitslag="1 - 5"   verslag="1" />
+    <Wedstrijd datum="2023-3-4"   wedstrijd="S.V. Grashoek - IVO"         uitslag="0 - 3"   verslag="1" />
+    <Wedstrijd datum="2023-3-11"  wedstrijd="IVO - Belfeldia"             uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-3-11"  wedstrijd="Sporting ST - IVO"           uitslag="1 - 3"   verslag="1" />
+    <Wedstrijd datum="2023-3-18"  wedstrijd="America - IVO"               uitslag="0 - 6"   verslag="1" />
+    <Wedstrijd datum="2023-3-25"  wedstrijd="IVO - FCV"                   uitslag="6 - 2"   verslag="1" />
+    <Wedstrijd datum="2023-4-1"   wedstrijd="IVO - TSC'04"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-4-1"   wedstrijd="IVO - Montagnards"           uitslag="5 - 3"   verslag="1" />
+    <Wedstrijd datum="2023-4-8"   wedstrijd="Blerick - IVO"               uitslag="6 - 3"   verslag="1" />
+    <Wedstrijd datum="2023-4-15"  wedstrijd="IVO - RKDSO"                 uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-4-22"  wedstrijd="HBSV - IVO"                  uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-4-22"  wedstrijd="RKMSV - IVO"                 uitslag="1 - 4"   verslag="1" />
+    <Wedstrijd datum="2023-4-29"  wedstrijd="IVO - VVV'03"           	    uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-5-6"   wedstrijd="Wittenhorst - IVO"        		uitslag="1 - 7"   verslag="1" />
+    <Wedstrijd datum="2023-5-13"  wedstrijd="IVO - Sparta'18"             uitslag="8 - 1"   verslag="1" />
+    <Wedstrijd datum="2023-5-20"  wedstrijd="Venlosche Boys - IVO"        uitslag="5 - 3"   verslag="1" />
+    <Wedstrijd datum="2023-5-27"  wedstrijd="IVO - RKDEV"                 uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2023-6-10"  wedstrijd="Toernooi Blerick 7x7"        uitslag="5de"     verslag="1" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

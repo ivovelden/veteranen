@@ -2,7 +2,7 @@
 
   <Wedstrijden tekst="Najaar 2023" doc="IVO-Wandelvoetbal Najaar 2023.pdf">
     <Wedstrijd datum="2023-9-2"   marquee="0" afgelast="0"                wedstrijd="Veldes Penantie-toernooi"  aanvang="12:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2023-9-16"  marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-2"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2023-9-16"  marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-2"         aanvang="16:00"                     uitslag="6 - 5"   verslag="0" />
     <Wedstrijd datum="2023-9-30"  marquee="0" afgelast="0"                wedstrijd="MVC'19 - IVO"              aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-10-7"  marquee="0" afgelast="0"                wedstrijd="IVO - Wittenhorst"         aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2023-10-21" marquee="0" afgelast="0"                wedstrijd="Resia/RKDEV - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />

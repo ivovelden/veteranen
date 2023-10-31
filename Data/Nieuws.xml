@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="22 oktober 2023 - Verslag IVO - RKSVN" nieuw="1">
+  <Nieuw titel="31 oktober 2023 - Verslag IVO - TSC'04" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20231028'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="22 oktober 2023 - Verslag IVO - RKSVN" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20231021'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

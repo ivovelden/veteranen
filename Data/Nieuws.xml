@@ -1,13 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="21 november 2023 - Verslag IVO - FCV" nieuw="1">
+  <Nieuw titel="21 november 2023 - Verslag IVO - FCV" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20231118'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="7 november 2023 - Mededeling bestuur" nieuw="1">
+  <Nieuw titel="7 november 2023 - Mededeling bestuur" nieuw="0">
     <Tekst>
       Beste veteranen,
       &lt;br/&gt;

@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="4 december 2023 - Verslag IVO - NWC" nieuw="1">
+  <Nieuw titel="18 december 2023 - Verslag IVO - SV United" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20231216'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="4 december 2023 - Verslag IVO - NWC" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20231202'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

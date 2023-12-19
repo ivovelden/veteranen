@@ -1,5 +1,9 @@
 <Mededelingen>
 
+  <Mededeling marquee="1" datumvan="2023-12-18" datumtot="2024-01-06"
+              tekst="* * * De IVO Veteranen wenst iedereen fijne feestdagen en een gezond en sportief 2024 * * *" />
+
+  <!--
   <Mededeling marquee="1" datumvan="2022-12-09" datumtot="2023-01-06"
               tekst="* * * De IVO Veteranen wenst iedereen fijne feestdagen en een gezond en sportief 2023 * * *" />
 
@@ -11,7 +15,6 @@
   <Mededeling marquee="1" datumvan="2023-01-06" datumtot="2023-01-22"
               tekst="Zaterdag 21 januari 2023 -  Algemene Leden Vergadering IVO Veteranen" />
 
-  <!--
   <Mededeling marquee="1" datumvan="2020-05-31" datumtot="2020-06-28"
               tekst="Zaterdag 27 juni - Feestdag IVO Veteranen *** AFGELAST *** AFGELAST *** AFGELAST ***"/>
 

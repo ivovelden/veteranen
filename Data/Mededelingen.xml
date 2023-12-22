@@ -3,6 +3,13 @@
   <Mededeling marquee="1" datumvan="2023-12-18" datumtot="2024-01-06"
               tekst="* * * De IVO Veteranen wenst iedereen fijne feestdagen en een gezond en sportief 2024 * * *" />
 
+  <Mededeling marquee="0" datumvan="2023-12-22" datumtot="2024-01-21"
+            tekst="Zaterdag 20 januari - Algemene Leden JaarVergadering #\n# Locatie: BMV De Vilgaard #\n# Aanvang: 16:00 uur
+              " />
+
+  <Mededeling marquee="1" datumvan="2024-01-06" datumtot="2024-01-21"
+              tekst="Zaterdag 20 januari 2024 -  Algemene Leden Jaarvergadering IVO Veteranen" />
+
   <!--
   <Mededeling marquee="1" datumvan="2022-12-09" datumtot="2023-01-06"
               tekst="* * * De IVO Veteranen wenst iedereen fijne feestdagen en een gezond en sportief 2023 * * *" />

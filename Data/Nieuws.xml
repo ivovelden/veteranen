@@ -1,6 +1,14 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="18 december 2023 - Verslag IVO - SV United" nieuw="1">
+  <Nieuw titel="24 december 2023 - Jaaroverzicht 2023 klaar!" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Jaaroverzichten." href="" target="" onclick="GotoJaaroverzichten(); return false" &gt;Jaaroverzichten&lt;/a&gt; of
+      klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2023.pdf&quot; target=&quot;_blank&quot;&gt;IVO Veteranen Jaaroverzicht 2023&lt;/a&gt; om het jaaroverzicht te openen.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="18 december 2023 - Verslag IVO - SV United" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20231216'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

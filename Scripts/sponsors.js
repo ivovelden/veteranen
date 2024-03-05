@@ -58,9 +58,20 @@ function BuildSponsorsTable()
                     oSponNAWCell.style.paddingLeft = "25";
 
                     // NAW Text Node.
+                    oSponNAWCell.appendChild(document.createElement("br"));
                     oSponNAWCell.appendChild(document.createTextNode(oXmlSponsor.getAttribute("naam")));
                     oSponNAWCell.appendChild(document.createElement("br"));
                     oSponNAWCell.appendChild(document.createTextNode("Tel: " + oXmlSponsor.getAttribute("telefoon")));
+
+                    oSponNAWCell.appendChild(document.createElement("br"));
+                    oSponNAWCell.appendChild(document.createTextNode("Email: "));
+                    if (oXmlSponsor.getAttribute("email") && oXmlSponsor.getAttribute("email").length > 0) {
+                        var oSponSite = document.createElement("a");
+                        oSponSite.href = "mailto:" + oXmlSponsor.getAttribute("email");
+                        oSponSite.innerHTML = oXmlSponsor.getAttribute("email");
+                        oSponNAWCell.appendChild(oSponSite);
+                    }
+
                     oSponNAWCell.appendChild(document.createElement("br"));
                     oSponNAWCell.appendChild(document.createTextNode("Site: "));
                     if (oXmlSponsor.getAttribute("website") && oXmlSponsor.getAttribute("website").length > 0)

@@ -1,14 +1,14 @@
 ﻿<Programma>
 
   <Wedstrijden tekst="Voorjaar 2024" doc="IVO-Wandelvoetbal Voorjaar 2024.pdf">
-    <Wedstrijd datum="2024-3-9"   marquee="0" afgelast="0"                wedstrijd="Melderslo-2 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2024-3-9"   marquee="0" afgelast="0"                wedstrijd="Melderslo-2 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag="6 - 7"   verslag="0" />
     <Wedstrijd datum="2024-3-16"  marquee="0" afgelast="0"                wedstrijd="IVO - MVC'19"              aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2024-3-30"  marquee="0" afgelast="0"                wedstrijd="Wittenhorst - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2024-4-13"  marquee="0" afgelast="0"                wedstrijd="IVO - Resia/RKDEV"         aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2024-4-20"  marquee="0" afgelast="0"                wedstrijd="Merefeldia - IVO"          aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2024-5-4"   marquee="0" afgelast="0"                wedstrijd="Venlosche Boys - IVO"      aanvang="16:30"   vertrek="15:30"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2024-5-11"  marquee="0" afgelast="0"                wedstrijd="RKMSV - IVO"               aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
-    <Wedstrijd datum="2024-5-25"  marquee="0" afgelast="0"                wedstrijd="IVO - Melderslo-1"         aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2024-5-25"  marquee="0" afgelast="0"                wedstrijd="Melderslo-1 - IVO"         aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

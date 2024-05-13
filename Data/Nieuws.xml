@@ -1,5 +1,12 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="13 mei 2024 - Verslag IVO - Wittenhorst" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20240511'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
   <Nieuw titel="12 mei 2024 - Jubilarissen en Ere Lid bij Algemene Leden Vergadering IVO Velden" nieuw="1">
     <Tekst>
       Op 10 mei 2024 is de Algemene Leden Vergadering van IVO gehouden.

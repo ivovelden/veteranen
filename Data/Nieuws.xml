@@ -1,5 +1,12 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="9 september 2024 - Verslag IVO - Belfeldia" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20240907'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
   <Nieuw titel="20 juni 2024 - Verslag SV United - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20240615'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.

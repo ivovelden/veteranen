@@ -3,11 +3,12 @@
   <Wedstrijden tekst="Najaar 2024" doc="IVO-Wandelvoetbal Najaar 2024.pdf">
     <Wedstrijd datum="2024-8-24"  marquee="0" afgelast="0"  wedstrijd="Veldes Penantie-toernooi"                                  uitslag=""      verslag="0" />
     <Wedstrijd datum="2024-9-14"  marquee="0" afgelast="0"  wedstrijd="IVO - Melderslo-2"     aanvang="16:00"                     uitslag="9 - 3" verslag="0" />
-    <Wedstrijd datum="2024-9-21"  marquee="0" afgelast="0"  wedstrijd="IVO - MVC'19"          aanvang="16:00"                     uitslag="Afg."  verslag="0" />
+    <Wedstrijd datum="2024-9-21"  marquee="0" afgelast="1"  wedstrijd="IVO - MVC'19"          aanvang="16:00"                     uitslag="Afg."  verslag="0" />
     <Wedstrijd datum="2024-10-12" marquee="0" afgelast="0"  wedstrijd="IVO - Wittenhorst"     aanvang="16:00"                     uitslag=""   		verslag="0" />
     <Wedstrijd datum="2024-10-19" marquee="0" afgelast="0"  wedstrijd="Resia/RKDEV - IVO"     aanvang="16:00"   vertrek="15:00"   uitslag=""			verslag="0" />
     <Wedstrijd datum="2024-11-9"  marquee="0" afgelast="0"  wedstrijd="IVO - Venlosche Boys"  aanvang="16:00"                     uitslag=""			verslag="0" />
     <Wedstrijd datum="2024-11-16" marquee="0" afgelast="0"  wedstrijd="IVO - RKMSV"           aanvang="16:00"                     uitslag=""			verslag="0" />
+    <Wedstrijd datum="2024-11-23" marquee="0" afgelast="0"  wedstrijd="IVO - MVC'19"          aanvang="16:00"                     uitslag=""      verslag="0" />
     <Wedstrijd datum="2024-11-30" marquee="0" afgelast="0"  wedstrijd="Melderslo-1 - IVO"     aanvang="16:00"   vertrek="15:00"   uitslag=""			verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>

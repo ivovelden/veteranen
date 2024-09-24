@@ -1,5 +1,12 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="23 september 2024 - Verslag S.V. Venray - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20240921'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
   <Nieuw titel="16 september 2024 - Verslag FCV - IVO" nieuw="1">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20240914'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.

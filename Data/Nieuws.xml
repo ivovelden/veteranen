@@ -1,13 +1,20 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="14 oktober 2024 - Verslag Sparta'18 - IVO" nieuw="1">
+  <Nieuw titel="21 oktober 2024 - Verslag IVO - RKSVN" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241019'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="14 oktober 2024 - Verslag Sparta'18 - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241012'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="5 oktober 2024 - Verslag Veteranendag" nieuw="1">
+  <Nieuw titel="5 oktober 2024 - Verslag Veteranendag" nieuw="0">
     <Tekst>
       &lt;b&gt;“Veteranendag” IVO Veteranen meer dan geslaagd.&lt;/b&gt;
       &lt;br/&gt;

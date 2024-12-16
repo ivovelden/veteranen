@@ -1,6 +1,21 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="9 december 2024 - Verslag IVO - SV United" nieuw="1">
+  <Nieuw titel="16 december 2024 - Jaaroverzicht 2024" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Jaaroverzichten." href="" target="" onclick="GotoJaaroverzichten(); return false" &gt;Jaaroverzichten&lt;/a&gt; of
+      klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2024.pdf&quot; target=&quot;_blank&quot;&gt;IVO Veteranen Jaaroverzicht 2024&lt;/a&gt; om het jaaroverzicht te openen.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="16 december 2024 - Verslag IVO - America" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241214'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="9 december 2024 - Verslag IVO - SV United" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241207'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

@@ -75,21 +75,21 @@ function BuildProgrammaTable()
                     // Date.
                     var oCellHeaderDate = document.createElement("td");
                     oCellHeaderDate.className = "header";
-                    oCellHeaderDate.width = 112;
+                    oCellHeaderDate.style.cssText = "width: 100px;"
                     oCellHeaderDate.innerText = "Datum";
                     oHeaderRow.appendChild(oCellHeaderDate);
                 
                     // Wedstrijd.
                     var oCellHeaderWedstrijd = document.createElement("td");
                     oCellHeaderWedstrijd.className = "header";
-                    oCellHeaderWedstrijd.width = 403;
+                    oCellHeaderWedstrijd.style.cssText = "width: 100%;"
                     oCellHeaderWedstrijd.innerText = "Wedstrijd";
                     oHeaderRow.appendChild(oCellHeaderWedstrijd);
                 
                     // Uitslag.
                     var oCellHeaderUitslag = document.createElement("td");
                     oCellHeaderUitslag.className = "header";
-                    oCellHeaderUitslag.width = 65;
+                    oCellHeaderUitslag.style.cssText = "width: 60px;";
                     oCellHeaderUitslag.setAttribute("align", "center");
                     oCellHeaderUitslag.innerText = "Uitslag";
                     oHeaderRow.appendChild(oCellHeaderUitslag);
@@ -97,7 +97,7 @@ function BuildProgrammaTable()
                     // Verslag.
                     var oCellHeaderVerslag = document.createElement("td");
                     oCellHeaderVerslag.className = "header";
-                    oCellHeaderVerslag.width = 65;
+                    oCellHeaderVerslag.style.cssText = "width: 65px;"
                     oCellHeaderVerslag.setAttribute("align", "center");
                     oCellHeaderVerslag.innerText = "Verslag";
                     oHeaderRow.appendChild(oCellHeaderVerslag);

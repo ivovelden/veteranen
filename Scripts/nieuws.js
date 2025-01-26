@@ -156,7 +156,7 @@ function BuildNieuwsTable()
                 
                     // Data.
                     var oCell2 = oRow.insertCell(-1);
-                    oCell2.className = "textonly";
+                    oCell2.className = "textonlynieuws";
                     oCell2.setAttribute("vAlign", "top");
 
                     var nieuwsHTML = "<strong><span style=\"text-decoration: underline\">" + nieuwsTitle + "</span>";
@@ -182,4 +182,21 @@ function BuildNieuwsTable()
         }
         catch(e) {}
     }
+}
+
+
+// Read More OnClick Event Handler.
+function ReadMoreOnClickHandler(elm, divReadMoreId) {
+    // Get current scroll position.
+    var scrollPosition = window.scrollY;
+
+    // Display the Read More div and hide the Read More text.
+    let divReadMore = document.getElementById(divReadMoreId);
+    divReadMore.style.display = "";
+    elm.style.display = "none";
+
+    // Scroll to the current position.
+    setTimeout(function () {
+        window.scrollTo(0, scrollPosition);
+    }, 1);
 }

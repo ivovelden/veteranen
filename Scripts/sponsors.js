@@ -43,6 +43,8 @@ function BuildSponsorsTable()
                     // Logo Cell.
                     var oSponLogoCell = document.createElement("td");
                     oSponLogoCell.vAlign = "top";
+                    if (window.innerWidth < 700)
+                        oSponLogoCell.style.cssText = "display: block !important;";
                     // Logo.
                     var oSponImg = document.createElement("img");
                     oSponImg.src = "Images/" + oXmlSponsor.getAttribute("logo");
@@ -54,6 +56,8 @@ function BuildSponsorsTable()
                     // NAW Cell.
                     var oSponNAWCell = document.createElement("td");
                     oSponNAWCell.vAlign = "top";
+                    if (window.innerWidth < 700)
+                        oSponNAWCell.style.cssText = "display: block !important;";
                     oSponNAWCell.style.color = "White";
                     oSponNAWCell.style.paddingLeft = "25";
 

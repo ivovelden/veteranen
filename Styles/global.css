@@ -119,12 +119,24 @@ td.emptyrightborder {
 }
 
 td.textonly {
-	padding-left:		3pt;
-	padding-right:		3pt;
+	padding-left:		15px;
+	padding-right:		10px;
+}
+
+td.textonlynieuws {
+	padding-left:		0px;
+	padding-right:		20px;
 }
 
 td.textonlyrightborder {
 	border-right:		solid windowtext 1.0pt;
 	padding-left:		3pt;
 	padding-right:		3pt;
+}
+
+.img-inline-alignment {
+	display: inline; 
+	vertical-align: middle; 
+	max-width: 100%; 
+	height: auto;
 }

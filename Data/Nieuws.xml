@@ -2,47 +2,50 @@
 
   <Nieuw titel="23 januari 2025 - Verslag ALV IVO Veteranen van 18 januari" nieuw="1">
     <Tekst>
-      &lt;b&gt;Jaarvergadering 2025 IVO Veteranen wederom heel goed verlopen..&lt;/b&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Op zaterdag 18 januari 2025 om 16.00 uur wordt de Algemene Leden Vergadering voor de IVO Veteranen gehouden.
-      Zoals gewoonlijk vindt deze plaats in de Brede Maatschappelijke Voorzieningen “De Vilgaard”.
-      Als het bestuur rond 15.15 uur arriveert blijkt dat ons lokaal niet beschikbaar is en is ingericht voor de activiteiten van CV “De Wuilus” die dezelfde avond receptie van de prins houden.
-      Gelukkig kunnen we voor aanvang van onze vergadering (provisorisch) regelen zodat onze leden die om 16.00 uur binnenkomen dit nauwelijks merken.
-      Maar hoe dan ook: De opkomst en betrokkenheid voor deze ALV is, evenals andere jaren, wederom bijzonder goed.
-      Van de 54 leden zijn er 31 aanwezig en 10 leden melden zich officieel en netjes af.
-      Deze cijfers laten zien dat betrokkenheid voor het reilen en zeilen voor onze afdeling er duidelijk is.
-      &lt;br/&gt;
-      &lt;strong&gt;Netjes mannen!&lt;/strong&gt;
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/ALVIVOVeteranen_20250118.jpg' align='left' hspace='25' vspace='10' /&gt;
-      &lt;br/&gt;
-      &lt;div&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore20250118').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div id=&quot;divReadMore20250118&quot; style=&quot;display: none&quot;&gt;
-      In vogelvlucht enkele zaken die deze middag door voorzitter Ruud met de aanwezige leden worden besproken.
-      &lt;br/&gt;
-      -	De notulen van de vorige jaarvergadering en jaarverslag 2024 worden, met dank aan Ger voor de verslaglegging, goedgekeurd.
-      &lt;br/&gt;
-      -	Ook financieel verslag opgemaakt door Bas wordt met dank aan onze penningmeester goedgekeurd.
-      &lt;br/&gt;
-      -	De kascommissie, bij monde van Sjaak G, heeft de kas gecontroleerd en in orde bevonden.
-      &lt;br/&gt;
-      -	De samenstelling van de nieuwe kascommissie 2025 bestaat uit Sjaak, Stan en Joep (reserve).
-      &lt;br/&gt;
-      -	Ger treedt, na 18 jaar, af als secretaris en Jelle volgt hem op.
-      &lt;br/&gt;
-      -	De feestcommissie Guus en Frank S. (3e lid wordt gevraagd) krijgen voor de organisatie van het Veteranen feest 2025 van enkele afgevaardigden uit de vergadering mee dat de vorm van het feest van afgelopen jaar (Veteranen dag/fietstocht door de spelers/leden met in de tussentijd af een toe een “Stop met een biertje” en na afloop een “etentje” goed is bevallen).
-      &lt;br/&gt;
-      -	Diverse zaken- zoals: sponsoren, besprekingen/samenwerking met DEV en DSO in 2024, wedstrijdleiders, scheidsrechter, andere locatie en datum voor ALV in 2026, passeren zonder problemen de revue.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Na een goed half uur sluit voorzitter Ruud de vergadering en verplaatst de hele groep zich naar de Sportcafé in de Brede Maatschappelijke Voorziening.
-      Gezellig wordt onder het genot van de nodige ’pilsjes’ en tussentijds broodjes, aan een paar grote tafels, enkele uren nagepraat over alles wat de spelers/leden op dat moment bezig houdt.
-      &lt;br/&gt;
-      &lt;/div&gt;
-      &lt;br/&gt;
+      &lt;p&gt;
+        &lt;b&gt;Jaarvergadering 2025 IVO Veteranen wederom heel goed verlopen..&lt;/b&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Op zaterdag 18 januari 2025 om 16.00 uur wordt de Algemene Leden Vergadering voor de IVO Veteranen gehouden.
+        Zoals gewoonlijk vindt deze plaats in de Brede Maatschappelijke Voorzieningen “De Vilgaard”.
+        Als het bestuur rond 15.15 uur arriveert blijkt dat ons lokaal niet beschikbaar is en is ingericht voor de activiteiten van CV “De Wuilus” die dezelfde avond receptie van de prins houden.
+        Gelukkig kunnen we voor aanvang van onze vergadering (provisorisch) regelen zodat onze leden die om 16.00 uur binnenkomen dit nauwelijks merken.
+        Maar hoe dan ook: De opkomst en betrokkenheid voor deze ALV is, evenals andere jaren, wederom bijzonder goed.
+        Van de 54 leden zijn er 31 aanwezig en 10 leden melden zich officieel en netjes af.
+        Deze cijfers laten zien dat betrokkenheid voor het reilen en zeilen voor onze afdeling er duidelijk is.
+        &lt;br/&gt;
+        &lt;strong&gt;Netjes mannen!&lt;/strong&gt;
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/ALVIVOVeteranen_20250118.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        &lt;div&gt;
+        &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore20250118');&quot;&gt;Lees meer...&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;divReadMore20250118&quot; style=&quot;display: none&quot;&gt;
+        In vogelvlucht enkele zaken die deze middag door voorzitter Ruud met de aanwezige leden worden besproken.
+        &lt;br/&gt;
+        -	De notulen van de vorige jaarvergadering en jaarverslag 2024 worden, met dank aan Ger voor de verslaglegging, goedgekeurd.
+        &lt;br/&gt;
+        -	Ook financieel verslag opgemaakt door Bas wordt met dank aan onze penningmeester goedgekeurd.
+        &lt;br/&gt;
+        -	De kascommissie, bij monde van Sjaak G, heeft de kas gecontroleerd en in orde bevonden.
+        &lt;br/&gt;
+        -	De samenstelling van de nieuwe kascommissie 2025 bestaat uit Sjaak, Stan en Joep (reserve).
+        &lt;br/&gt;
+        -	Ger treedt, na 18 jaar, af als secretaris en Jelle volgt hem op.
+        &lt;br/&gt;
+        -	De feestcommissie Guus en Frank S. (3e lid wordt gevraagd) krijgen voor de organisatie van het Veteranen feest 2025 van enkele afgevaardigden uit de vergadering mee dat de vorm van het feest van afgelopen jaar (Veteranen dag/fietstocht door de spelers/leden met in de tussentijd af een toe een “Stop met een biertje” en na afloop een “etentje” goed is bevallen).
+        &lt;br/&gt;
+        -	Diverse zaken- zoals: sponsoren, besprekingen/samenwerking met DEV en DSO in 2024, wedstrijdleiders, scheidsrechter, andere locatie en datum voor ALV in 2026, passeren zonder problemen de revue.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Na een goed half uur sluit voorzitter Ruud de vergadering en verplaatst de hele groep zich naar de Sportcafé in de Brede Maatschappelijke Voorziening.
+        Gezellig wordt onder het genot van de nodige ’pilsjes’ en tussentijds broodjes, aan een paar grote tafels, enkele uren nagepraat over alles wat de spelers/leden op dat moment bezig houdt.
+        &lt;/div&gt;
+      &lt;/p&gt;
+
       Ger van Rensch
       &lt;br/&gt;
     </Tekst>
@@ -79,136 +82,145 @@
 
   <Nieuw titel="5 oktober 2024 - Verslag Veteranendag" nieuw="0">
     <Tekst>
-      &lt;b&gt;“Veteranendag” IVO Veteranen meer dan geslaagd.&lt;/b&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Regelmatig voetballen door de actieve- en de wandelvoetballers op de zaterdagmiddag en daarna de 3e helft is altijd leuk. Tussentijds zo af en toe een feestje maakt de ontspanning helemaal compleet. 
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/Veteranendag_20241005.jpg' align='left' hspace='25' vspace='10' /&gt;
-      &lt;br/&gt;
-      Een commissie binnen de IVO Veteranen (Bob, Don en Jelle) heeft daarom samen veel tijd en moeite gestoken in het organiseren van een echte “Veteranendag” voor alle leden van onze afdeling.
-      Liefst 35 man vertrekken bij heel mooi zonnig weer op zaterdag 5 oktober (na het eten van enkele heerlijke broodjes) bij Hotel Café De Sport in Velden.
-      Na enkele huishoudelijke mededelingen van de commissie begeeft de hele club zich naar Arcen. Bij de stop bij Café De Sport worden de nodige consumpties genuttigd. Daarna samen over de grens richting Straelen.
-      Voor vrijwel iedereen is de Markt in Straelen bekend terrein. Mooi terras en drank maakt het altijd wel gezellig. Daarna begeven de IVO mannen zich naar Venlo en staan de tafels en een heerlijk diner voor de groep bij Eetcafé de Brasserie al klaar. Gezellig wordt de dag afgesloten in Venlo en Velden.
-      Na afloop veel dank aan de organisatie. Berichtjes op de App zoals: “Jonges Ut waas super danke” of “Waas super leuk! Danke manne!” of “Waas top” of “Super” zegt wat dat betreft genoeg.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Opmerking: Zelf ben ik niet mee geweest maar heb een en ander via enkele deelnemers vernomen.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Ger van Rensch
-      &lt;br/&gt;
+      &lt;p&gt;
+        &lt;b&gt;“Veteranendag” IVO Veteranen meer dan geslaagd.&lt;/b&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Regelmatig voetballen door de actieve- en de wandelvoetballers op de zaterdagmiddag en daarna de 3e helft is altijd leuk. Tussentijds zo af en toe een feestje maakt de ontspanning helemaal compleet.
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/Veteranendag_20241005.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Een commissie binnen de IVO Veteranen (Bob, Don en Jelle) heeft daarom samen veel tijd en moeite gestoken in het organiseren van een echte “Veteranendag” voor alle leden van onze afdeling.
+        Liefst 35 man vertrekken bij heel mooi zonnig weer op zaterdag 5 oktober (na het eten van enkele heerlijke broodjes) bij Hotel Café De Sport in Velden.
+        Na enkele huishoudelijke mededelingen van de commissie begeeft de hele club zich naar Arcen. Bij de stop bij Café De Sport worden de nodige consumpties genuttigd. Daarna samen over de grens richting Straelen.
+        Voor vrijwel iedereen is de Markt in Straelen bekend terrein. Mooi terras en drank maakt het altijd wel gezellig. Daarna begeven de IVO mannen zich naar Venlo en staan de tafels en een heerlijk diner voor de groep bij Eetcafé de Brasserie al klaar. Gezellig wordt de dag afgesloten in Venlo en Velden.
+        Na afloop veel dank aan de organisatie. Berichtjes op de App zoals: “Jonges Ut waas super danke” of “Waas super leuk! Danke manne!” of “Waas top” of “Super” zegt wat dat betreft genoeg.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Opmerking: Zelf ben ik niet mee geweest maar heb een en ander via enkele deelnemers vernomen.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Ger van Rensch
+      &lt;/p&gt;
     </Tekst>
   </Nieuw>
 
   <Nieuw titel="12 mei 2024 - Jubilarissen en Ere Lid bij Algemene Leden Vergadering IVO Velden" nieuw="0">
     <Tekst>
-      Op 10 mei 2024 is de Algemene Leden Vergadering van IVO gehouden.
-      Naast de diverse jaarlijks terugkerende agendapunten kwamen ook de punten Jubilarissen en Ere Lid aan de orde.
-      Een 5 tal spelers/leden van onze afdeling IVO Veteranen werden door het bestuur van IVO als jubilaris of als Ere Lid in het zonnetje gezet.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Het betreft:
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Wiel Heijligers   Afdeling wandelvoetbal      40 jaar lid
-      &lt;br/&gt;
-      Jac van  Rensen   Afdeling wandelvoetbal      50 jaar lid
-      &lt;br/&gt;
-      Piet Vermeulen    Afdeling wandelvoetbal      50 jaar lid
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Jack Kort         Steunend lid                70 jaar lid
-      &lt;br/&gt;
-      Ger van Rensch    Steunend lid/vrijwilliger   Ere Lid
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Met uitzondering van Wiel Heijligers waren alle personen op de vergadering aanwezig (zie ook afbeelding).
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/ALVIVO_20240510.jpg' align='left' hspace='10' vspace='10' /&gt;
-      &lt;br/&gt;
-      Namens bestuur en alle leden van IVO Veteranen van harte gefeliciteerd.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Ger van Rensch
-      &lt;br/&gt;
+      &lt;p&gt;
+        Op 10 mei 2024 is de Algemene Leden Vergadering van IVO gehouden.
+        Naast de diverse jaarlijks terugkerende agendapunten kwamen ook de punten Jubilarissen en Ere Lid aan de orde.
+        Een 5 tal spelers/leden van onze afdeling IVO Veteranen werden door het bestuur van IVO als jubilaris of als Ere Lid in het zonnetje gezet.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Het betreft:
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Wiel Heijligers   Afdeling wandelvoetbal      40 jaar lid
+        &lt;br/&gt;
+        Jac van  Rensen   Afdeling wandelvoetbal      50 jaar lid
+        &lt;br/&gt;
+        Piet Vermeulen    Afdeling wandelvoetbal      50 jaar lid
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Jack Kort         Steunend lid                70 jaar lid
+        &lt;br/&gt;
+        Ger van Rensch    Steunend lid/vrijwilliger   Ere Lid
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Met uitzondering van Wiel Heijligers waren alle personen op de vergadering aanwezig (zie ook afbeelding).
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/ALVIVO_20240510.jpg' class='img-inline-alignment' /&gt;
+      
+      &lt;p&gt;
+        Namens bestuur en alle leden van IVO Veteranen van harte gefeliciteerd.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Ger van Rensch
+      &lt;/p&gt;
     </Tekst>
   </Nieuw>
 
   <Nieuw titel="26 januari 2024 - Verslag ALV IVO Veteranen van 20 januari" nieuw="0">
     <Tekst>
-      &lt;b&gt;Algemene Leden Vergadering 2024 van de IVO Veteranen.&lt;/b&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Zaterdag 20 januari 2024 om 16.00 uur wordt de ALV vergadering gehouden in de bibliotheek van de Brede Maatschappelijke Voorziening “De Vilgaard” in Velden.
-      Ook dit jaar een redelijke opkomst. Totaal 29 leden betekent dat 57% van de leden de ALV bijwonen. Bovendien hebben een 10-tal spelers/leden zich netjes afgemeld.
-      Als Veteranen afdeling mag je daar best blij mee zijn.
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/ALVIVOVeteranen_20240120.jpg' align='left' hspace='25' vspace='10' /&gt;
-      &lt;br/&gt;
-      Als iedereen beschikt over een kop koffie of thee opent om 16.06 uur onze voorzitter Frank Hendrickx de vergadering.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      De jaarstukken (Notulen ALV in januari 2023 en het jaarverslag van 2023) opgemaakt door secretaris Ger van Rensch worden met dank en met een welgemeend applaus voor Ger goedgekeurd.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Penningmeester Jac van Rensen deelt daarna het financiële overzicht van het afgelopen jaar uit en geeft tekst en uitleg over de financiële zaken van onze afdeling.
-      Hapjes duurder door: Prijsverhoging en meer thuiswedstrijden omdat consumpties in vergadering voortaan voor eigen rekening zijn.
-      Bankkosten behoorlijk hoger. Verhoging wordt met SV Velden besproken.
-      Resultaat: Saldo ligt rond de 1.600 euro. We teren in maar dit is acceptabel en heeft geen gevolgen voor een eventuele contributieverhoging. Als kleine afdeling hoeven we ook geen groot kapitaal op de bank te hebben.
-      Ook penningmeester Jac ontvangt applaus van de vergadering voor zijn keurig verzorgd werk in het afgelopen jaar.
-      De kascommissie heeft de diverse rekeningen/overzichten gecontroleerd en in orde bevonden.
-      Wiel Heijligers verlaat de kascommissie en Stan Crommentuijn neemt - voorlopig als reserve- zijn plaats in.
-      &lt;br/&gt;
-      &lt;div&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore20240120').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div id=&quot;divReadMore20240120&quot; style=&quot;display: none&quot;&gt;
-      Vervolgens wordt het punt bestuursverkiezing besproken. Dit punt is zeker niet het gemakkelijkste agendapunt dat vandaag aan de orde komt.
-      In de vorige Algemene Leden Vergadering in januari 2023 hebben Voorzitter Frank, penningmeester Jac en secretaris Ger duidelijk aangegeven te willen stoppen en de bestuurstaken te willen overdragen aan de jongere generatie. Destijds kwam er te weinig respons op dit voorstel en heeft dit 3-tal besloten om maximaal nog een jaar door te gaan en dan af te treden. Tussentijds is er het afgelopen jaar ook nog eens herinneringsoproep op de App geplaatst waar een van onze leden, namelijk Bas Pingen, op heeft gereageerd. Bas geeft daarbij aan dat hij zich naast vaste speler bij de actieve voetballers ook de bestuursfunctie penningmeester gaat vervullen.
-      Op het vervullen van de openstaande bestuursfuncties voorzitter en secretaris reageert in eerste instantie niemand uit de vergadering. Na een korte pauze echter geeft Ruud Lommen aan dat hij de functie voorzitter wil oppakken. Hij maakt echter wel duidelijk dat hij dit alleen wil doen voor de periode dat hij direct betrokken is bij het actieve voetbalteam van de afdeling IVO Veteranen. Op dat moment dient voor een andere oplossing voor de bestuurssamenstelling gekozen te worden.
-      De bestuursfunctie secretaris die Ger al vanaf 2007 bekleed meldt zich niemand en blijft dus voorlopig een vacature.
-      Na onderling overleg maakt Ger kenbaar dat hij voorlopig wel (beperkt) ondersteunende werken wil doen tot het moment (uiterlijk tot de volgende ALV) dat zich een nieuwe secretaris meldt.
-      Het maken van verslagen en foto´s van de wedstrijden van de wedstrijden is geen bestuurstaak en wil Ger doen zolang dit hem lukt en hij dit leuk vindt.
-      Belangrijk is zeker ook dat de actieve spelers en geïnteresseerden die de website bekijken dit ook waarderen.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Agendapunten die in deze ALV verder nog aan de orde komen zijn:
-      &lt;br/&gt;
-      Maurice Kusters (wedstrijdleider actieve spelers) en Wiel Vercoulen (wedstrijdleider wandelvoetballers) maken kenbaar dat het regelen van spelers/wedstrijden en alles wat daarmee heeft te maken over het algemeen goed gaat.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Leon Engels, Henk Munten en Frank Hendrickx zijn 25 jaar lid en ontvangen een fles Jägermeister.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Frank Steegh is gestopt als scheidsrechter voor de actieve voetballers. Geert van Wijlick neemt deze taak over. Frank ontvangt van voorzitter Frank een cadeau als dank voor de vele jaren als scheidsrechter. Van IVO zelf ontvangt Frank eveneens een cadeaubon.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Frank Hendrickx, Sjaak van Rensen en Ger van Rensch ontvangen als aftredende bestuursleden cadeau’ s van de IVO Veteranen en van de voetbalafdeling IVO voor de bestuurstaken die zij vele jaren samen met plezier hebben verricht.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Guus Fitten en Frank Stoffels vormen dit jaar de feestcommissie. Nog een 3e persoon is nodig om de commissie compleet te krijgen. De feestmiddag/avond is bij Guus thuis op zaterdag 29 juni 2024.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Tom Teeling is na vele jaren sponsoring gestopt als sponsor. Van de IVO Veteranen ontvangt hij een 2-tal flessen wijn. De sponsorcombinatie wordt nu gevormd door Leon Engels (Lux advies Velden), Stan Crommentuijn ( Stukadoorswerken) en de werkgever van Joep Houben (administratie bureau Groenveld).
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Totaal bestaat de Veteranen afdeling uit 51 leden. De onderverdeling is als volgt: 23 actieve leden, 16 wandelvoetballers en 12 ondersteunende leden.
-      Jesse van Wijlick komt na de zomerstop bij het actieve voetbalteam spelen.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Jos van Wijlick is gestopt met het regelen van de lotto. Namens de afdeling Veteranen bedankt voorzitter Frank Jos voor het vele werk wat hij voor deze activiteit heeft gedaan. Frank Stoffels volgt Jos op.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Om 17.00 uur sluit scheidend voorzitter Frank de vergadering. Hij bedankt de leden in de vergadering voor de prettige samenwerking in het afgelopen jaar.
-      Ook bedankt hij iedereen voor de prachtige tijd die dit bestuur vele jaren bij de Veteranen afdeling heeft ondervonden.
-      Hij wenst iedereen een mooi en sportief seizoen 2024 toe.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Na de vergadering vindt het gezellig samenzijn plaatst. Na de broodjes wordt de rest van de avond onder het genot van de nodige pilsjes gezamenlijk een klein feestje gehouden.
-      &lt;br/&gt;
-      &lt;/div&gt;
-      &lt;br/&gt;
+      &lt;p&gt;
+        &lt;b&gt;Algemene Leden Vergadering 2024 van de IVO Veteranen.&lt;/b&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Zaterdag 20 januari 2024 om 16.00 uur wordt de ALV vergadering gehouden in de bibliotheek van de Brede Maatschappelijke Voorziening “De Vilgaard” in Velden.
+        Ook dit jaar een redelijke opkomst. Totaal 29 leden betekent dat 57% van de leden de ALV bijwonen. Bovendien hebben een 10-tal spelers/leden zich netjes afgemeld.
+        Als Veteranen afdeling mag je daar best blij mee zijn.
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/ALVIVOVeteranen_20240120.jpg' class='img-inline-alignment' /&gt;
+      
+      &lt;p&gt;
+        Als iedereen beschikt over een kop koffie of thee opent om 16.06 uur onze voorzitter Frank Hendrickx de vergadering.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        De jaarstukken (Notulen ALV in januari 2023 en het jaarverslag van 2023) opgemaakt door secretaris Ger van Rensch worden met dank en met een welgemeend applaus voor Ger goedgekeurd.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Penningmeester Jac van Rensen deelt daarna het financiële overzicht van het afgelopen jaar uit en geeft tekst en uitleg over de financiële zaken van onze afdeling.
+        Hapjes duurder door: Prijsverhoging en meer thuiswedstrijden omdat consumpties in vergadering voortaan voor eigen rekening zijn.
+        Bankkosten behoorlijk hoger. Verhoging wordt met SV Velden besproken.
+        Resultaat: Saldo ligt rond de 1.600 euro. We teren in maar dit is acceptabel en heeft geen gevolgen voor een eventuele contributieverhoging. Als kleine afdeling hoeven we ook geen groot kapitaal op de bank te hebben.
+        Ook penningmeester Jac ontvangt applaus van de vergadering voor zijn keurig verzorgd werk in het afgelopen jaar.
+        De kascommissie heeft de diverse rekeningen/overzichten gecontroleerd en in orde bevonden.
+        Wiel Heijligers verlaat de kascommissie en Stan Crommentuijn neemt - voorlopig als reserve- zijn plaats in.
+        &lt;br/&gt;
+        &lt;div&gt;
+        &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore20240120');&quot;&gt;Lees meer...&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;divReadMore20240120&quot; style=&quot;display: none&quot;&gt;
+        Vervolgens wordt het punt bestuursverkiezing besproken. Dit punt is zeker niet het gemakkelijkste agendapunt dat vandaag aan de orde komt.
+        In de vorige Algemene Leden Vergadering in januari 2023 hebben Voorzitter Frank, penningmeester Jac en secretaris Ger duidelijk aangegeven te willen stoppen en de bestuurstaken te willen overdragen aan de jongere generatie. Destijds kwam er te weinig respons op dit voorstel en heeft dit 3-tal besloten om maximaal nog een jaar door te gaan en dan af te treden. Tussentijds is er het afgelopen jaar ook nog eens herinneringsoproep op de App geplaatst waar een van onze leden, namelijk Bas Pingen, op heeft gereageerd. Bas geeft daarbij aan dat hij zich naast vaste speler bij de actieve voetballers ook de bestuursfunctie penningmeester gaat vervullen.
+        Op het vervullen van de openstaande bestuursfuncties voorzitter en secretaris reageert in eerste instantie niemand uit de vergadering. Na een korte pauze echter geeft Ruud Lommen aan dat hij de functie voorzitter wil oppakken. Hij maakt echter wel duidelijk dat hij dit alleen wil doen voor de periode dat hij direct betrokken is bij het actieve voetbalteam van de afdeling IVO Veteranen. Op dat moment dient voor een andere oplossing voor de bestuurssamenstelling gekozen te worden.
+        De bestuursfunctie secretaris die Ger al vanaf 2007 bekleed meldt zich niemand en blijft dus voorlopig een vacature.
+        Na onderling overleg maakt Ger kenbaar dat hij voorlopig wel (beperkt) ondersteunende werken wil doen tot het moment (uiterlijk tot de volgende ALV) dat zich een nieuwe secretaris meldt.
+        Het maken van verslagen en foto´s van de wedstrijden van de wedstrijden is geen bestuurstaak en wil Ger doen zolang dit hem lukt en hij dit leuk vindt.
+        Belangrijk is zeker ook dat de actieve spelers en geïnteresseerden die de website bekijken dit ook waarderen.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Agendapunten die in deze ALV verder nog aan de orde komen zijn:
+        &lt;br/&gt;
+        Maurice Kusters (wedstrijdleider actieve spelers) en Wiel Vercoulen (wedstrijdleider wandelvoetballers) maken kenbaar dat het regelen van spelers/wedstrijden en alles wat daarmee heeft te maken over het algemeen goed gaat.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Leon Engels, Henk Munten en Frank Hendrickx zijn 25 jaar lid en ontvangen een fles Jägermeister.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Frank Steegh is gestopt als scheidsrechter voor de actieve voetballers. Geert van Wijlick neemt deze taak over. Frank ontvangt van voorzitter Frank een cadeau als dank voor de vele jaren als scheidsrechter. Van IVO zelf ontvangt Frank eveneens een cadeaubon.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Frank Hendrickx, Sjaak van Rensen en Ger van Rensch ontvangen als aftredende bestuursleden cadeau’ s van de IVO Veteranen en van de voetbalafdeling IVO voor de bestuurstaken die zij vele jaren samen met plezier hebben verricht.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Guus Fitten en Frank Stoffels vormen dit jaar de feestcommissie. Nog een 3e persoon is nodig om de commissie compleet te krijgen. De feestmiddag/avond is bij Guus thuis op zaterdag 29 juni 2024.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Tom Teeling is na vele jaren sponsoring gestopt als sponsor. Van de IVO Veteranen ontvangt hij een 2-tal flessen wijn. De sponsorcombinatie wordt nu gevormd door Leon Engels (Lux advies Velden), Stan Crommentuijn ( Stukadoorswerken) en de werkgever van Joep Houben (administratie bureau Groenveld).
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Totaal bestaat de Veteranen afdeling uit 51 leden. De onderverdeling is als volgt: 23 actieve leden, 16 wandelvoetballers en 12 ondersteunende leden.
+        Jesse van Wijlick komt na de zomerstop bij het actieve voetbalteam spelen.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Jos van Wijlick is gestopt met het regelen van de lotto. Namens de afdeling Veteranen bedankt voorzitter Frank Jos voor het vele werk wat hij voor deze activiteit heeft gedaan. Frank Stoffels volgt Jos op.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Om 17.00 uur sluit scheidend voorzitter Frank de vergadering. Hij bedankt de leden in de vergadering voor de prettige samenwerking in het afgelopen jaar.
+        Ook bedankt hij iedereen voor de prachtige tijd die dit bestuur vele jaren bij de Veteranen afdeling heeft ondervonden.
+        Hij wenst iedereen een mooi en sportief seizoen 2024 toe.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Na de vergadering vindt het gezellig samenzijn plaatst. Na de broodjes wordt de rest van de avond onder het genot van de nodige pilsjes gezamenlijk een klein feestje gehouden.
+        &lt;br/&gt;
+        &lt;/div&gt;
+      &lt;/p&gt;
       Ger van Rensch
       &lt;br/&gt;
       26 januari 2024
@@ -258,56 +270,59 @@
 
   <Nieuw titel="24 januari 2023 - Verslag ALV IVO Veteranen van 21 januari" nieuw="0">
     <Tekst>
-      &lt;b&gt;Algemene Leden vergadering IVO Veteranen kort maar krachtig.&lt;/b&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Jaarlijks houden wij op de zaterdag voor ’”t Gilde” onze ALV. In 2021 en 2022 is dit in verband met corona beperkingen helaas niet gelukt. Op zaterdag 21 januari 2023 zijn de beperkingen opgeheven en is het gelukkig weer mogelijk om de ALV te houden. Ook deze keer is de betrokkenheid van onze leden heel bijzonder. Van de 51 leden komen er 32 naar de sportkantine in de Brede Maatschappelijke Voorziening “De Vilgaard”. Totaal melden zich een 12 tal leden netjes af omdat zij elders verplichtingen hebben.
-      Top mannen!
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/ALVIVOVeteranen_20230121.jpg' align='left' hspace='25' vspace='10' /&gt;
-      &lt;br/&gt;
-      Als voorzitter Frank Hendrickx even na 16.00 uur de Algemene Leden Vergadering opent en een minuut stilte vraagt voor ons overleden lid Theo Appeldoorn is het muisstil.
-      &lt;br/&gt;
-      Tijdens het overige deel van de vergadering- die overigens maar 35 minuten heeft geduurd- is het elders in de kantine wel een beetje rumoerig, maar al met al is de korte vergadering goed te volgen.
-      &lt;br/&gt;
-      &lt;div&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore20230121').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div id=&quot;divReadMore20230121&quot; style=&quot;display: none&quot;&gt;
-      Frank maakt kenbaar dat sportief gezien zowel bij de actieve- als bij de wandelvoetballers een heel goed jaar is afgesloten.
-      De jaarstukken (notulen 2019, jaarverslag 2022 en het financieel verslag 2022 respectievelijk opgemaakt door secretaris Ger en penningmeester Sjaak worden zonder problemen met dank aan deze personen goedgekeurd.
-      Wiel H. geeft namens de kascontrolecommissie dat de diverse stukken samen met de penningmeester zijn doorgenomen en in orde zijn bevonden. Sjaak Geurts geeft zich op als reserve van de kascontrole commissie.
-      Voorzitter Frank wordt herkozen als voorzitter van de IVO veteranen. Mede namens bestuursleden Sjaak en Ger geeft hij aan dat zij nog een jaar (januari 2024) het bestuur blijven. Daarna zal dit 3-tal tegelijk aftreden omdat:
-      &lt;br/&gt;
-      -	Ze samen toch al heel lang als bestuur van de IVO veteranen actief zijn.
-      &lt;br/&gt;
-      -	Graag ook plaats willen maken voor onze  jongere spelers/leden waarvan heel veel actief zijn binnen onze afdeling.
-      &lt;br/&gt;
-      Zodoende wordt er tijdig gelegenheid gegeven om daar eens over na te denken. Via de mail zal het bestuur komend jaar nog eens de oproep binnen de afdeling aanhangig maken.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Een 4-tal leden worden gehuldigd omdat ze 40 jaar (Horst Lennackers) en 25 jaar (Arjen Broekaart, André van den Hombergh en Thei de Wilde lid zijn van de IVO veteranen. Jack Kort is afgelopen jaar reeds thuis in Baarlo gehuldigd omdat hij 50 jaar lid is van onze afdeling.
-      Wiel wordt bedankt als wedstrijdleider van de wandelvoetballers en voor het bijhouden van de website. Wedstrijdleider van de actieve voetballers Maurice is afwezig en ook hij heeft het afgelopen jaar veel tijd en moeite gestoken om elke zaterdag de wedstrijden en spelers te regelen.
-      Ook veel dank daarvoor.
-      Jos geeft aan dat hij na de 1e helft van het seizoen stopt met actief voetbal. Kiest dan voor biljart sport op vrijdag. Hij blijft het 1e halfjaar wel de lotto verzorgen.
-      De feestcommissie heeft eerder aangegeven te stoppen met het organiseren van het jaarlijkse feest bij Frank en José thuis. Frank/José, Geert en Marco bedankt voor de vele mooie feesten.
-      Sjaak/Jos en Wiel H. stellen zich beschikbaar om deze organisatie voor een jaar op te pakken.
-      Organisatie Champions Leaque behoort tot het verleden en wordt niet meer opgepakt.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      In de rondvraag vraagt Leon of de huidige saldo niet gedeeltelijk ingezet kan worden voor bepaalde activiteiten. Bestuur geeft aan dat we in 2026 70 jarig bestaan. Als we dan iets vieren is er wellicht extra geld nodig.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Om 16.40 uur sluit Frank de goed verlopen en gezellige vergadering. Hij dankt iedereen.
-      Een bijzonder woord van dank en applaus ontvangt Geert, omdat heel mooi is dat hij nu-  na de minder plezierige maanden in het ziekenhuis- aanwezig kan zijn,
-      Hij wenst iedereen een mooi en sportief seizoen 2023 toe.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Na de vergadering vindt het gezellig samenzijn in het BMV plaats.
-      Frank geeft daarbij aan dat de koffie/thee tijdens de vergadering, de 2 eerste rondjes en de broodjes uit de kas van de IVO veteranen betaald zullen worden.
-      &lt;br/&gt;
-      &lt;/div&gt;
-      &lt;br/&gt;
+      &lt;p&gt;
+        &lt;b&gt;Algemene Leden vergadering IVO Veteranen kort maar krachtig.&lt;/b&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Jaarlijks houden wij op de zaterdag voor ’”t Gilde” onze ALV. In 2021 en 2022 is dit in verband met corona beperkingen helaas niet gelukt. Op zaterdag 21 januari 2023 zijn de beperkingen opgeheven en is het gelukkig weer mogelijk om de ALV te houden. Ook deze keer is de betrokkenheid van onze leden heel bijzonder. Van de 51 leden komen er 32 naar de sportkantine in de Brede Maatschappelijke Voorziening “De Vilgaard”. Totaal melden zich een 12 tal leden netjes af omdat zij elders verplichtingen hebben.
+        Top mannen!
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/ALVIVOVeteranen_20230121.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Als voorzitter Frank Hendrickx even na 16.00 uur de Algemene Leden Vergadering opent en een minuut stilte vraagt voor ons overleden lid Theo Appeldoorn is het muisstil.
+        &lt;br/&gt;
+        Tijdens het overige deel van de vergadering- die overigens maar 35 minuten heeft geduurd- is het elders in de kantine wel een beetje rumoerig, maar al met al is de korte vergadering goed te volgen.
+        &lt;br/&gt;
+        &lt;div&gt;
+        &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore20230121');&quot;&gt;Lees meer...&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;divReadMore20230121&quot; style=&quot;display: none&quot;&gt;
+        Frank maakt kenbaar dat sportief gezien zowel bij de actieve- als bij de wandelvoetballers een heel goed jaar is afgesloten.
+        De jaarstukken (notulen 2019, jaarverslag 2022 en het financieel verslag 2022 respectievelijk opgemaakt door secretaris Ger en penningmeester Sjaak worden zonder problemen met dank aan deze personen goedgekeurd.
+        Wiel H. geeft namens de kascontrolecommissie dat de diverse stukken samen met de penningmeester zijn doorgenomen en in orde zijn bevonden. Sjaak Geurts geeft zich op als reserve van de kascontrole commissie.
+        Voorzitter Frank wordt herkozen als voorzitter van de IVO veteranen. Mede namens bestuursleden Sjaak en Ger geeft hij aan dat zij nog een jaar (januari 2024) het bestuur blijven. Daarna zal dit 3-tal tegelijk aftreden omdat:
+        &lt;br/&gt;
+        -	Ze samen toch al heel lang als bestuur van de IVO veteranen actief zijn.
+        &lt;br/&gt;
+        -	Graag ook plaats willen maken voor onze  jongere spelers/leden waarvan heel veel actief zijn binnen onze afdeling.
+        &lt;br/&gt;
+        Zodoende wordt er tijdig gelegenheid gegeven om daar eens over na te denken. Via de mail zal het bestuur komend jaar nog eens de oproep binnen de afdeling aanhangig maken.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Een 4-tal leden worden gehuldigd omdat ze 40 jaar (Horst Lennackers) en 25 jaar (Arjen Broekaart, André van den Hombergh en Thei de Wilde lid zijn van de IVO veteranen. Jack Kort is afgelopen jaar reeds thuis in Baarlo gehuldigd omdat hij 50 jaar lid is van onze afdeling.
+        Wiel wordt bedankt als wedstrijdleider van de wandelvoetballers en voor het bijhouden van de website. Wedstrijdleider van de actieve voetballers Maurice is afwezig en ook hij heeft het afgelopen jaar veel tijd en moeite gestoken om elke zaterdag de wedstrijden en spelers te regelen.
+        Ook veel dank daarvoor.
+        Jos geeft aan dat hij na de 1e helft van het seizoen stopt met actief voetbal. Kiest dan voor biljart sport op vrijdag. Hij blijft het 1e halfjaar wel de lotto verzorgen.
+        De feestcommissie heeft eerder aangegeven te stoppen met het organiseren van het jaarlijkse feest bij Frank en José thuis. Frank/José, Geert en Marco bedankt voor de vele mooie feesten.
+        Sjaak/Jos en Wiel H. stellen zich beschikbaar om deze organisatie voor een jaar op te pakken.
+        Organisatie Champions Leaque behoort tot het verleden en wordt niet meer opgepakt.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        In de rondvraag vraagt Leon of de huidige saldo niet gedeeltelijk ingezet kan worden voor bepaalde activiteiten. Bestuur geeft aan dat we in 2026 70 jarig bestaan. Als we dan iets vieren is er wellicht extra geld nodig.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Om 16.40 uur sluit Frank de goed verlopen en gezellige vergadering. Hij dankt iedereen.
+        Een bijzonder woord van dank en applaus ontvangt Geert, omdat heel mooi is dat hij nu-  na de minder plezierige maanden in het ziekenhuis- aanwezig kan zijn,
+        Hij wenst iedereen een mooi en sportief seizoen 2023 toe.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Na de vergadering vindt het gezellig samenzijn in het BMV plaats.
+        Frank geeft daarbij aan dat de koffie/thee tijdens de vergadering, de 2 eerste rondjes en de broodjes uit de kas van de IVO veteranen betaald zullen worden.
+        &lt;br/&gt;
+        &lt;/div&gt;
+      &lt;/p&gt;
       Ger van Rensch
       &lt;br/&gt;
     </Tekst>
@@ -378,42 +393,45 @@
 
   <Nieuw titel="19 januari 2020 - Verslag ALV IVO Veteranen van 18 januari" nieuw="0">
     <Tekst>
-      &lt;b&gt;Algemene Leden vergadering IVO Veteranen kort maar goed.&lt;/b&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Van betrokkenheid is bij de IVO veteranen zeer zeker sprake. Totaal zijn 35 van de 48 leden op zaterdag 18 januari 2020 in de zaal van de Brede Maatschappelijke Voorziening ‘De Vilgaard’ aanwezig als voorzitter Frank Hendrickx even na 16.00 uur de Algemene Leden Vergadering opent.
-      Als je ook nog eens in aanmerking neemt dat 10 personen zich officieel afgemeld hebben, bevestigt dit alleen maar de echte betrokkenheid.
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/ALVIVOVeteranen_20200119.jpg' align='left' hspace='25' vspace='10' /&gt;
-      &lt;br/&gt;
-      Na de opening vraagt Frank eerst een minuut stilte voor ons lid Sjraar Simons die op 15 mei 2019 is overleden. Uit respect gaat iedereen – zoals het hoort- staan. Diverse (oud) spelers hebben de afscheidsdienst in de Antoniuskerk in Blerick destijds bijgewoond.
-      Frank maakt kenbaar dat sportief gezien zowel bij de actieve- als bij de wandelvoetballers een heel goed jaar is afgesloten.
-      &lt;br/&gt;
-      &lt;div&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore20200119').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div id=&quot;divReadMore20200119&quot; style=&quot;display: none&quot;&gt;
-      De jaarstukken (notulen 2018, jaarverslag 2019 en het financieel verslag 2019 respectievelijk opgemaakt door secretaris Ger en penningmeester Jac worden zonder problemen met dank aan deze personen goedgekeurd.
-      Een welgemeend applaus ontvangen beide personen van de vergadering.
-      In 2020 bestaat de kascontrolecommissie uit Wiel H. Huub en reserve Piet V.
-      Sjaak geeft aan dat bij controle van de cijfers en gegevens van het afgelopen jaar alles in orde is bevonden. Huub merkt terloops nog even het volgende op: ‘Als we niet harder interen als nu dan hoeven we over 28 jaar pas de contributie te verhogen’
-      Vervolgens worden de wedstrijdleider Maurice van de actieve spelers en Wiel van de wandelvoetballers in de gelegenheid gesteld om de ervaringen van het afgelopen in beeld te brengen. Beide leiders zijn zeer positief en behoudens een kleine bijsturing van het een  of ander pakken ze komend jaar graag deze taak weer op.
-      Op de agenda staat verder het maximaal aantal actieve spelers. Dat staat op dit moment op 23 of 24 spelers. Sommige actieve spelers vinden dit te veel. Besloten wordt om dit vast te zetten op 22 spelers. Bovendien wordt er door Maurice een lijst bijgehouden waarop de ‘thuisblijvers’ worden vermeld op momenten dat er voor een bepaalde wedstrijd te veel spelers beschikbaar zijn.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Verder komen nog aan de orde, sponsoring, feestmiddag/avond Champions Leaque. De sponsoring voor nieuwe tenues voor de wandelvoetballers wordt met kledingcommissie van SV Velden besproken. Organisatie Champions Leaque wordt steeds moeilijker in verband het vinden van een geschikte datum en de beschikbaarheid van speelvelden. De lotto draait goed, de feestavond was heel gezellig en Jos blijft zich inzetten voor deze activiteit.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      In de rondvraag komt contributie en enkele aanpassingen op de ledenlijst aan de orde. Piet V. van SV Velden  en het IVO veteranen bestuur bekijken of bespreken een 2-tal zaken. Daarna wordt de lijst aangepast.
-      Het luidste applaus van deze middag volgt als Guus kenbaar maakt dat hij van plan was een rondje te geven maar besloten heeft na de vergadering een vaatje te geven omdat zijn zoon Ruud dit jaar adjudant is geworden.
-      Tenslotte wordt de vraag gesteld om bij afgelasting van een bepaalde wedstrijd iets te regelen. Tim regelt dan dat er samen - die dat willen- op kunstgras wordt getraind. Ook de mogelijkheid om elkaar samen te treffen bij ‘De Sport’  voor een paar gezellige uurtjes is aanwezig. Voor beide zaken is de coördinatie via de app.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Om 16.50 uur sluit Frank de goed verlopen en gezellige vergadering.
-      Hij wenst iedereen een mooi en sportief seizoen 2020 toe.
-      &lt;br/&gt;
-      &lt;/div&gt;
-      &lt;br/&gt;
+      &lt;p&gt;
+        &lt;b&gt;Algemene Leden vergadering IVO Veteranen kort maar goed.&lt;/b&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Van betrokkenheid is bij de IVO veteranen zeer zeker sprake. Totaal zijn 35 van de 48 leden op zaterdag 18 januari 2020 in de zaal van de Brede Maatschappelijke Voorziening ‘De Vilgaard’ aanwezig als voorzitter Frank Hendrickx even na 16.00 uur de Algemene Leden Vergadering opent.
+        Als je ook nog eens in aanmerking neemt dat 10 personen zich officieel afgemeld hebben, bevestigt dit alleen maar de echte betrokkenheid.
+      &lt;/p&gt;
+      
+      &lt;img src='Fotoalbum/ALVIVOVeteranen_20200119.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Na de opening vraagt Frank eerst een minuut stilte voor ons lid Sjraar Simons die op 15 mei 2019 is overleden. Uit respect gaat iedereen – zoals het hoort- staan. Diverse (oud) spelers hebben de afscheidsdienst in de Antoniuskerk in Blerick destijds bijgewoond.
+        Frank maakt kenbaar dat sportief gezien zowel bij de actieve- als bij de wandelvoetballers een heel goed jaar is afgesloten.
+        &lt;br/&gt;
+        &lt;div&gt;
+        &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore20200119');&quot;&gt;Lees meer...&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;divReadMore20200119&quot; style=&quot;display: none&quot;&gt;
+        De jaarstukken (notulen 2018, jaarverslag 2019 en het financieel verslag 2019 respectievelijk opgemaakt door secretaris Ger en penningmeester Jac worden zonder problemen met dank aan deze personen goedgekeurd.
+        Een welgemeend applaus ontvangen beide personen van de vergadering.
+        In 2020 bestaat de kascontrolecommissie uit Wiel H. Huub en reserve Piet V.
+        Sjaak geeft aan dat bij controle van de cijfers en gegevens van het afgelopen jaar alles in orde is bevonden. Huub merkt terloops nog even het volgende op: ‘Als we niet harder interen als nu dan hoeven we over 28 jaar pas de contributie te verhogen’
+        Vervolgens worden de wedstrijdleider Maurice van de actieve spelers en Wiel van de wandelvoetballers in de gelegenheid gesteld om de ervaringen van het afgelopen in beeld te brengen. Beide leiders zijn zeer positief en behoudens een kleine bijsturing van het een  of ander pakken ze komend jaar graag deze taak weer op.
+        Op de agenda staat verder het maximaal aantal actieve spelers. Dat staat op dit moment op 23 of 24 spelers. Sommige actieve spelers vinden dit te veel. Besloten wordt om dit vast te zetten op 22 spelers. Bovendien wordt er door Maurice een lijst bijgehouden waarop de ‘thuisblijvers’ worden vermeld op momenten dat er voor een bepaalde wedstrijd te veel spelers beschikbaar zijn.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Verder komen nog aan de orde, sponsoring, feestmiddag/avond Champions Leaque. De sponsoring voor nieuwe tenues voor de wandelvoetballers wordt met kledingcommissie van SV Velden besproken. Organisatie Champions Leaque wordt steeds moeilijker in verband het vinden van een geschikte datum en de beschikbaarheid van speelvelden. De lotto draait goed, de feestavond was heel gezellig en Jos blijft zich inzetten voor deze activiteit.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        In de rondvraag komt contributie en enkele aanpassingen op de ledenlijst aan de orde. Piet V. van SV Velden  en het IVO veteranen bestuur bekijken of bespreken een 2-tal zaken. Daarna wordt de lijst aangepast.
+        Het luidste applaus van deze middag volgt als Guus kenbaar maakt dat hij van plan was een rondje te geven maar besloten heeft na de vergadering een vaatje te geven omdat zijn zoon Ruud dit jaar adjudant is geworden.
+        Tenslotte wordt de vraag gesteld om bij afgelasting van een bepaalde wedstrijd iets te regelen. Tim regelt dan dat er samen - die dat willen- op kunstgras wordt getraind. Ook de mogelijkheid om elkaar samen te treffen bij ‘De Sport’  voor een paar gezellige uurtjes is aanwezig. Voor beide zaken is de coördinatie via de app.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Om 16.50 uur sluit Frank de goed verlopen en gezellige vergadering.
+        Hij wenst iedereen een mooi en sportief seizoen 2020 toe.
+        &lt;br/&gt;
+        &lt;/div&gt;
+      &lt;/p&gt;
       Ger van Rensch
       &lt;br/&gt;
     </Tekst>
@@ -458,7 +476,7 @@
       Op woensdag 15 mei 2019 is hij rond 15.00 uur in het Hospice Horst overleden.
       &lt;br/&gt;
       &lt;div&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore20190519').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
+      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore20190519');&quot;&gt;Lees meer...&lt;/a&gt;
       &lt;/div&gt;
       &lt;div id=&quot;divReadMore20190519&quot; style=&quot;display: none&quot;&gt;
       &lt;br/&gt;
@@ -489,45 +507,48 @@
 
   <Nieuw titel="25 januari 2019 - Verslag ALV IVO Veteranen van 19 januari" nieuw="0">
     <Tekst>
-      &lt;b&gt;Opkomst Algemene Leden vergadering IVO Veteranen meer dan 75%&lt;/b&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Onze afdeling IVO Veteranen telt op dit moment 50 leden. Daarmee telt ze meer leden dan ooit ter voren. Als de ALV op zaterdag 19 januari 2019 in de Brede Maatschappelijke Voorziening wordt gehouden zijn er 38 leden present. Ook hebben zich nog eens 5 leden officieel afgemeld. Al met al kun je dan toch zeker stellen dat onze spelers/leden zeer betrokken zijn bij het wel een wee van onze afdeling.
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/ALVIVOVeteranen_20190125.jpg' align='left' hspace='20' vspace='10' /&gt;
-      &lt;br/&gt;
-      Om 16.06 uur opent onze voorzitter Frank de vergadering. De jaarstukken (notulen 2017, jaarverslag 2018 en financieel verslag 2018 respectievelijk opgemaakt door secretaris Ger en penningmeester Jac worden zonder problemen met dank aan deze personen goedgekeurd. Ger heeft zich als secretaris weer voor 1 jaar herkiesbaar gesteld.
-      &lt;br/&gt;
-      &lt;div&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore20190125').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div id=&quot;divReadMore20190125&quot; style=&quot;display: none&quot;&gt;
-      De kascontrolecommissie (Geert en Sjaak) bevestigt bij monde van Geert nogmaals het goede werk van onze penningmeester. In 2019 bestaat de kascontrolecommissie uit Sjaak, Wiel H. en reserve Huub.
-      &lt;br/&gt;
-      Probleemloos gaat de vergadering akkoord met toetreding van de wandelvoetballers bij de afdeling IVO Veteranen. Als bestuur zijn we heel blij met deze aanvulling. Spelers/leden die met het actieve voetbal zijn gestopt hebben zodoende een mooie mogelijkheid om sportief meer betrokken te zijn bij onze voetbal afdeling. De wandelvoetballers spelen niet elke week en gebruiken een klein veld. Het IVO bestuur heeft de contributie in verband hiermee vastgesteld op € 40,- per jaar. Aan de eigen afdeling betalen deze spelers daarboven nog eens € 15,- per jaar.
-      &lt;br/&gt;
-      Extra aandacht vraagt voorzitter Frank voor vervanging van wedstrijdleider Wiel. Leon geeft aan dat het beter zou zijn dat iemand van de jongere garde deze taak geheel of gedeeltelijk op zich zou nemen. En toen bleef het stil. Uiteindelijk heeft Maurice aangegeven dat hij het wel wil proberen. Voorzitter Frank stuurt er duidelijk op aan dat Maurice daarbij hulp kan gebruiken. Wiel – onze ervaren wedstrijdleider zal dat in het begin doen.
-      &lt;br/&gt;
-      Als bestuur zouden we graag zien dat uiteindelijk nog een van de jongere spelers zich  meldt om een gedeelte van de taak samen met Maurice te doen.
-      &lt;br/&gt;
-      Het ophalen en terugbezorgen van de voetbaltenues wordt vervolgens besproken. De discussie: Tenues door elke speler mee naar huis nemen en te laten wassen haalt het niet. Voorgesteld wordt bij uitwedstrijden de tas bij Tineke op te halen. Ophalen en terugbezorgen bij thuiswedstrijden regelen met schema zoals het schoonmaken van de kleedlokalen.
-      &lt;br/&gt;
-      Wiel en Tom worden in ‘zonnetje’ gezet voor de – belangrijke- taken (wedstrijdleider, verzorgen tas met tenues) die zij langdurig voor ons team hebben verricht en waarmee ze op het eind van het seizoen zijn gestopt.
-      &lt;br/&gt;
-      Verder komen nog aan de orde, sponsoring, feestmiddag/avond Champions Leaque. Voor zover nodig worden deze zaken komende tijd door commissies verder uitgewerkt.
-      &lt;br/&gt;
-      In de rondvraag vraagt Leon zich af, of de leiders van de teams bij de Champions Leaque wel behoefte hebben aan dit toernooi. Sommige leiders tonen namelijk te weinig belangstelling.
-      &lt;br/&gt;
-      Door Jos en Ron worden vragen gesteld over de Lotto voor wandelvoetballers en de wandelvoetballers bij thuiswedstrijden van de actieve voetballers. Afgesproken wordt dat we bekijken hoe deze zaken zich ontwikkelen.
-      &lt;br/&gt;
-      Om 16.53 uur sluit Frank de heel plezierig verlopen vergadering.
-      Hij wenst iedereen een mooi en blessure vrij seizoen 2019 toe.
-      Daarbij geeft hij tevens aan: &lt;i&gt;‘De spelers moeten zich niet te gauw afmelden. Laat het team niet te gauw in de steek! Laat je ook na de wedstrijd tijdens de 3e helft ook zien- al is het ook niet zo lang-‘.&lt;/i&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Na de vergadering vindt het gezellig samenzijn plaatst. Na de broodjes wordt de rest van de avond onder het genot van de nodige pilsjes onderling gezellig bijgekletst. 
-      &lt;/div&gt;
-      &lt;br/&gt;
+      &lt;p&gt;
+        &lt;b&gt;Opkomst Algemene Leden vergadering IVO Veteranen meer dan 75%&lt;/b&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Onze afdeling IVO Veteranen telt op dit moment 50 leden. Daarmee telt ze meer leden dan ooit ter voren. Als de ALV op zaterdag 19 januari 2019 in de Brede Maatschappelijke Voorziening wordt gehouden zijn er 38 leden present. Ook hebben zich nog eens 5 leden officieel afgemeld. Al met al kun je dan toch zeker stellen dat onze spelers/leden zeer betrokken zijn bij het wel een wee van onze afdeling.
+      &lt;/p&gt;
+      
+      &lt;img src='Fotoalbum/ALVIVOVeteranen_20190125.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Om 16.06 uur opent onze voorzitter Frank de vergadering. De jaarstukken (notulen 2017, jaarverslag 2018 en financieel verslag 2018 respectievelijk opgemaakt door secretaris Ger en penningmeester Jac worden zonder problemen met dank aan deze personen goedgekeurd. Ger heeft zich als secretaris weer voor 1 jaar herkiesbaar gesteld.
+        &lt;br/&gt;
+        &lt;div&gt;
+        &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore20190125');&quot;&gt;Lees meer...&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div id=&quot;divReadMore20190125&quot; style=&quot;display: none&quot;&gt;
+        De kascontrolecommissie (Geert en Sjaak) bevestigt bij monde van Geert nogmaals het goede werk van onze penningmeester. In 2019 bestaat de kascontrolecommissie uit Sjaak, Wiel H. en reserve Huub.
+        &lt;br/&gt;
+        Probleemloos gaat de vergadering akkoord met toetreding van de wandelvoetballers bij de afdeling IVO Veteranen. Als bestuur zijn we heel blij met deze aanvulling. Spelers/leden die met het actieve voetbal zijn gestopt hebben zodoende een mooie mogelijkheid om sportief meer betrokken te zijn bij onze voetbal afdeling. De wandelvoetballers spelen niet elke week en gebruiken een klein veld. Het IVO bestuur heeft de contributie in verband hiermee vastgesteld op € 40,- per jaar. Aan de eigen afdeling betalen deze spelers daarboven nog eens € 15,- per jaar.
+        &lt;br/&gt;
+        Extra aandacht vraagt voorzitter Frank voor vervanging van wedstrijdleider Wiel. Leon geeft aan dat het beter zou zijn dat iemand van de jongere garde deze taak geheel of gedeeltelijk op zich zou nemen. En toen bleef het stil. Uiteindelijk heeft Maurice aangegeven dat hij het wel wil proberen. Voorzitter Frank stuurt er duidelijk op aan dat Maurice daarbij hulp kan gebruiken. Wiel – onze ervaren wedstrijdleider zal dat in het begin doen.
+        &lt;br/&gt;
+        Als bestuur zouden we graag zien dat uiteindelijk nog een van de jongere spelers zich  meldt om een gedeelte van de taak samen met Maurice te doen.
+        &lt;br/&gt;
+        Het ophalen en terugbezorgen van de voetbaltenues wordt vervolgens besproken. De discussie: Tenues door elke speler mee naar huis nemen en te laten wassen haalt het niet. Voorgesteld wordt bij uitwedstrijden de tas bij Tineke op te halen. Ophalen en terugbezorgen bij thuiswedstrijden regelen met schema zoals het schoonmaken van de kleedlokalen.
+        &lt;br/&gt;
+        Wiel en Tom worden in ‘zonnetje’ gezet voor de – belangrijke- taken (wedstrijdleider, verzorgen tas met tenues) die zij langdurig voor ons team hebben verricht en waarmee ze op het eind van het seizoen zijn gestopt.
+        &lt;br/&gt;
+        Verder komen nog aan de orde, sponsoring, feestmiddag/avond Champions Leaque. Voor zover nodig worden deze zaken komende tijd door commissies verder uitgewerkt.
+        &lt;br/&gt;
+        In de rondvraag vraagt Leon zich af, of de leiders van de teams bij de Champions Leaque wel behoefte hebben aan dit toernooi. Sommige leiders tonen namelijk te weinig belangstelling.
+        &lt;br/&gt;
+        Door Jos en Ron worden vragen gesteld over de Lotto voor wandelvoetballers en de wandelvoetballers bij thuiswedstrijden van de actieve voetballers. Afgesproken wordt dat we bekijken hoe deze zaken zich ontwikkelen.
+        &lt;br/&gt;
+        Om 16.53 uur sluit Frank de heel plezierig verlopen vergadering.
+        Hij wenst iedereen een mooi en blessure vrij seizoen 2019 toe.
+        Daarbij geeft hij tevens aan: &lt;i&gt;‘De spelers moeten zich niet te gauw afmelden. Laat het team niet te gauw in de steek! Laat je ook na de wedstrijd tijdens de 3e helft ook zien- al is het ook niet zo lang-‘.&lt;/i&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Na de vergadering vindt het gezellig samenzijn plaatst. Na de broodjes wordt de rest van de avond onder het genot van de nodige pilsjes onderling gezellig bijgekletst. 
+        &lt;/div&gt;
+      &lt;/p&gt;
       Ger van Rensch
       &lt;br/&gt;
     </Tekst>
@@ -542,15 +563,17 @@
 
   <Nieuw titel="9 september 2018 - Eerste officiële wandelvoetbal wedstrijd in de gescheidenis van IVO een feit!" nieuw="0">
     <Tekst>
-      Zaterdag 8 september 2018 is de eerste officiële wandelvoetbal wedstrijd in de gescheidenis van IVO gespeeld.
-      De wedstrijd werd gespeeld in Horst, tegen de Wittenhorst wandelvoetballers. Na 2 x 25 minuten sportief gewandelvoetbald te hebben gingen de IVO wandelvoetballers met een 8 - 3 overwinning naar huis.
-      Een hoogtepunt in deze wedstrijd was het allereerste IVO wandelvoetbal doelpunt gescoord door Wiel Heijligers. Hij zal dan ook zeker in de annalen van de geschiedenis van IVO worden opgenomen!
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/Wandelvoetbal_20180908.jpg' align='left' hspace='20' vspace='10' /&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Eerstvolgende wedstrijd is op 29 september in en tegen Melderslo (aanvang: 16:00 uur).
-      &lt;br/&gt;
+      &lt;p&gt;
+        Zaterdag 8 september 2018 is de eerste officiële wandelvoetbal wedstrijd in de gescheidenis van IVO gespeeld.
+        De wedstrijd werd gespeeld in Horst, tegen de Wittenhorst wandelvoetballers. Na 2 x 25 minuten sportief gewandelvoetbald te hebben gingen de IVO wandelvoetballers met een 8 - 3 overwinning naar huis.
+        Een hoogtepunt in deze wedstrijd was het allereerste IVO wandelvoetbal doelpunt gescoord door Wiel Heijligers. Hij zal dan ook zeker in de annalen van de geschiedenis van IVO worden opgenomen!
+      &lt;/p&gt;
+      
+      &lt;img src='Fotoalbum/Wandelvoetbal_20180908.jpg' class='img-inline-alignment' /&gt;
+  
+      &lt;p&gt;
+        Eerstvolgende wedstrijd is op 29 september in en tegen Melderslo (aanvang: 16:00 uur).
+      &lt;/p&gt;
     </Tekst>
   </Nieuw>
 
@@ -575,29 +598,32 @@
 
   <Nieuw titel="20 juni 2018 - Demonstratie ‘Walkingvoetbal’ bevalt goed in Velden" nieuw="0">
     <Tekst>
-      Vele jaren heb je actief gevoetbald bij een vereniging en later bij de afdeling veteranen en dan komt er dikwijls een tijd dat het door blessures of conditie/loopvermogen allemaal wat minder wordt. Feit is en blijft dat blijven bewegen en ontspannen goed is voor je lichaam. Op zo’n moment is wandelvoetbal een goede zaak.
-      Als een tijdje geleden tijdens de 3e helft bij IVO het woord ‘wandelvoetbal’ werd genoemd dan hoorde je al gauw (een beetje lachend) de opmerking: ’Dat is niets voor mij’
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/Wandelvoetbal_20180619.jpg' align='left' hspace='20' vspace='10' /&gt;
-      &lt;br/&gt;
-      Het verzoek van de leider van het Wittenhorst wandelteam  een paar maanden geleden is door enkele spelers en door de wedstrijdleider van de IVO veteranen heel serieus opgepakt.
-      &lt;br/&gt;
-      En zo is het ervan gekomen dat op zaterdag 16 juni 2018 er een demonstratie wedstrijd tussen de wandel voetbalteams van Wittenhorst en Melderslo op ons sportpark wordt gespeeld.
-      &lt;br/&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore4').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
-      &lt;br/&gt;
-      &lt;div id=&quot;divReadMore4&quot; style=&quot;display: none&quot;&gt;
-      Een 12-tal spelers van IVO mag aanvankelijk nog even toekijken. Daarna wordt onderling in totaal 3 wedstrijden een uur lang een leuk onderling toernooi gespeeld.
-      In het begin voelt het spelletje een beetje vreemd aan voor onze spelers. Nu en dan wordt er nog gerend of onwennig gedaan, maar al gauw voelt het voor het merendeel van de spelers heel vertrouwd Als toeschouwer heb ik het hele toernooi bekeken en ik durf duidelijk te stellen dat de IVO wandelvoetballers heel enthousiast en zeker niet slecht zijn begonnen. Bovendien is het langs de kant ook nog eens heel gezellig (familie van de  spelers en spelers/ aanhang van het slottoernooi dat ook deze middag plaats  vindt. De resultaten van dit onderling toernooitje zijn eigenlijk niet relevant. Belangrijk is om  zelf te ervaren wat wandelvoetbal voor je betekent. Na afloop hoorde ik onder andere: ‘ Het spelletje is heel leuk, maar het kost toch wel conditie als je het goed doet’
-      Van  enkele andere oud voetballers hoorde ik al zeggen ‘ Ik  sluit niet uit dat ik dit ook op ga oppakken.
-      Heel mooi is het altijd als er positief wordt gedaan op een nieuwe activiteit.
-      Na afloop in de sportkantine in de Brede Maatschappelijk Voorziening is aan het commentaar van de spelers duidelijk te merken dat na deze 1e stap zeker vervolgstappen op zijn plaats zijn. Hoe en wanneer dat zal geschieden zal in onderling overleg worden  besproken/uitgewerkt.
-      Dank aan de teams van Wittenhorst en Melderslo wandelvoetballers voor de demonstratie wedstrijd.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Opmerking: Ook wandelvoetbal proberen? Meldt je aan bij Wiel Vercoulen.
-      &lt;/div&gt;
-      &lt;br/&gt;
+      &lt;p&gt;
+        Vele jaren heb je actief gevoetbald bij een vereniging en later bij de afdeling veteranen en dan komt er dikwijls een tijd dat het door blessures of conditie/loopvermogen allemaal wat minder wordt. Feit is en blijft dat blijven bewegen en ontspannen goed is voor je lichaam. Op zo’n moment is wandelvoetbal een goede zaak.
+        Als een tijdje geleden tijdens de 3e helft bij IVO het woord ‘wandelvoetbal’ werd genoemd dan hoorde je al gauw (een beetje lachend) de opmerking: ’Dat is niets voor mij’
+      &lt;/p&gt;
+      
+      &lt;img src='Fotoalbum/Wandelvoetbal_20180619.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Het verzoek van de leider van het Wittenhorst wandelteam  een paar maanden geleden is door enkele spelers en door de wedstrijdleider van de IVO veteranen heel serieus opgepakt.
+        &lt;br/&gt;
+        En zo is het ervan gekomen dat op zaterdag 16 juni 2018 er een demonstratie wedstrijd tussen de wandel voetbalteams van Wittenhorst en Melderslo op ons sportpark wordt gespeeld.
+        &lt;br/&gt;
+        &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore4');&quot;&gt;Lees meer...&lt;/a&gt;
+        &lt;br/&gt;
+        &lt;div id=&quot;divReadMore4&quot; style=&quot;display: none&quot;&gt;
+        Een 12-tal spelers van IVO mag aanvankelijk nog even toekijken. Daarna wordt onderling in totaal 3 wedstrijden een uur lang een leuk onderling toernooi gespeeld.
+        In het begin voelt het spelletje een beetje vreemd aan voor onze spelers. Nu en dan wordt er nog gerend of onwennig gedaan, maar al gauw voelt het voor het merendeel van de spelers heel vertrouwd Als toeschouwer heb ik het hele toernooi bekeken en ik durf duidelijk te stellen dat de IVO wandelvoetballers heel enthousiast en zeker niet slecht zijn begonnen. Bovendien is het langs de kant ook nog eens heel gezellig (familie van de  spelers en spelers/ aanhang van het slottoernooi dat ook deze middag plaats  vindt. De resultaten van dit onderling toernooitje zijn eigenlijk niet relevant. Belangrijk is om  zelf te ervaren wat wandelvoetbal voor je betekent. Na afloop hoorde ik onder andere: ‘ Het spelletje is heel leuk, maar het kost toch wel conditie als je het goed doet’
+        Van  enkele andere oud voetballers hoorde ik al zeggen ‘ Ik  sluit niet uit dat ik dit ook op ga oppakken.
+        Heel mooi is het altijd als er positief wordt gedaan op een nieuwe activiteit.
+        Na afloop in de sportkantine in de Brede Maatschappelijk Voorziening is aan het commentaar van de spelers duidelijk te merken dat na deze 1e stap zeker vervolgstappen op zijn plaats zijn. Hoe en wanneer dat zal geschieden zal in onderling overleg worden  besproken/uitgewerkt.
+        Dank aan de teams van Wittenhorst en Melderslo wandelvoetballers voor de demonstratie wedstrijd.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Opmerking: Ook wandelvoetbal proberen? Meldt je aan bij Wiel Vercoulen.
+        &lt;/div&gt;
+      &lt;/p&gt;
       Ger van Rensch
       &lt;br/&gt;
       &lt;br/&gt;
@@ -654,7 +680,7 @@
     <Tekst>
       Op zaterdag 20 januari 2018 is de Algemene Leden Vergadering gehouden in de Brede Maatschappelijke Voorziening ‘de Vilgaard’.
       Met een opkomst van 29 leden en persoonlijke afmeldingen van 7 leden over een totaal van 40 leden kun je duidelijk stellen dat de leden betrokken zijn bij het wel wee van onze afdeling.&lt;br/&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore3').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
+      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore3');&quot;&gt;Lees meer...&lt;/a&gt;
       &lt;br/&gt;
       &lt;div id=&quot;divReadMore3&quot; style=&quot;display: none&quot;&gt;
       In bijna 45 minuten – inclusief een pauze- handelt voorzitter Frank de diverse agendapunten af.
@@ -698,19 +724,20 @@
 
   <Nieuw titel="30 juni 2017 - Optreden IVO Veteranen bij Sports meets Music - IVO 100 jaar" nieuw="0">
     <Tekst>
-        &lt;img src='Fotoalbum/IVO100Jaar_20170630.jpg' align='left' hspace='20' vspace='10' /&gt;
-      Als zelfs Annie van Andre zich met ons liedje gaat bemoeien , dan weet je wel hoeveel spanning erop stond tijdens ons optreden bij “Sport meets Music“.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Nadat we ons eerst wat moed hadden ingedronken, volgens sommigen is dit de keel smeren voor een goed stemgeluid, werd het tijdens de omkleedsessie al wat stiller. Er werd wat zenuwachtig gelachen toen we de volle tent betraden, maar eenmaal op het podium viel de spanning er vanaf. Uit ongeveer 30 volle borsten werd het geuzenlied van IVO ingezet. Na ongeveer anderhalve minuut moesten we het podium alweer verlaten. Het zat erop. De reacties vanuit de tent waren overweldigend. Ik denk dat er nu nog mensen “zugabe” staan te schreeuwen. Maar de slecht articulerende dirigent had hier geen boodschap aan. Bedankt en tot ziens.
-      Maar op het einde van de avond kregen we onze genoegdoening, toen we met zijn allen het magische 'You’ll never walk alone' ten gehore brachten. Na afloop kregen we vele aanvragen en verzoeken om optredens, maar dat hebben we vriendelijk afgeslagen. We gaan na de zomerstop weer doen waar we echt in willen uitblinken.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Voetballen bij de veteranen is en blijft een feest!
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Jos van Wylick
-      &lt;br/&gt;
+      &lt;img src='Fotoalbum/IVO100Jaar_20170630.jpg' class='img-inline-alignment' /&gt;
+      &lt;p&gt;
+        Als zelfs Annie van Andre zich met ons liedje gaat bemoeien , dan weet je wel hoeveel spanning erop stond tijdens ons optreden bij “Sport meets Music“.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Nadat we ons eerst wat moed hadden ingedronken, volgens sommigen is dit de keel smeren voor een goed stemgeluid, werd het tijdens de omkleedsessie al wat stiller. Er werd wat zenuwachtig gelachen toen we de volle tent betraden, maar eenmaal op het podium viel de spanning er vanaf. Uit ongeveer 30 volle borsten werd het geuzenlied van IVO ingezet. Na ongeveer anderhalve minuut moesten we het podium alweer verlaten. Het zat erop. De reacties vanuit de tent waren overweldigend. Ik denk dat er nu nog mensen “zugabe” staan te schreeuwen. Maar de slecht articulerende dirigent had hier geen boodschap aan. Bedankt en tot ziens.
+        Maar op het einde van de avond kregen we onze genoegdoening, toen we met zijn allen het magische 'You’ll never walk alone' ten gehore brachten. Na afloop kregen we vele aanvragen en verzoeken om optredens, maar dat hebben we vriendelijk afgeslagen. We gaan na de zomerstop weer doen waar we echt in willen uitblinken.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Voetballen bij de veteranen is en blijft een feest!
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Jos van Wylick
+      &lt;/p&gt;
     </Tekst>
   </Nieuw>
 
@@ -724,10 +751,11 @@
 
   <Nieuw titel="26 juni 2017 - KNVB-voorzitter feliciteert 100-jarig IVO" nieuw="0">
     <Tekst>
-      &lt;img src='Fotoalbum/IVO100Jaar_20170626.jpg' align='left' hspace='20' vspace='10' /&gt;
-      KNVB-voorzitter Michael van Praag was naar Velden gekomen om IVO te feliciteren met dit unieke jubileum. Verder kreeg voorzitter Hans van Noorloos de zilveren KNVB-waarderingsspeld uitgereikt door van Praag.
-      &lt;a class=&quot;ablue&quot; href=&quot;https://omroepvenlo.nl/nieuws/artikel/60418095&quot; target=&quot;_blank&quot; &gt;Lees meer op Omroep Venlo.&lt;/a&gt;
-      &lt;br/&gt;
+      &lt;img src='Fotoalbum/IVO100Jaar_20170626.jpg' class='img-inline-alignment' /&gt;
+      &lt;p&gt;
+        KNVB-voorzitter Michael van Praag was naar Velden gekomen om IVO te feliciteren met dit unieke jubileum. Verder kreeg voorzitter Hans van Noorloos de zilveren KNVB-waarderingsspeld uitgereikt door van Praag.
+        &lt;a class=&quot;ablue&quot; href=&quot;https://omroepvenlo.nl/nieuws/artikel/60418095&quot; target=&quot;_blank&quot; &gt;Lees meer op Omroep Venlo.&lt;/a&gt;
+      &lt;/p&gt;
     </Tekst>
   </Nieuw>
 
@@ -878,7 +906,7 @@
 
   <Nieuw titel="27 januari 2015 - IVO Veteranen in de Gekke Maondaag-optocht" nieuw="0">
     <Tekst>
-      &lt;img src='Fotoalbum/GekkeMaondag2015.jpg'/&gt;
+      &lt;img src='Fotoalbum/GekkeMaondag2015.jpg' class='img-inline-alignment' /&gt;
       &lt;br/&gt;
     </Tekst>
   </Nieuw>
@@ -887,7 +915,7 @@
     <Tekst>
       Als bestuur van de IVO veteranen mag je heel tevreden zijn als 37 van de 44 leden de jaarlijkse ledenvergadering bezoeken.&lt;br/&gt;
       Het is op zaterdag 17 januari 2015 de eerste keer dat we vergaderen in een gedeelte van de gloednieuwe grote zaal in de Brede Maatschappelijke Voorziening ‘De Vilgaard’.&lt;br/&gt;
-      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;document.getElementById('divReadMore1').style.display = ''; this.style.display = 'none';&quot;&gt;Lees meer...&lt;/a&gt;
+      &lt;a class=&quot;ablue&quot; href=&quot;#&quot; onclick=&quot;ReadMoreOnClickHandler(this, 'divReadMore1');&quot;&gt;Lees meer...&lt;/a&gt;
       &lt;br/&gt;
       &lt;div id=&quot;divReadMore1&quot; style=&quot;display: none&quot;&gt;
       De belangrijkste besluiten en bijzonderheden op een rij:&lt;br/&gt;
@@ -975,41 +1003,44 @@
 
   <Nieuw titel="25 april 2014 - Ger van Rensch benoemd tot Lid in de Orde van Oranje-Nassau" nieuw="0">
     <Tekst>
-      Vrijdag 24 april is Ger van Rensch benoemd tot Lid in de Orde van Oranje-Nassau door burgemeester Antoin Scholten.
+      &lt;p&gt;
+        Vrijdag 24 april is Ger van Rensch benoemd tot Lid in de Orde van Oranje-Nassau door burgemeester Antoin Scholten.
+      &lt;p&gt;
+      
       &lt;br/&gt;
+      &lt;img src='Fotoalbum/GerVanRensch_KoninklijkeOnderscheiding.jpg' class='img-inline-alignment'/&gt;
       &lt;br/&gt;
-      &lt;img src='Fotoalbum/GerVanRensch_KoninklijkeOnderscheiding.jpg'/&gt;
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Ger ontving deze onderscheiding vanwege zijn inzet voor de volgende activiteiten:
-      &lt;br/&gt;
-      &lt;br/&gt;
-      * 1990-heden
-      &lt;br/&gt;
-      Vrijwilliger en secretaris Sportvereniging, afdeling IVO (voetbalclub) te Velden. Betrokkene is (sinds 1990) lid van de materialencommissie, secretaris (sinds 2004) van de commissie terreinen-gebouwen en materialen, lid van de klusploeg (sinds 2004) en secretaris (sinds 2007) van de afdeling veteranen.
-      &lt;br/&gt;
-      * 1990-heden
-      &lt;br/&gt;
-      Vrijwilliger en bestuurslid Parochie St. Andreas te Velden. Betrokkene was (van 1992 tot 2003) als lid van het kerkbestuur verantwoordelijk voor beheer en onderhoud van het kerkgebouw en de goederen. Daarnaast was hij lid van het armenbestuur (1992-2003) en verantwoordelijk voor de renovatie van de kerktoren, en collectant en lid van diverse commissies. Hij verricht daarnaast diverse hand-en-spandiensten.
-      &lt;br/&gt;
-      * 2004-heden
-      &lt;br/&gt;
-      Vrijwilliger Stichting Veldense Volkscultuur. Hij is verantwoordelijk voor de technische bouwvoorschriften en dergelijke binnen de stichting. Daarnaast heeft hij diverse cultuur-gerelateerde projecten in het dorp opgezet, begeleid en uitgevoerd. Hij fungeert tevens als contactpersoon van de gemeente Venlo en verricht hand-en-spandiensten.
-      &lt;br/&gt;
-      * 2007-heden
-      &lt;br/&gt;
-      Vrijwilliger en secretaris Katholieke Bond van Ouderen (KBO), afdeling Velden. Hij heeft als medeoprichter de maandelijkse KBO nieuwsbrief opgezet en gecoördineerd en fungeerde als redactielid. Hij fungeert tevens als fotograaf tijdens de activiteiten en ondersteunt de organisatie van diverse activiteiten. Tevens stelt hij het jaarprogramma op.
-      &lt;br/&gt;
-      * 2009-heden
-      &lt;br/&gt;
-      Vrijwilliger en bestuurslid (3 jaar lang) Dorpsraad Velden. Hij coördineert de werkgroep ruimtelijke ordening en de werkgroep afval en vandalisme
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Ger van harte gefeliciteerd met deze onderscheiding!!!
-      &lt;br/&gt;
-      Bestuur en leden van de veteranen.
-      &lt;br/&gt;
-    </Tekst>
+      
+      &lt;p&gt;
+        Ger ontving deze onderscheiding vanwege zijn inzet voor de volgende activiteiten:
+        &lt;br/&gt;
+        &lt;br/&gt;
+        * 1990-heden
+        &lt;br/&gt;
+        Vrijwilliger en secretaris Sportvereniging, afdeling IVO (voetbalclub) te Velden. Betrokkene is (sinds 1990) lid van de materialencommissie, secretaris (sinds 2004) van de commissie terreinen-gebouwen en materialen, lid van de klusploeg (sinds 2004) en secretaris (sinds 2007) van de afdeling veteranen.
+        &lt;br/&gt;
+        * 1990-heden
+        &lt;br/&gt;
+        Vrijwilliger en bestuurslid Parochie St. Andreas te Velden. Betrokkene was (van 1992 tot 2003) als lid van het kerkbestuur verantwoordelijk voor beheer en onderhoud van het kerkgebouw en de goederen. Daarnaast was hij lid van het armenbestuur (1992-2003) en verantwoordelijk voor de renovatie van de kerktoren, en collectant en lid van diverse commissies. Hij verricht daarnaast diverse hand-en-spandiensten.
+        &lt;br/&gt;
+        * 2004-heden
+        &lt;br/&gt;
+        Vrijwilliger Stichting Veldense Volkscultuur. Hij is verantwoordelijk voor de technische bouwvoorschriften en dergelijke binnen de stichting. Daarnaast heeft hij diverse cultuur-gerelateerde projecten in het dorp opgezet, begeleid en uitgevoerd. Hij fungeert tevens als contactpersoon van de gemeente Venlo en verricht hand-en-spandiensten.
+        &lt;br/&gt;
+        * 2007-heden
+        &lt;br/&gt;
+        Vrijwilliger en secretaris Katholieke Bond van Ouderen (KBO), afdeling Velden. Hij heeft als medeoprichter de maandelijkse KBO nieuwsbrief opgezet en gecoördineerd en fungeerde als redactielid. Hij fungeert tevens als fotograaf tijdens de activiteiten en ondersteunt de organisatie van diverse activiteiten. Tevens stelt hij het jaarprogramma op.
+        &lt;br/&gt;
+        * 2009-heden
+        &lt;br/&gt;
+        Vrijwilliger en bestuurslid (3 jaar lang) Dorpsraad Velden. Hij coördineert de werkgroep ruimtelijke ordening en de werkgroep afval en vandalisme
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Ger van harte gefeliciteerd met deze onderscheiding!!!
+        &lt;br/&gt;
+        Bestuur en leden van de veteranen.
+      &lt;/p&gt;
+  </Tekst>
   </Nieuw>
 
   <Nieuw titel="6 april 2014 - Gift van de IVO Veteranen aan de Stichting KiKa" nieuw="0">
@@ -1032,36 +1063,41 @@
 
   <Nieuw titel="29 januari 2014 - Jubilaris IVO Veteranen" nieuw="0">
     <Tekst>
-      Tijdens de algemene jaarvergadering van de IVO veteranen op 18 januari 2014 is Sraar Simons door onze voorzitter gehuldigd voor zijn 25-jarig lidmaatschap.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Sraar heeft tot juni 2006 actief gespeeld. Na die tijd is hij lid van de veteranen gebleven en bezoekt hij af en toe een wedstrijd. Sraar kennen we vooral om zijn gulle lach en spontane karakter.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      Sraar (nogmaals) van harte gefeliciteerd met dit jubileum!!!
-      &lt;br/&gt;
-      Bestuur en leden van de veteranen.
-      &lt;br/&gt;
-      &lt;br/&gt;
-      &lt;img src='Fotoalbum/Sraar_Simons_25jaarlid.jpg'/&gt;
+      &lt;p&gt;
+        Tijdens de algemene jaarvergadering van de IVO veteranen op 18 januari 2014 is Sraar Simons door onze voorzitter gehuldigd voor zijn 25-jarig lidmaatschap.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Sraar heeft tot juni 2006 actief gespeeld. Na die tijd is hij lid van de veteranen gebleven en bezoekt hij af en toe een wedstrijd. Sraar kennen we vooral om zijn gulle lach en spontane karakter.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Sraar (nogmaals) van harte gefeliciteerd met dit jubileum!!!
+        &lt;br/&gt;
+        Bestuur en leden van de veteranen.
+        &lt;br/&gt;
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/Sraar_Simons_25jaarlid.jpg' class='img-inline-alignment' /&gt;
       &lt;br/&gt;
     </Tekst>
   </Nieuw>
 
   <Nieuw titel="20 oktober 2013 - Veteranen helpen Gambia" nieuw="0">
     <Tekst>
-      Hoe de veteranen, en in het bijzonder Henk, Gambia helpen.
-      &lt;br/&gt;
-      &lt;br/&gt;
-	  &lt;img src='Fotoalbum/Gambia_1.jpg'/&gt; 
-      &lt;br/&gt;
-      Henk als bouwvakker.
-      &lt;br/&gt;
-      &lt;br/&gt;
-	  &lt;img src='Fotoalbum/Gambia_2.jpg'/&gt; 
-      &lt;br/&gt;
-      Henk als trainer (wel zonder bal!).
-      &lt;br/&gt;
+      &lt;p&gt;
+        Hoe de veteranen, en in het bijzonder Henk, Gambia helpen.
+      &lt;/p&gt;
+
+      &lt;img src='Fotoalbum/Gambia_1.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Henk als bouwvakker.
+      &lt;/p&gt;
+  
+      &lt;img src='Fotoalbum/Gambia_2.jpg' class='img-inline-alignment' /&gt;
+
+      &lt;p&gt;
+        Henk als trainer (wel zonder bal!).
+      &lt;/p&gt;
     </Tekst>
   </Nieuw>
   
@@ -1081,7 +1117,7 @@
 
   <Nieuw titel="10 juni 2013 - IVO - Ald VVV" nieuw="0">
     <Tekst>
-      &lt;img src='Images/IVOAldVVV.jpg'/&gt; 
+      &lt;img src='Images/IVOAldVVV.jpg' class='img-inline-alignment' /&gt; 
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

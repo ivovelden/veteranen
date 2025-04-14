@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="7 april 2025 - Verslag SV America - IVO" nieuw="1">
+  <Nieuw titel="14 april 2025 - Verslag Sporting ST - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250412'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="7 april 2025 - Verslag SV America - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250405'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

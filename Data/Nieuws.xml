@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="12 mei 2025 - Verslag IVO - Hegelsom" nieuw="1">
+  <Nieuw titel="20 mei 2025 - Verslag HBSV - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250517'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="12 mei 2025 - Verslag IVO - Hegelsom" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250510'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

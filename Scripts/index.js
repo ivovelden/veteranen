@@ -11,8 +11,8 @@ window.onload = function()
         case "programma":
             ShowInformation(1, 'programma');
             break;    
-        case "programmawandelvoetbal":
-            ShowInformation(1, 'programmawandelvoetbal');
+        case "programmaaltveteranen":
+            ShowInformation(1, 'programmaaltveteranen');
             break;
         case "wedstrijdverslagen":
             ShowInformation(1, 'wedstrijdverslagen');

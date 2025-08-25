@@ -1,27 +1,41 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2025" doc="IVO-Veteranen Voorjaar 2025.pdf">
-    <Wedstrijd datum="2025-2-15"  marquee="1" afgelast="0"  wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="1 - 4"   verslag="1" />
-    <Wedstrijd datum="2025-3-8"   marquee="1" afgelast="0"  wedstrijd="Belfeldia - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag="6 - 2"   verslag="1" />
-    <Wedstrijd datum="2025-3-15"  marquee="0" afgelast="1"  wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2025-3-15"  marquee="1" afgelast="0"  wedstrijd="Ysselsteyn - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag="1 - 3"   verslag="1" />
-    <Wedstrijd datum="2025-3-22"  marquee="0" afgelast="1"  wedstrijd="Venlosche Boys - IVO"        aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2025-3-22"  marquee="1" afgelast="0"  wedstrijd="S.V. Lierop - IVO"           aanvang="16:45"   vertrek="15:45"   uitslag="3 - 2"   verslag="1" />
-    <Wedstrijd datum="2025-4-5"   marquee="1" afgelast="0"  wedstrijd="America - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="0 - 1"   verslag="1" />
-    <Wedstrijd datum="2025-4-12"  marquee="0" afgelast="1"  wedstrijd="IVO - Sparta'18"             aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2025-4-12"  marquee="1" afgelast="0"  wedstrijd="Sporting ST - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag="3 - 5"   verslag="1" />
-    <Wedstrijd datum="2025-5-3"   marquee="1" afgelast="0"  wedstrijd="MVC'19 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag="3 - 8"   verslag="1" />
-    <Wedstrijd datum="2025-5-10"  marquee="0" afgelast="1"  wedstrijd="IVO - Blerick"               aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2025-5-10"  marquee="1" afgelast="0"  wedstrijd="IVO - Hegelsom"              aanvang="17:00"                     uitslag="4 - 2"   verslag="1" />
-    <Wedstrijd datum="2025-5-17"  marquee="1" afgelast="0"  wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag="6 - 2"   verslag="1" />
-    <Wedstrijd datum="2025-5-24"  marquee="1" afgelast="0"  wedstrijd="Baarlo - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag="2 - 3"   verslag="1" />
-    <Wedstrijd datum="2025-5-31"  marquee="1" afgelast="0"  wedstrijd="VVV'03 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag="2 - 0"   verslag="1" />
-    <Wedstrijd datum="2025-6-14"  marquee="1" afgelast="0"  wedstrijd="SV United - IVO"             aanvang="17:00"   vertrek="16:00"   uitslag="Gest."   verslag="1" />
+  <Wedstrijden tekst="Najaar 2025" doc="IVO-Veteranen Najaar 2025.pdf">
+    <Wedstrijd datum="2025-9-6"   marquee="1" afgelast="0"  wedstrijd="S.V. Venray - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-9-13"  marquee="1" afgelast="0"  wedstrijd="IVO - SSS'18"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-9-20"  marquee="1" afgelast="0"  wedstrijd="America - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-9-27"  marquee="1" afgelast="0"  wedstrijd="IVO - FCV"                   aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-10-4"  marquee="1" afgelast="0"  wedstrijd="Belfeldia - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-10-25" marquee="1" afgelast="0"  wedstrijd="IVO - HBSV"                  aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-11-1"  marquee="1" afgelast="0"  wedstrijd="MVC'19 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-11-8"  marquee="1" afgelast="0"  wedstrijd="IVO - Blerick"               aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-11-15" marquee="1" afgelast="0"  wedstrijd="IVO - VVV'03"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-11-22" marquee="1" afgelast="0"  wedstrijd="Baarlo - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2025-12-6"  marquee="1" afgelast="0"  wedstrijd="IVO - RKSVN"                 aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
-  <Wedstrijden tekst="Najaar 2025" >
-    <Wedstrijd datum="2025-8-23"   wedstrijd="Veldes Penantie-toernooi" />
+  <Wedstrijden tekst="Voorjaar 2026" >
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2025" doc="IVO-Veteranen Voorjaar 2025.pdf">
+    <Wedstrijd datum="2025-2-15"  wedstrijd="RKSVN - IVO"                 uitslag="1 - 4"   verslag="1" />
+    <Wedstrijd datum="2025-3-8"   wedstrijd="Belfeldia - IVO"             uitslag="6 - 2"   verslag="1" />
+    <Wedstrijd datum="2025-3-15"  wedstrijd="IVO - FCV"                   uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2025-3-15"  wedstrijd="Ysselsteyn - IVO"            uitslag="1 - 3"   verslag="1" />
+    <Wedstrijd datum="2025-3-22"  wedstrijd="Venlosche Boys - IVO"        uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2025-3-22"  wedstrijd="S.V. Lierop - IVO"           uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2025-4-5"   wedstrijd="America - IVO"               uitslag="0 - 1"   verslag="1" />
+    <Wedstrijd datum="2025-4-12"  wedstrijd="IVO - Sparta'18"             uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2025-4-12"  wedstrijd="Sporting ST - IVO"           uitslag="3 - 5"   verslag="1" />
+    <Wedstrijd datum="2025-5-3"   wedstrijd="MVC'19 - IVO"                uitslag="3 - 8"   verslag="1" />
+    <Wedstrijd datum="2025-5-10"  wedstrijd="IVO - Blerick"               uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2025-5-10"  wedstrijd="IVO - Hegelsom"              uitslag="4 - 2"   verslag="1" />
+    <Wedstrijd datum="2025-5-17"  wedstrijd="HBSV - IVO"                  uitslag="6 - 2"   verslag="1" />
+    <Wedstrijd datum="2025-5-24"  wedstrijd="Baarlo - IVO"                uitslag="2 - 3"   verslag="1" />
+    <Wedstrijd datum="2025-5-31"  wedstrijd="VVV'03 - IVO"                uitslag="2 - 0"   verslag="1" />
+    <Wedstrijd datum="2025-6-14"  wedstrijd="SV United - IVO"             uitslag="Gest."   verslag="1" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

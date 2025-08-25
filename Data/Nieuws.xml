@@ -14,76 +14,6 @@
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="26 mei 2025 - Verslag Baarlo - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250524'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="20 mei 2025 - Verslag HBSV - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250517'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="12 mei 2025 - Verslag IVO - Hegelsom" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250510'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="9 mei 2025 - Verslag MVC'19 - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250503'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="14 april 2025 - Verslag Sporting ST - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250412'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="7 april 2025 - Verslag SV America - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250405'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="24 maart 2025 - Verslag S.V. Lierop - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250322'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="17 maart 2025 - Verslag Ysselsteyn - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250315'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="10 maart 2025 - Verslag Belfeldia - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250308'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="19 februari 2025 - Verslag RKSVN - IVO" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20250215'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
   <Nieuw titel="23 januari 2025 - Verslag ALV IVO Veteranen van 18 januari" nieuw="0">
     <Tekst>
       &lt;p&gt;
@@ -139,27 +69,6 @@
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Jaaroverzichten." href="" target="" onclick="GotoJaaroverzichten(); return false" &gt;Jaaroverzichten&lt;/a&gt; of
       klik op de link &lt;a class=&quot;ablue&quot; title=&quot;&quot; href=&quot;Files/Jaaroverzichten/IVOveteranen2024.pdf&quot; target=&quot;_blank&quot;&gt;IVO Veteranen Jaaroverzicht 2024&lt;/a&gt; om het jaaroverzicht te openen.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="16 december 2024 - Verslag IVO - America" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241214'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="9 december 2024 - Verslag IVO - SV United" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241207'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
-      &lt;br/&gt;
-    </Tekst>
-  </Nieuw>
-
-  <Nieuw titel="2 december 2024 - Verslag IVO - VVV'03" nieuw="0">
-    <Tekst>
-      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20241130'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
     </Tekst>
   </Nieuw>

@@ -1,17 +1,21 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Najaar 2025" doc="IVO-Alt-Veteranen Najaar 2025.pdf">
-    <Wedstrijd datum="2025-8-23"  marquee="0" afgelast="0"  wedstrijd="Veldes Penantie-toernooi"  aanvang="12:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2025-9-13"  marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2025-10-4"  marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2025-10-25" marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2025-11-1"  marquee="0" afgelast="0"  wedstrijd="IVO - Venlosche Boys"      aanvang="16:00"                     uitslag="3 - 7"	verslag="0" />
-    <Wedstrijd datum="2025-11-15" marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
-    <Wedstrijd datum="2025-12-6"  marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
+  <Wedstrijden tekst="Najaar 2026" doc="IVO-Alt-Veteranen Najaar 2026.pdf">
+    <Wedstrijd datum="2026-3-7"   marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-3-28"  marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-4-18"  marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-5-9"   marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-5-30"  marquee="0" afgelast="0"  wedstrijd="Onderling partijtje"       aanvang="16:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
-  <Wedstrijden tekst="Voorjaar 2026" >
+  <Wedstrijden tekst="Najaar 2026" >
+    <Wedstrijd datum="2026-8-29"  wedstrijd="Veldes Penantie-toernooi" />
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Najaar 2025">
+    <Wedstrijd datum="2025-11-1"  wedstrijd="IVO - Venlosche Boys"      uitslag="3 - 7"   verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

@@ -1,6 +1,6 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2026" doc="IVO-Veteranen voorjaar 2026.pdf">
+  <Wedstrijden tekst="Voorjaar 2026" doc="IVO-Veteranen Voorjaar 2026.pdf">
     <Wedstrijd datum="2026-2-28"  marquee="1" afgelast="0"  wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="" />
     <Wedstrijd datum="2026-3-7"   marquee="1" afgelast="0"  wedstrijd="IVO - Venray"                aanvang="17:00"                     uitslag=""        verslag="" />
     <Wedstrijd datum="2026-3-14"  marquee="1" afgelast="0"  wedstrijd="SSS'18 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="" />

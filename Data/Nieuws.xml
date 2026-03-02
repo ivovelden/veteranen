@@ -1,7 +1,13 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="2 maart 2026 - Verslag RKSVN - IVO" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20260228'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
 
-  <Nieuw titel="9 februari 2026 - Verslag ALV IVO Veteranen van 31 januari" nieuw="1">
+  <Nieuw titel="9 februari 2026 - Verslag ALV IVO Veteranen van 31 januari" nieuw="0">
     <Tekst>
       &lt;p&gt;
       &lt;b&gt;Algemene Leden Vergadering IVO Veteranen snel en goed verlopen.&lt;/b&gt;

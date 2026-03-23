@@ -34,6 +34,34 @@
         ga('send', 'pageview');
 
     </script>
+    
+    <style>
+        .marquee-container {
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            height: 65px;
+        }
+
+        .marquee-text {
+            position: absolute;
+            white-space: nowrap;
+            color: #FF0000;
+            font-size: 48px;
+            font-family: Arial;
+            animation: scroll-left 10s linear infinite;
+        }
+
+        @keyframes scroll-left {
+            from {
+                transform: translateX(100%);
+            }
+
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
 
 </head>
 <body text="#FF0000" 
@@ -56,7 +84,7 @@
                                 <td id="tdTime" align="right" style="padding-right: 25px; color: White; font-size: 20px; border-bottom: 0px; border-left: 0px; "></td>
                                 <td rowspan="2"><img src="Images/RKSVIVO.jpg" width="126" height="150" alt="RKSV IVO" /></td>
                             </tr>
-                            <tr >
+                            <!--<tr>
                                 <td colspan="2" align="center" width="100%" bgcolor="#303030" height="110px">
                                     <font color="#FF0000" size="7" face="arial">
                                         <marquee id="mrqIVOVeteranen" align="middle" height="65" scrollamount="10"
@@ -64,6 +92,13 @@
                                             IVO Veteranen
                                         </marquee>
                                     </font>
+                                </td>
+                            </tr>-->
+                            <tr>
+                                <td colspan="2" align="center" width="100%" bgcolor="#303030" height="110px">
+                                    <div class="marquee-container">
+                                        <div id="mrqIVOVeteranen" class="marquee-text">IVO Veteranen</div>
+                                    </div>
                                 </td>
                             </tr>
                         </thead> 

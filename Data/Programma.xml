@@ -1,24 +1,39 @@
 ﻿<Programma>
 
-  <Wedstrijden tekst="Voorjaar 2026" doc="IVO-Veteranen Voorjaar 2026.pdf">
-    <Wedstrijd datum="2026-2-28"  marquee="1" afgelast="0"  wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag="2 - 0"   verslag="1" />
-    <Wedstrijd datum="2026-3-7"   marquee="1" afgelast="0"  wedstrijd="IVO - S.V. Venray"           aanvang="17:00"                     uitslag="2 - 2"   verslag="1" />
-    <Wedstrijd datum="2026-3-14"  marquee="1" afgelast="0"  wedstrijd="SSS'18 - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2026-3-21"  marquee="1" afgelast="0"  wedstrijd="IVO - America"               aanvang="17:00"                     uitslag="1 - 1"   verslag="1" />
-    <Wedstrijd datum="2026-4-4"   marquee="1" afgelast="0"  wedstrijd="FCV - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag="3 - 4"   verslag="1" />
-    <Wedstrijd datum="2026-4-11"  marquee="1" afgelast="0"  wedstrijd="IVO - Belfeldia"             aanvang="17:00"                     uitslag="2 - 2"   verslag="1" />
-    <Wedstrijd datum="2026-4-18"  marquee="1" afgelast="0"  wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag="1 - 2"   verslag="1" />
-    <Wedstrijd datum="2026-5-2"   marquee="1" afgelast="0"  wedstrijd="IVO - MVC'19"                aanvang="17:00"                     uitslag="Gest."   verslag="1" />
-    <Wedstrijd datum="2026-5-9"   marquee="1" afgelast="0"  wedstrijd="Blerick - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag="3 - 2"   verslag="1" />
-    <Wedstrijd datum="2026-5-23"  marquee="1" afgelast="0"  wedstrijd="VVV'03 - IVO"                aanvang="16:00"   vertrek="15:00"   uitslag="2 - 5"   verslag="1" />
-    <Wedstrijd datum="2026-5-30"  marquee="0" afgelast="1"  wedstrijd="IVO - Baarlo"                aanvang="17:00"                     uitslag="Afg."    verslag="0" />
-    <Wedstrijd datum="2026-5-30"  marquee="1" afgelast="0"  wedstrijd="Sporting ST - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag="0 - 3"   verslag="1" />
-    <Wedstrijd datum="2026-6-6"   marquee="1" afgelast="0"  wedstrijd="Sporting ST - IVO"           aanvang="17:00"   vertrek="16:00"   uitslag="2 - 1"   verslag="1" />
+  <Wedstrijden tekst="Najaar 2026" doc="IVO-Veteranen Najaar 2026.pdf">
+    <Wedstrijd datum="2026-8-29"  wedstrijd="Veldes Penantie-toernooi" />
+    <Wedstrijd datum="2026-9-12"  marquee="1" afgelast="0"  wedstrijd="SV Blerick - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-9-17"  marquee="1" afgelast="0"  wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-9-26"  marquee="1" afgelast="0"  wedstrijd="IVO - VVV'03"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-10-3"  marquee="1" afgelast="0"  wedstrijd="Meterik - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-10-10" marquee="1" afgelast="0"  wedstrijd="IVO - Sporting ST"           aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-10-24" marquee="1" afgelast="0"  wedstrijd="IVO - MVC'19"                aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-10-31" marquee="1" afgelast="0"  wedstrijd="Baarlo - IVO"                aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-11-7"  marquee="1" afgelast="0"  wedstrijd="IVO - America"               aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-11-14" marquee="1" afgelast="0"  wedstrijd="FCV - IVO"                   aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-11-21" marquee="1" afgelast="0"  wedstrijd="IVO - Hegelsom"              aanvang="17:00"                     uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-11-28" marquee="1" afgelast="0"  wedstrijd="Belfeldia - IVO"             aanvang="16:00"   vertrek="15:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-12-5"  marquee="1" afgelast="0"  wedstrijd="RKSVN - IVO"                 aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 
-  <Wedstrijden tekst="Najaar 2026" >
-    <Wedstrijd datum="2026-8-29"  wedstrijd="Veldes Penantie-toernooi" />
+  <Wedstrijden tekst="Voorjaar 2027" >
+    <Wedstrijd datum="" />
+  </Wedstrijden>
+
+  <Wedstrijden tekst="Voorjaar 2026">
+    <Wedstrijd datum="2026-2-28"  wedstrijd="RKSVN - IVO"                 uitslag="2 - 0"   verslag="1" />
+    <Wedstrijd datum="2026-3-7"   wedstrijd="IVO - S.V. Venray"           uitslag="2 - 2"   verslag="1" />
+    <Wedstrijd datum="2026-3-14"  wedstrijd="SSS'18 - IVO"                uitslag="Afg."    verslag="0" />
+    <Wedstrijd datum="2026-3-21"  wedstrijd="IVO - America"               uitslag="1 - 1"   verslag="1" />
+    <Wedstrijd datum="2026-4-4"   wedstrijd="FCV - IVO"                   uitslag="3 - 4"   verslag="1" />
+    <Wedstrijd datum="2026-4-11"  wedstrijd="IVO - Belfeldia"             uitslag="2 - 2"   verslag="1" />
+    <Wedstrijd datum="2026-4-18"  wedstrijd="HBSV - IVO"                  uitslag="1 - 2"   verslag="1" />
+    <Wedstrijd datum="2026-5-2"   wedstrijd="IVO - MVC'19"                uitslag="Gest."   verslag="1" />
+    <Wedstrijd datum="2026-5-9"   wedstrijd="Blerick - IVO"               uitslag="3 - 2"   verslag="1" />
+    <Wedstrijd datum="2026-5-23"  wedstrijd="VVV'03 - IVO"                uitslag="2 - 5"   verslag="1" />
+    <Wedstrijd datum="2026-5-30"  wedstrijd="Sporting ST - IVO"           uitslag="0 - 3"   verslag="1" />
+    <Wedstrijd datum="2026-6-6"   wedstrijd="Sporting ST - IVO"           uitslag="2 - 1"   verslag="1" />
     <Wedstrijd datum="" />
   </Wedstrijden>
 

@@ -2,7 +2,7 @@
 
   <Wedstrijden tekst="Najaar 2026" doc="IVO-Veteranen Najaar 2026.pdf">
     <Wedstrijd datum="2026-8-29"  wedstrijd="Veldes Penantie-toernooi" />
-    <Wedstrijd datum="2026-9-12"  marquee="1" afgelast="0"  wedstrijd="SV Blerick - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
+    <Wedstrijd datum="2026-9-12"  marquee="1" afgelast="0"  wedstrijd="SV Blerick - IVO"            aanvang="17:00"   vertrek="16:00"   uitslag="4 - 1"   verslag="1" />
     <Wedstrijd datum="2026-9-19"  marquee="1" afgelast="0"  wedstrijd="HBSV - IVO"                  aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />
     <Wedstrijd datum="2026-9-26"  marquee="1" afgelast="0"  wedstrijd="IVO - VVV'03"                aanvang="17:00"                     uitslag=""        verslag="0" />
     <Wedstrijd datum="2026-10-3"  marquee="1" afgelast="0"  wedstrijd="Meterik - IVO"               aanvang="17:00"   vertrek="16:00"   uitslag=""        verslag="0" />

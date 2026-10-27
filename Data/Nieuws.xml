@@ -1,6 +1,13 @@
 ﻿<Nieuws>
 
-  <Nieuw titel="12 oktober 2026 - Verslag IVO - VICI 04" nieuw="1">
+  <Nieuw titel="26 oktober 2026 - Verslag IVO - MVC'19" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20261024'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
+  <Nieuw titel="12 oktober 2026 - Verslag IVO - VICI 04" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20261010'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;

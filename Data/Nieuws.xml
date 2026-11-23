@@ -1,5 +1,12 @@
 ﻿<Nieuws>
 
+  <Nieuw titel="23 november 2026 - Verslag IVO - Hegelsom" nieuw="1">
+    <Tekst>
+      Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20261121'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
+      &lt;br/&gt;
+    </Tekst>
+  </Nieuw>
+
   <Nieuw titel="18 november 2026 - In Memoriam: Thei de Wilde" nieuw="1">
     <Tekst>
       &lt;p&gt;
@@ -31,7 +38,7 @@
     </Tekst>
   </Nieuw>
 
-  <Nieuw titel="16 november 2026 - Verslag FCV - IVO" nieuw="1">
+  <Nieuw titel="16 november 2026 - Verslag FCV - IVO" nieuw="0">
     <Tekst>
       Ga naar &lt;a class="ablue" title="Ga naar Wedstrijdverslagen." href="" target="" onclick="GotoWedstrijdverslagen('20261114'); return false" &gt;Wedstrijdverslagen&lt;/a&gt;.
       &lt;br/&gt;
